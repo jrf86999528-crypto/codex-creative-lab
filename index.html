@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Painterverse | 画家星图</title>
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.164.1/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.164.1/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="./script.js"></script>
+  </head>
+  <body>
+    <div class="space-noise"></div>
+    <div class="space-vignette"></div>
+    <div class="space-stars"></div>
+
+    <main class="scene-shell">
+      <div id="sceneCanvas" class="scene-canvas" aria-label="3D painter constellation"></div>
+
+      <header class="title-orbit">
+        <div class="title-pill">
+          <p class="eyebrow">PAINTERVERSE</p>
+          <h1>画家星图</h1>
+
+          <div id="cultureFilter" class="culture-filter" aria-label="文化脉络切换">
+            <button class="culture-chip active" type="button" data-culture="all">全部</button>
+            <button class="culture-chip" type="button" data-culture="east">东方</button>
+            <button class="culture-chip" type="button" data-culture="west">西方</button>
+          </div>
+        </div>
+
+        <div id="utilityDock" class="utility-dock">
+          <label class="field field-search">
+            <span>检索画家</span>
+            <input id="searchInput" type="search" placeholder="输入中文名、英文名或流派" />
+          </label>
+
+          <label class="field field-select">
+            <span>时间断层</span>
+            <select id="eraFilter"></select>
+          </label>
+
+          <div class="utility-actions">
+            <button
+              id="mobileUtilityToggleButton"
+              class="ghost-button utility-toggle-button"
+              type="button"
+              aria-expanded="false"
+            >
+              展开检索与时间
+            </button>
+            <button id="relationCycleButton" class="ghost-button" type="button">关系：全部</button>
+            <button id="autopilotButton" class="ghost-button active" type="button">巡航开启</button>
+            <button id="randomJumpButton" class="ghost-button" type="button">随机跃迁</button>
+            <button id="resetViewButton" class="ghost-button" type="button">重置视角</button>
+          </div>
+        </div>
+      </header>
+
+      <aside class="left-rail">
+        <div class="float-card stats-card">
+          <div class="card-head compact">
+            <p class="eyebrow">CONSTELLATION BRIEF</p>
+            <span id="legendSummary">4 种关系模式</span>
+          </div>
+          <div id="statsGrid" class="stats-grid compact"></div>
+        </div>
+
+        <div class="float-card note-card">
+          <div class="card-head compact">
+            <p class="eyebrow">CURATOR NOTE</p>
+          </div>
+          <p id="selectedCuratorNote">从左到右是时间，从前到后是观念深度。先点击一颗星，再去读它的邻近轨道。</p>
+          <div id="legendList" class="legend-list compact"></div>
+        </div>
+      </aside>
+
+      <section class="focus-spotlight">
+        <button id="closeFocusCardButton" class="focus-card-close" type="button" aria-label="收起画家信息">收起</button>
+        <div class="focus-kicker">
+          <span id="sceneStatus">正在折叠时间与风格的坐标…</span>
+          <strong id="visibleCounter">0 / 0 星点可见</strong>
+        </div>
+
+        <h2 id="focusHeroName">画家星图</h2>
+        <p id="focusHeroMeta">拖拽、缩放、点击任意星点，穿越一整张从古至今的画家关系网。</p>
+
+        <div class="focus-chips">
+          <div id="hoverHint" class="hud-pill">拖拽旋转 · 滚轮缩放 · 点击星点展开作品</div>
+          <div id="activeModeChip" class="hud-pill accent">关系模式：全部</div>
+        </div>
+      </section>
+
+      <aside class="right-dock">
+        <div class="detail-card">
+          <div class="card-head">
+            <div>
+              <p class="eyebrow">PAINTER DOSSIER</p>
+              <h2 id="detailName">点击任意星点</h2>
+              <p id="detailMeta" class="muted-copy">这里会显示所选画家的时代、地域、风格标签，以及与其他星点之间的关系说明。</p>
+            </div>
+            <button id="toggleDockButton" class="dock-toggle" type="button" aria-expanded="true">收起</button>
+          </div>
+
+          <div id="detailTags" class="detail-tags"></div>
+          <p id="detailBio" class="detail-bio">选择之后，右侧会自动转成一份微型策展卡，同时底部作品舱会载入代表作画面。</p>
+
+          <div class="detail-actions">
+            <button id="openGalleryButton" class="action-button" type="button" disabled>展开作品舱</button>
+            <button id="focusNodeButton" class="ghost-button" type="button" disabled>聚焦这颗星</button>
+          </div>
+
+          <section class="detail-section">
+            <div class="section-head">
+              <h3>关系连线</h3>
+              <span id="relationCountLabel">0 条</span>
+            </div>
+            <div id="relationList" class="relation-list empty-state">还没有锁定对象，先去星图里点亮一位画家。</div>
+          </section>
+
+          <section class="detail-section">
+            <div class="section-head">
+              <h3>作品预览</h3>
+              <span id="workCountLabel">0 幅</span>
+            </div>
+            <div id="worksPreview" class="works-preview empty-state">作品舱会在这里提前显示标题和年份。</div>
+          </section>
+        </div>
+      </aside>
+
+      <footer class="bottom-dock">
+        <div class="float-card era-dock">
+          <div class="card-head compact">
+            <p class="eyebrow">ERA TRACK</p>
+          </div>
+          <div id="eraTimeline" class="era-timeline"></div>
+        </div>
+
+        <div class="float-card chronicle-dock">
+          <div class="card-head compact metrics-inline">
+            <p class="eyebrow">UNIVERSE PULSE</p>
+            <div class="metric-inline-group">
+              <span>跨度 <strong id="spanStat">--</strong></span>
+              <span>核心 <strong id="hubStat">--</strong></span>
+              <span>范围 <strong id="focusStat">--</strong></span>
+              <span>仍在发光 <strong id="livingStat">--</strong></span>
+            </div>
+          </div>
+          <div id="chronicleStrip" class="chronicle-strip"></div>
+        </div>
+      </footer>
+    </main>
+
+    <section id="artworkDrawer" class="artwork-drawer hidden" aria-label="作品舱">
+      <div class="drawer-head">
+        <div>
+          <p class="eyebrow">WORK CAPSULE</p>
+          <h2 id="drawerTitle">作品舱</h2>
+          <p id="drawerSubtitle" class="muted-copy">点亮任意星点，作品会在这里铺开。</p>
+        </div>
+        <button id="closeDrawerButton" class="ghost-button" type="button">收起</button>
+      </div>
+      <div id="artworkGrid" class="artwork-grid"></div>
+    </section>
+
+    <div id="artworkModal" class="artwork-modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalArtworkTitle">
+      <div class="artwork-modal-backdrop" data-close-modal="true"></div>
+      <div class="artwork-modal-panel">
+        <button id="closeModalButton" class="modal-close" type="button" aria-label="关闭作品视窗">×</button>
+        <div class="artwork-modal-media">
+          <img id="modalArtworkImage" alt="" />
+        </div>
+        <div class="artwork-modal-copy">
+          <p class="eyebrow">WORK DETAIL</p>
+          <h2 id="modalArtworkTitle">作品标题</h2>
+          <p id="modalArtworkMeta" class="modal-meta"></p>
+          <p id="modalArtworkNote" class="muted-copy"></p>
+          <a id="modalArtworkLink" class="modal-link" href="#" target="_blank" rel="noreferrer">查看图像来源</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

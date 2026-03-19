@@ -1,0 +1,5477 @@
+[
+  {
+    "id": "gu-kaizhi",
+    "name": "顾恺之",
+    "latin": "Gu Kaizhi",
+    "wikiTitle": "Gu Kaizhi",
+    "birth": 344,
+    "death": 406,
+    "eraId": "ancient",
+    "region": "中国·东晋",
+    "movement": "人物长卷 / 早期文人绘画",
+    "position": [
+      -210,
+      72,
+      -126
+    ],
+    "blurb": "他用游丝般的线条，让人物、叙事与心理节奏在一张长卷里同时发生，是东方绘画宇宙里极早的起点。",
+    "curatorNote": "如果把这张星图看作一条河，顾恺之是最早让河水带着人物情绪一起流动的人。",
+    "aliases": [
+      "东晋",
+      "人物画",
+      "长卷",
+      "Admonitions Scroll"
+    ],
+    "works": [
+      {
+        "title": "女史箴图",
+        "pageTitle": "Admonitions Scroll",
+        "year": "4-5 世纪摹本",
+        "museum": "大英博物馆",
+        "note": "把道德叙事变成流动的镜头语言，线条像呼吸一样轻。"
+      },
+      {
+        "title": "洛神赋图",
+        "pageTitle": "Nymph of the Luo River",
+        "year": "东晋题材",
+        "museum": "北京故宫博物院藏摹本",
+        "note": "人物与山水被排成一段连续运动的诗。"
+      },
+      {
+        "title": "列女仁智图",
+        "pageTitle": "Wise and Benevolent Women",
+        "year": "东晋题材",
+        "museum": "故宫博物院",
+        "note": "女性德行故事被处理成安静而复杂的目光系统。"
+      }
+    ]
+  },
+  {
+    "id": "fan-kuan",
+    "name": "范宽",
+    "latin": "Fan Kuan",
+    "wikiTitle": "Fan Kuan",
+    "birth": 950,
+    "death": 1032,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "巨碑山水",
+    "position": [
+      -168,
+      112,
+      34
+    ],
+    "blurb": "他的山不是景，而是秩序本身。人在画里只是一个尺度单位，宇宙才是真正的主角。",
+    "curatorNote": "范宽把山水画从观看对象，推成一种足以吞没人类的空间结构。",
+    "aliases": [
+      "北宋",
+      "山水",
+      "Travelers among Mountains and Streams"
+    ],
+    "works": [
+      {
+        "title": "溪山行旅图",
+        "pageTitle": "Travelers among Mountains and Streams",
+        "year": "约 1000 年",
+        "museum": "台北故宫博物院",
+        "note": "近乎垂直拔起的山体，把观看变成仰望。"
+      },
+      {
+        "title": "雪景寒林图",
+        "pageTitle": "Snow Scene",
+        "year": "传为北宋",
+        "museum": "待补馆藏",
+        "note": "寒林与雪气把距离感拉成一层又一层气候。"
+      }
+    ]
+  },
+  {
+    "id": "guo-xi",
+    "name": "郭熙",
+    "latin": "Guo Xi",
+    "wikiTitle": "Guo Xi",
+    "birth": 1000,
+    "death": 1090,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "三远法 / 宫廷山水",
+    "position": [
+      -138,
+      58,
+      126
+    ],
+    "blurb": "他把山水拆成高远、深远、平远三种观看法，像在给空间写一套新的语法。",
+    "curatorNote": "郭熙的价值，不只是画山，而是重新定义观者如何在画中移动。",
+    "aliases": [
+      "Early Spring",
+      "北宋",
+      "三远法",
+      "山水"
+    ],
+    "works": [
+      {
+        "title": "早春图",
+        "pageTitle": "Early Spring (painting)",
+        "year": "1072 年",
+        "museum": "台北故宫博物院",
+        "note": "春气被绘成一种刚刚苏醒的湿润空气。"
+      },
+      {
+        "title": "树色平远图",
+        "pageTitle": "Old Trees, Level Distance",
+        "year": "北宋",
+        "museum": "大都会艺术博物馆",
+        "note": "远景不靠透视，而靠气脉与层次递进。"
+      }
+    ]
+  },
+  {
+    "id": "leonardo",
+    "name": "列奥纳多·达·芬奇",
+    "latin": "Leonardo da Vinci",
+    "wikiTitle": "Leonardo da Vinci",
+    "birth": 1452,
+    "death": 1519,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "高文艺复兴 / 科学观察",
+    "position": [
+      -120,
+      -72,
+      -96
+    ],
+    "blurb": "达·芬奇把绘画、解剖、机械和光学塞进同一个头脑，画面因此有了科学的厚度。",
+    "curatorNote": "他让绘画不只解释肉眼，而是解释世界是如何被看见的。",
+    "aliases": [
+      "Mona Lisa",
+      "The Last Supper",
+      "文艺复兴",
+      "解剖"
+    ],
+    "works": [
+      {
+        "title": "蒙娜丽莎",
+        "pageTitle": "Mona Lisa",
+        "year": "约 1503-1506 年",
+        "museum": "卢浮宫",
+        "note": "暧昧的表情和烟雾般的过渡，改写了肖像画的心理密度。"
+      },
+      {
+        "title": "最后的晚餐",
+        "pageTitle": "The Last Supper (Leonardo)",
+        "year": "1495-1498 年",
+        "museum": "圣玛利亚感恩修道院",
+        "note": "透视、戏剧与瞬间情绪，被压缩到一张长桌上。"
+      },
+      {
+        "title": "维特鲁威人",
+        "pageTitle": "Vitruvian Man",
+        "year": "约 1490 年",
+        "museum": "威尼斯学院美术馆",
+        "note": "人体与几何重新建立契约，成为文艺复兴的视觉宣言。"
+      }
+    ]
+  },
+  {
+    "id": "michelangelo",
+    "name": "米开朗基罗",
+    "latin": "Michelangelo",
+    "wikiTitle": "Michelangelo",
+    "birth": 1475,
+    "death": 1564,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "高文艺复兴 / 巨构人体",
+    "position": [
+      -94,
+      -18,
+      -154
+    ],
+    "blurb": "他的身体像被岩石雕出来，哪怕出现在壁画里，也始终带着雕塑般的重量。",
+    "curatorNote": "米开朗基罗把人体推到近乎宇宙尺度，使身体本身成为一种建筑。",
+    "aliases": [
+      "The Creation of Adam",
+      "David",
+      "西斯廷礼拜堂"
+    ],
+    "works": [
+      {
+        "title": "创造亚当",
+        "pageTitle": "The Creation of Adam",
+        "year": "约 1512 年",
+        "museum": "西斯廷礼拜堂",
+        "note": "一个手指的距离，撑开了整部西方艺术史最著名的张力。"
+      },
+      {
+        "title": "大卫",
+        "pageTitle": "David (Michelangelo)",
+        "year": "1501-1504 年",
+        "museum": "佛罗伦萨学院美术馆",
+        "note": "理想人体被雕成一种临战前的心理状态。"
+      },
+      {
+        "title": "最后的审判",
+        "pageTitle": "The Last Judgment (Michelangelo)",
+        "year": "1536-1541 年",
+        "museum": "西斯廷礼拜堂",
+        "note": "人体涌成风暴，整面墙都在失重。"
+      }
+    ]
+  },
+  {
+    "id": "raphael",
+    "name": "拉斐尔",
+    "latin": "Raphael",
+    "wikiTitle": "Raphael",
+    "birth": 1483,
+    "death": 1520,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "高文艺复兴 / 和谐构图",
+    "position": [
+      -70,
+      54,
+      -68
+    ],
+    "blurb": "他善于把复杂思想整理成清晰、优雅且具有公共性的视觉空间。",
+    "curatorNote": "拉斐尔的天赋，是让观念在构图中看起来像天生就该如此。",
+    "aliases": [
+      "The School of Athens",
+      "Sistine Madonna",
+      "圣母像"
+    ],
+    "works": [
+      {
+        "title": "雅典学院",
+        "pageTitle": "The School of Athens",
+        "year": "1509-1511 年",
+        "museum": "梵蒂冈宫",
+        "note": "思想史被编排成一个完美对称而持续流动的大厅。"
+      },
+      {
+        "title": "西斯廷圣母",
+        "pageTitle": "Sistine Madonna",
+        "year": "1512-1513 年",
+        "museum": "德累斯顿历代大师画廊",
+        "note": "神圣感与亲近感被压缩到一幅几乎悬浮的圣母像里。"
+      },
+      {
+        "title": "基督变容",
+        "pageTitle": "Transfiguration (Raphael)",
+        "year": "1516-1520 年",
+        "museum": "梵蒂冈博物馆",
+        "note": "上下两段场景彼此点燃，像一幅将临界爆发的剧场。"
+      }
+    ]
+  },
+  {
+    "id": "caravaggio",
+    "name": "卡拉瓦乔",
+    "latin": "Caravaggio",
+    "wikiTitle": "Caravaggio",
+    "birth": 1571,
+    "death": 1610,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "巴洛克 / 明暗对照法",
+    "position": [
+      -26,
+      100,
+      -124
+    ],
+    "blurb": "他让光像刀一样切进黑暗，使宗教题材突然拥有街头和现实的温度。",
+    "curatorNote": "卡拉瓦乔把神迹从天上拽到桌边，巴洛克由此变得危险而真实。",
+    "aliases": [
+      "The Calling of St Matthew",
+      "Judith Beheading Holofernes",
+      "明暗对照"
+    ],
+    "works": [
+      {
+        "title": "圣马太蒙召",
+        "pageTitle": "The Calling of St Matthew",
+        "year": "1599-1600 年",
+        "museum": "圣路易吉教堂",
+        "note": "一道斜射光，把凡俗场景直接翻译成神启。"
+      },
+      {
+        "title": "朱迪斯斩首霍洛费尔内斯",
+        "pageTitle": "Judith Beheading Holofernes (Caravaggio)",
+        "year": "约 1599 年",
+        "museum": "罗马国立古代艺术美术馆",
+        "note": "血、布料和面部表情同时进入最戏剧化的临界点。"
+      },
+      {
+        "title": "水果篮",
+        "pageTitle": "Basket of Fruit (Caravaggio)",
+        "year": "约 1599 年",
+        "museum": "安博罗斯美术馆",
+        "note": "静物被画出即将腐败的时间感。"
+      }
+    ]
+  },
+  {
+    "id": "rembrandt",
+    "name": "伦勃朗",
+    "latin": "Rembrandt",
+    "wikiTitle": "Rembrandt",
+    "birth": 1606,
+    "death": 1669,
+    "eraId": "baroque",
+    "region": "荷兰",
+    "movement": "巴洛克 / 光影心理学",
+    "position": [
+      10,
+      22,
+      -172
+    ],
+    "blurb": "他的光从来不只是照亮对象，而是在揭开人物的内心重量。",
+    "curatorNote": "伦勃朗把明暗变成一种心理学，让肖像不再只是面孔。",
+    "aliases": [
+      "The Night Watch",
+      "The Return of the Prodigal Son",
+      "荷兰黄金时代"
+    ],
+    "works": [
+      {
+        "title": "夜巡",
+        "pageTitle": "The Night Watch",
+        "year": "1642 年",
+        "museum": "阿姆斯特丹国立博物馆",
+        "note": "群像被打散成运动中的光影事件。"
+      },
+      {
+        "title": "杜普医生的解剖课",
+        "pageTitle": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+        "year": "1632 年",
+        "museum": "毛里茨之家",
+        "note": "知识与表演在一张解剖台旁相遇。"
+      },
+      {
+        "title": "浪子回头",
+        "pageTitle": "The Return of the Prodigal Son (Rembrandt)",
+        "year": "约 1669 年",
+        "museum": "冬宫博物馆",
+        "note": "光被压得很低，情感却被推得很深。"
+      }
+    ]
+  },
+  {
+    "id": "hokusai",
+    "name": "葛饰北斋",
+    "latin": "Katsushika Hokusai",
+    "wikiTitle": "Hokusai",
+    "birth": 1760,
+    "death": 1849,
+    "eraId": "nineteenth",
+    "region": "日本",
+    "movement": "浮世绘 / 风景版画",
+    "position": [
+      26,
+      -116,
+      18
+    ],
+    "blurb": "北斋用版画把海浪、风和山峰变成可以大规模传播的视觉节奏，改变了西方现代绘画的眼睛。",
+    "curatorNote": "他既属于江户，也属于巴黎。很多现代绘画的敏感度，都从北斋这里获得过一次重新校准。",
+    "aliases": [
+      "The Great Wave off Kanagawa",
+      "浮世绘",
+      "富岳三十六景"
+    ],
+    "works": [
+      {
+        "title": "神奈川冲浪里",
+        "pageTitle": "The Great Wave off Kanagawa",
+        "year": "约 1831 年",
+        "museum": "多馆藏",
+        "note": "浪尖像爪子一样弯下去，富士山被压成远处的一枚钉子。"
+      },
+      {
+        "title": "凯风快晴",
+        "pageTitle": "Fine Wind, Clear Morning",
+        "year": "约 1831 年",
+        "museum": "多馆藏",
+        "note": "一座山在不同天气里拥有不同性格。"
+      },
+      {
+        "title": "甲州石班泽",
+        "pageTitle": "Kajikazawa in Kai Province",
+        "year": "约 1830-1832 年",
+        "museum": "多馆藏",
+        "note": "人物与自然被织进同一条版画曲线。"
+      }
+    ]
+  },
+  {
+    "id": "turner",
+    "name": "透纳",
+    "latin": "J. M. W. Turner",
+    "wikiTitle": "J. M. W. Turner",
+    "birth": 1775,
+    "death": 1851,
+    "eraId": "nineteenth",
+    "region": "英国",
+    "movement": "浪漫主义 / 光色风景",
+    "position": [
+      58,
+      -44,
+      -30
+    ],
+    "blurb": "他不断把对象溶解进气候和光里，直到风景几乎只剩运动的痕迹。",
+    "curatorNote": "透纳是印象派之前那道真正的闪电，很多后来者都是在他的眩光里睁眼。",
+    "aliases": [
+      "The Fighting Temeraire",
+      "Rain, Steam and Speed",
+      "浪漫主义"
+    ],
+    "works": [
+      {
+        "title": "战舰无畏号的最后航程",
+        "pageTitle": "The Fighting Temeraire",
+        "year": "1839 年",
+        "museum": "英国国家美术馆",
+        "note": "工业时代拖走了旧海军时代的荣光。"
+      },
+      {
+        "title": "雨、蒸汽与速度",
+        "pageTitle": "Rain, Steam and Speed – The Great Western Railway",
+        "year": "1844 年",
+        "museum": "英国国家美术馆",
+        "note": "速度第一次被画成一种近乎抽象的气团。"
+      },
+      {
+        "title": "奴隶船",
+        "pageTitle": "The Slave Ship",
+        "year": "1840 年",
+        "museum": "波士顿美术馆",
+        "note": "风暴般的颜色里埋着一段极度暴烈的历史。"
+      }
+    ]
+  },
+  {
+    "id": "monet",
+    "name": "克劳德·莫奈",
+    "latin": "Claude Monet",
+    "wikiTitle": "Claude Monet",
+    "birth": 1840,
+    "death": 1926,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "印象派",
+    "position": [
+      96,
+      84,
+      118
+    ],
+    "blurb": "莫奈不是在画物，而是在画光如何短暂停留在物上。于是世界在他的画布上变成了连续变化的气候。",
+    "curatorNote": "在莫奈这里，视觉第一次真正接受了‘不稳定’这个事实。",
+    "aliases": [
+      "Impression, Sunrise",
+      "Water Lilies",
+      "印象派"
+    ],
+    "works": [
+      {
+        "title": "印象·日出",
+        "pageTitle": "Impression, Sunrise",
+        "year": "1872 年",
+        "museum": "马蒙丹莫奈美术馆",
+        "note": "整个印象派的名字，从这一片雾气里长出来。"
+      },
+      {
+        "title": "睡莲",
+        "pageTitle": "Water Lilies",
+        "year": "1890 年代至 1920 年代",
+        "museum": "多馆藏",
+        "note": "池面被拉成无边无际的色块宇宙。"
+      },
+      {
+        "title": "干草堆",
+        "pageTitle": "Haystacks (Monet series)",
+        "year": "1890-1891 年",
+        "museum": "多馆藏",
+        "note": "同一对象在不同光线下像不同时空的证据。"
+      }
+    ]
+  },
+  {
+    "id": "cezanne",
+    "name": "保罗·塞尚",
+    "latin": "Paul Cezanne",
+    "wikiTitle": "Paul Cezanne",
+    "birth": 1839,
+    "death": 1906,
+    "eraId": "modern",
+    "region": "法国",
+    "movement": "后印象派 / 结构观察",
+    "position": [
+      116,
+      16,
+      58
+    ],
+    "blurb": "塞尚把印象派松散的光，重新压回结构与体积，于是现代主义有了几何骨架。",
+    "curatorNote": "很多 20 世纪绘画都像从塞尚的桌面和山体里拆出来的零件。",
+    "aliases": [
+      "Mont Sainte-Victoire",
+      "The Card Players",
+      "后印象派"
+    ],
+    "works": [
+      {
+        "title": "玩纸牌者",
+        "pageTitle": "The Card Players",
+        "year": "1890-1895 年",
+        "museum": "多馆藏",
+        "note": "静止人物被组织成近乎雕塑式的稳定平衡。"
+      },
+      {
+        "title": "圣维克多山",
+        "pageTitle": "Mont Sainte-Victoire",
+        "year": "1880-1906 年间系列",
+        "museum": "多馆藏",
+        "note": "一座山被反复拆解成色面与体块。"
+      },
+      {
+        "title": "大浴女",
+        "pageTitle": "The Large Bathers",
+        "year": "1898-1905 年",
+        "museum": "费城艺术博物馆",
+        "note": "人物与风景几乎被缝成同一块结构织体。"
+      }
+    ]
+  },
+  {
+    "id": "van-gogh",
+    "name": "文森特·梵高",
+    "latin": "Vincent van Gogh",
+    "wikiTitle": "Vincent van Gogh",
+    "birth": 1853,
+    "death": 1890,
+    "eraId": "modern",
+    "region": "荷兰 / 法国",
+    "movement": "后印象派 / 表现性色彩",
+    "position": [
+      140,
+      -78,
+      84
+    ],
+    "blurb": "梵高把色彩和笔触都推到情绪强度的边缘，使画面像会直接发热一样。",
+    "curatorNote": "梵高让色彩从‘描述’转向‘表达’，这是现代绘画最深的一次升温。",
+    "aliases": [
+      "The Starry Night",
+      "Sunflowers",
+      "The Bedroom",
+      "后印象派"
+    ],
+    "works": [
+      {
+        "title": "星月夜",
+        "pageTitle": "The Starry Night",
+        "year": "1889 年",
+        "museum": "纽约现代艺术博物馆",
+        "note": "夜空像被情绪卷动，笔触成为气流本身。"
+      },
+      {
+        "title": "向日葵",
+        "pageTitle": "Sunflowers (Van Gogh series)",
+        "year": "1888-1889 年",
+        "museum": "多馆藏",
+        "note": "黄色被推成一种近乎精神性的发光体。"
+      },
+      {
+        "title": "卧室",
+        "pageTitle": "The Bedroom",
+        "year": "1888 年",
+        "museum": "多馆藏",
+        "note": "透视被轻轻扭曲，让一间普通房间拥有不安的心理震颤。"
+      }
+    ]
+  },
+  {
+    "id": "klimt",
+    "name": "古斯塔夫·克里姆特",
+    "latin": "Gustav Klimt",
+    "wikiTitle": "Gustav Klimt",
+    "birth": 1862,
+    "death": 1918,
+    "eraId": "modern",
+    "region": "奥地利",
+    "movement": "维也纳分离派 / 装饰象征主义",
+    "position": [
+      172,
+      44,
+      164
+    ],
+    "blurb": "他让金箔、图案与身体纠缠在一起，把画面表面推进成一种极度迷人的装饰深渊。",
+    "curatorNote": "克里姆特擅长把肉身裹进图案，让装饰不再是背景，而是欲望本身。",
+    "aliases": [
+      "The Kiss",
+      "Portrait of Adele Bloch-Bauer I",
+      "Vienna Secession"
+    ],
+    "works": [
+      {
+        "title": "吻",
+        "pageTitle": "The Kiss (Klimt)",
+        "year": "1907-1908 年",
+        "museum": "美景宫",
+        "note": "身体几乎溶进图案，亲密关系像被镀上了宗教光辉。"
+      },
+      {
+        "title": "阿黛尔·布洛赫-鲍尔肖像一号",
+        "pageTitle": "Portrait of Adele Bloch-Bauer I",
+        "year": "1907 年",
+        "museum": "新画廊",
+        "note": "肖像与装饰完全缝合成一面闪耀的屏风。"
+      },
+      {
+        "title": "朱迪斯一号",
+        "pageTitle": "Judith and the Head of Holofernes",
+        "year": "1901 年",
+        "museum": "奥地利美术馆",
+        "note": "危险的凝视，被处理成华丽而冰冷的表面。"
+      }
+    ]
+  },
+  {
+    "id": "kandinsky",
+    "name": "瓦西里·康定斯基",
+    "latin": "Wassily Kandinsky",
+    "wikiTitle": "Wassily Kandinsky",
+    "birth": 1866,
+    "death": 1944,
+    "eraId": "modern",
+    "region": "俄罗斯 / 德国 / 法国",
+    "movement": "抽象艺术 / 表现主义",
+    "position": [
+      196,
+      -18,
+      28
+    ],
+    "blurb": "康定斯基让绘画摆脱再现义务，颜色、线条和节奏第一次可以独立发声。",
+    "curatorNote": "他把‘画什么’替换成‘如何让颜色与形状直接发音’。",
+    "aliases": [
+      "Composition VIII",
+      "Yellow-Red-Blue",
+      "抽象"
+    ],
+    "works": [
+      {
+        "title": "构成第八号",
+        "pageTitle": "Composition VIII",
+        "year": "1923 年",
+        "museum": "古根海姆博物馆",
+        "note": "几何元素像一套开始自我运转的宇宙系统。"
+      },
+      {
+        "title": "黄-红-蓝",
+        "pageTitle": "Yellow-Red-Blue",
+        "year": "1925 年",
+        "museum": "蓬皮杜中心",
+        "note": "颜色不再附着对象，而是直接组织感受。"
+      },
+      {
+        "title": "数个圆圈",
+        "pageTitle": "Several Circles",
+        "year": "1926 年",
+        "museum": "古根海姆博物馆",
+        "note": "圆成为自由漂浮的声音粒子。"
+      }
+    ]
+  },
+  {
+    "id": "picasso",
+    "name": "巴勃罗·毕加索",
+    "latin": "Pablo Picasso",
+    "wikiTitle": "Pablo Picasso",
+    "birth": 1881,
+    "death": 1973,
+    "eraId": "modern",
+    "region": "西班牙 / 法国",
+    "movement": "立体主义 / 现代主义",
+    "position": [
+      226,
+      62,
+      -72
+    ],
+    "blurb": "毕加索像一个持续爆炸的中心，不断重新定义人物、空间和观看的方式。",
+    "curatorNote": "他最强的一点，不是风格，而是把风格本身当成可以反复拆装的机器。",
+    "aliases": [
+      "Guernica",
+      "Les Demoiselles d'Avignon",
+      "立体主义"
+    ],
+    "works": [
+      {
+        "title": "亚维农少女",
+        "pageTitle": "Les Demoiselles d'Avignon",
+        "year": "1907 年",
+        "museum": "纽约现代艺术博物馆",
+        "note": "空间和身体被切开成现代主义最危险的一道口子。"
+      },
+      {
+        "title": "格尔尼卡",
+        "pageTitle": "Guernica",
+        "year": "1937 年",
+        "museum": "索菲娅王后国家艺术中心",
+        "note": "战争被压成黑白色的尖叫。"
+      },
+      {
+        "title": "镜前少女",
+        "pageTitle": "Girl before a Mirror",
+        "year": "1932 年",
+        "museum": "纽约现代艺术博物馆",
+        "note": "同一个身体被拆成彼此对峙的多个自我。"
+      }
+    ]
+  },
+  {
+    "id": "frida-kahlo",
+    "name": "弗里达·卡罗",
+    "latin": "Frida Kahlo",
+    "wikiTitle": "Frida Kahlo",
+    "birth": 1907,
+    "death": 1954,
+    "eraId": "modern",
+    "region": "墨西哥",
+    "movement": "自画像 / 超现实倾向",
+    "position": [
+      250,
+      -88,
+      -16
+    ],
+    "blurb": "她把受伤的身体和私人记忆变成了极其直接的图像，疼痛第一次这样正面地成为图像结构。",
+    "curatorNote": "在弗里达这里，自画像不再是形象管理，而是肉身档案。",
+    "aliases": [
+      "The Two Fridas",
+      "The Wounded Deer",
+      "Self-Portrait"
+    ],
+    "works": [
+      {
+        "title": "两个弗里达",
+        "pageTitle": "The Two Fridas",
+        "year": "1939 年",
+        "museum": "现代艺术博物馆（墨西哥城）",
+        "note": "双身像像一场将裂未裂的自我审判。"
+      },
+      {
+        "title": "带荆棘项链和蜂鸟的自画像",
+        "pageTitle": "Self-Portrait with Thorn Necklace and Hummingbird",
+        "year": "1940 年",
+        "museum": "尼克拉斯·穆雷收藏 / 哈里·兰瑟姆中心",
+        "note": "自画像被处理成受难图式般的私人图腾。"
+      },
+      {
+        "title": "受伤的鹿",
+        "pageTitle": "The Wounded Deer",
+        "year": "1946 年",
+        "museum": "私人收藏",
+        "note": "动物身体和自我意象被缝成同一种创伤。"
+      }
+    ]
+  },
+  {
+    "id": "dali",
+    "name": "萨尔瓦多·达利",
+    "latin": "Salvador Dali",
+    "wikiTitle": "Salvador Dali",
+    "birth": 1904,
+    "death": 1989,
+    "eraId": "modern",
+    "region": "西班牙",
+    "movement": "超现实主义",
+    "position": [
+      276,
+      -12,
+      -126
+    ],
+    "blurb": "达利让梦境拥有极高的清晰度，越逼真，越让人觉得现实正在松动。",
+    "curatorNote": "超现实主义在达利手里像镜面，越光滑越让人不安。",
+    "aliases": [
+      "The Persistence of Memory",
+      "Metamorphosis of Narcissus",
+      "超现实主义"
+    ],
+    "works": [
+      {
+        "title": "记忆的永恒",
+        "pageTitle": "The Persistence of Memory",
+        "year": "1931 年",
+        "museum": "纽约现代艺术博物馆",
+        "note": "柔软的钟表像时间本身开始融化。"
+      },
+      {
+        "title": "那喀索斯的变形",
+        "pageTitle": "Metamorphosis of Narcissus",
+        "year": "1937 年",
+        "museum": "泰特现代美术馆",
+        "note": "神话被重写成镜像与复制的心理迷宫。"
+      },
+      {
+        "title": "天鹅映象大象",
+        "pageTitle": "Swans Reflecting Elephants",
+        "year": "1937 年",
+        "museum": "私人收藏",
+        "note": "图像在倒影中完成另一重身份变换。"
+      }
+    ]
+  },
+  {
+    "id": "yayoi-kusama",
+    "name": "草间弥生",
+    "latin": "Yayoi Kusama",
+    "wikiTitle": "Yayoi Kusama",
+    "birth": 1929,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "日本",
+    "movement": "沉浸式装置 / 波点宇宙",
+    "position": [
+      320,
+      108,
+      84
+    ],
+    "blurb": "草间弥生把重复推到眩晕的边界，波点、镜像和无限空间一起变成可步入的幻觉。",
+    "curatorNote": "她几乎把绘画从平面带到了房间内部，让观者自己变成画面的一部分。",
+    "aliases": [
+      "Infinity Mirrored Room",
+      "Pumpkin",
+      "Phalli's Field",
+      "波点"
+    ],
+    "works": [
+      {
+        "title": "无限镜屋",
+        "pageTitle": "Infinity Mirrored Room",
+        "year": "1965 年至今的系列",
+        "museum": "多馆藏",
+        "note": "镜像把有限空间扩成没有边界的感官深井。"
+      },
+      {
+        "title": "阳具原野",
+        "pageTitle": "Phalli's Field",
+        "year": "1965 年",
+        "museum": "常设回顾展与图录",
+        "note": "重复不是装饰，而是一种把现实推向异常的策略。"
+      },
+      {
+        "title": "南瓜",
+        "pageTitle": "Pumpkin (Yayoi Kusama)",
+        "year": "1994 年",
+        "museum": "多地公共艺术与馆藏",
+        "note": "可爱的外形包裹着近乎强迫性的重复逻辑。"
+      }
+    ]
+  },
+  {
+    "id": "hockney",
+    "name": "大卫·霍克尼",
+    "latin": "David Hockney",
+    "wikiTitle": "David Hockney",
+    "birth": 1937,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "英国",
+    "movement": "当代绘画 / 数字图像",
+    "position": [
+      352,
+      -46,
+      152
+    ],
+    "blurb": "霍克尼能把泳池、室内与风景都画成轻盈的观看装置，同时又持续追问新媒介怎样改变视觉。",
+    "curatorNote": "他像当代宇宙里最轻快的一颗星，把现代主义遗产转译成日常风景与新技术。",
+    "aliases": [
+      "A Bigger Splash",
+      "Portrait of an Artist",
+      "泳池",
+      "数字绘画"
+    ],
+    "works": [
+      {
+        "title": "更大的水花",
+        "pageTitle": "A Bigger Splash",
+        "year": "1967 年",
+        "museum": "泰特不列颠",
+        "note": "爆开的水花成了画面里最短暂却最显眼的事件。"
+      },
+      {
+        "title": "克拉克夫妇与珀西",
+        "pageTitle": "Mr and Mrs Clark and Percy",
+        "year": "1970-1971 年",
+        "museum": "泰特不列颠",
+        "note": "时尚、亲密与室内空间被组织成极具当代感的平面。"
+      },
+      {
+        "title": "艺术家肖像（泳池与两个人物）",
+        "pageTitle": "Portrait of an Artist (Pool with Two Figures)",
+        "year": "1972 年",
+        "museum": "私人收藏",
+        "note": "透亮的泳池与冷静的目光，让情感悬停在水面上。"
+      }
+    ]
+  },
+  {
+    "id": "wu-daozi",
+    "name": "吴道子",
+    "latin": "Wu Daozi",
+    "wikiTitle": "Wu Daozi",
+    "birth": 680,
+    "death": 759,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "壁画 / 宗教与人物图像",
+    "position": [
+      -246,
+      18,
+      -18
+    ],
+    "blurb": "吴道子把线条从描摹推向奔涌，人物与佛教图像因此获得了一种像风一样掠过墙面的速度。",
+    "curatorNote": "如果顾恺之是把人物唤醒的人，吴道子就是让他们真正动起来的人。",
+    "aliases": [
+      "八十七神仙卷",
+      "送子天王图",
+      "唐代壁画"
+    ],
+    "works": [
+      {
+        "title": "八十七神仙卷",
+        "year": "传为唐代稿本",
+        "museum": "徐悲鸿纪念馆旧藏系统",
+        "note": "线条像气流一样贯穿整卷，人物几乎在纸面上行走。"
+      },
+      {
+        "title": "送子天王图",
+        "year": "后世摹本",
+        "museum": "大阪市立美术馆系统",
+        "note": "宗教题材被处理成极具节奏感的人物队列。"
+      }
+    ]
+  },
+  {
+    "id": "zhao-mengfu",
+    "name": "赵孟頫",
+    "latin": "Zhao Mengfu",
+    "wikiTitle": "Zhao Mengfu",
+    "birth": 1254,
+    "death": 1322,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "书画合一 / 元代文人画",
+    "position": [
+      -118,
+      142,
+      186
+    ],
+    "blurb": "赵孟頫让书法性的用笔重新回到山水和人物中，文人画因此找到了更自觉的语言。",
+    "curatorNote": "他重新把“写”带回画里，让笔墨本身成为画面的骨骼。",
+    "aliases": [
+      "鹊华秋色图",
+      "人骑图",
+      "元代文人画"
+    ],
+    "works": [
+      {
+        "title": "鹊华秋色图",
+        "year": "1295 年",
+        "museum": "台北故宫博物院",
+        "note": "地景不靠雄浑压人，而是靠笔墨秩序慢慢展开。"
+      },
+      {
+        "title": "人骑图",
+        "year": "元代",
+        "museum": "故宫博物院",
+        "note": "人物和马匹都被写得像一段极简却稳定的书法。"
+      }
+    ]
+  },
+  {
+    "id": "huang-gongwang",
+    "name": "黄公望",
+    "latin": "Huang Gongwang",
+    "wikiTitle": "Huang Gongwang",
+    "birth": 1269,
+    "death": 1354,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "浅绛山水 / 元四家",
+    "position": [
+      -86,
+      124,
+      236
+    ],
+    "blurb": "黄公望把山水从巨碑式崇高转向可游、可居、可慢慢读的笔墨宇宙。",
+    "curatorNote": "他的山水不是突然压来的高峰，而是一口气缓缓铺开的世界。",
+    "aliases": [
+      "富春山居图",
+      "九峰雪霁图",
+      "元四家"
+    ],
+    "works": [
+      {
+        "title": "富春山居图",
+        "pageTitle": "Dwelling in the Fuchun Mountains",
+        "year": "1347-1350 年",
+        "museum": "浙江省博物馆 / 台北故宫博物院分藏",
+        "note": "长卷像时间一样缓慢展开，把山水变成可进入的呼吸系统。"
+      },
+      {
+        "title": "九峰雪霁图",
+        "year": "元代",
+        "museum": "故宫博物院",
+        "note": "雪后的静气被笔墨组织成层层递进的空间。"
+      }
+    ]
+  },
+  {
+    "id": "botticelli",
+    "name": "桑德罗·波提切利",
+    "latin": "Sandro Botticelli",
+    "wikiTitle": "Sandro Botticelli",
+    "birth": 1445,
+    "death": 1510,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "早期文艺复兴 / 神话叙事",
+    "position": [
+      -184,
+      -118,
+      -58
+    ],
+    "blurb": "波提切利让神话人物拥有飘浮的优雅，他的线条比肉身更先抵达情绪。",
+    "curatorNote": "在波提切利这里，文艺复兴不只是在研究人体，也在重新发明优雅。",
+    "aliases": [
+      "The Birth of Venus",
+      "Primavera",
+      "文艺复兴"
+    ],
+    "works": [
+      {
+        "title": "维纳斯的诞生",
+        "pageTitle": "The Birth of Venus",
+        "year": "1480s",
+        "museum": "乌菲兹美术馆",
+        "note": "海风、长发和姿态一起构成了神话诞生的视觉模板。"
+      },
+      {
+        "title": "春",
+        "pageTitle": "Primavera (Botticelli)",
+        "year": "1482 年前后",
+        "museum": "乌菲兹美术馆",
+        "note": "人物像被春天气流串起来，整幅画是一场柔软的秩序。"
+      }
+    ]
+  },
+  {
+    "id": "titian",
+    "name": "提香",
+    "latin": "Titian",
+    "wikiTitle": "Titian",
+    "birth": 1488,
+    "death": 1576,
+    "eraId": "renaissance",
+    "region": "意大利·威尼斯",
+    "movement": "威尼斯画派 / 色彩绘画",
+    "position": [
+      -72,
+      -124,
+      -214
+    ],
+    "blurb": "提香把色彩从填充物变成主角，画面像由光和血肉一层层染出来。",
+    "curatorNote": "很多后来关于色彩的讨论，都能在提香这里找到早期的火种。",
+    "aliases": [
+      "Venus of Urbino",
+      "Assumption of the Virgin",
+      "威尼斯画派"
+    ],
+    "works": [
+      {
+        "title": "乌尔比诺的维纳斯",
+        "pageTitle": "Venus of Urbino",
+        "year": "1538 年",
+        "museum": "乌菲兹美术馆",
+        "note": "肉身和床榻在暖色里慢慢发光，亲密感因此变得具体。"
+      },
+      {
+        "title": "圣母升天",
+        "pageTitle": "Assumption of the Virgin (Titian)",
+        "year": "1516-1518 年",
+        "museum": "威尼斯圣母荣耀教堂",
+        "note": "红色像火焰一样托举整幅祭坛画向上腾起。"
+      }
+    ]
+  },
+  {
+    "id": "vermeer",
+    "name": "约翰内斯·维米尔",
+    "latin": "Johannes Vermeer",
+    "wikiTitle": "Johannes Vermeer",
+    "birth": 1632,
+    "death": 1675,
+    "eraId": "baroque",
+    "region": "荷兰",
+    "movement": "荷兰黄金时代 / 室内光线",
+    "position": [
+      12,
+      84,
+      -218
+    ],
+    "blurb": "维米尔把最普通的室内光线处理成近乎神圣的安静，时间像被锁在一束窗光里。",
+    "curatorNote": "他不是画戏剧，而是把日常里的静止提炼到极致。",
+    "aliases": [
+      "Girl with a Pearl Earring",
+      "The Milkmaid",
+      "室内光线"
+    ],
+    "works": [
+      {
+        "title": "戴珍珠耳环的少女",
+        "pageTitle": "Girl with a Pearl Earring",
+        "year": "约 1665 年",
+        "museum": "海牙莫瑞泰斯皇家美术馆",
+        "note": "眼神和耳环一起，让肖像像刚刚转过身来。"
+      },
+      {
+        "title": "倒牛奶的女仆",
+        "pageTitle": "The Milkmaid (Vermeer)",
+        "year": "约 1658-1661 年",
+        "museum": "阿姆斯特丹国立博物馆",
+        "note": "光把一个普通动作慢慢酿成了永恒。"
+      }
+    ]
+  },
+  {
+    "id": "goya",
+    "name": "弗朗西斯科·戈雅",
+    "latin": "Francisco Goya",
+    "wikiTitle": "Francisco Goya",
+    "birth": 1746,
+    "death": 1828,
+    "eraId": "nineteenth",
+    "region": "西班牙",
+    "movement": "宫廷肖像 / 黑色绘画",
+    "position": [
+      58,
+      -136,
+      -114
+    ],
+    "blurb": "戈雅一面描绘权力，一面逼近噩梦，他让现代人的不安第一次如此直接地出现在绘画里。",
+    "curatorNote": "他像站在古典和现代之间的断层上，往两边都看得很清楚。",
+    "aliases": [
+      "The Third of May 1808",
+      "Saturn Devouring His Son",
+      "黑色绘画"
+    ],
+    "works": [
+      {
+        "title": "1808 年 5 月 3 日",
+        "pageTitle": "The Third of May 1808",
+        "year": "1814 年",
+        "museum": "普拉多博物馆",
+        "note": "枪决场面被画成现代政治暴力最早的视觉原型之一。"
+      },
+      {
+        "title": "农神吞噬其子",
+        "pageTitle": "Saturn Devouring His Son",
+        "year": "1819-1823 年",
+        "museum": "普拉多博物馆",
+        "note": "神话被拖进黑暗，画面像直接从噩梦里切下来的碎片。"
+      }
+    ]
+  },
+  {
+    "id": "renoir",
+    "name": "皮埃尔-奥古斯特·雷诺阿",
+    "latin": "Pierre-Auguste Renoir",
+    "wikiTitle": "Pierre-Auguste Renoir",
+    "birth": 1841,
+    "death": 1919,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "印象派 / 人物与光感",
+    "position": [
+      146,
+      132,
+      32
+    ],
+    "blurb": "雷诺阿让皮肤、布料和午后空气都带上柔软的震动，印象派因此有了更温暖的人际温度。",
+    "curatorNote": "如果莫奈在看天气，雷诺阿更像在看空气怎样落在人的脸上。",
+    "aliases": [
+      "Bal du moulin de la Galette",
+      "Luncheon of the Boating Party",
+      "印象派"
+    ],
+    "works": [
+      {
+        "title": "煎饼磨坊的舞会",
+        "pageTitle": "Bal du moulin de la Galette",
+        "year": "1876 年",
+        "museum": "奥赛博物馆",
+        "note": "阳光碎片落在人群和裙摆上，整幅画像一场被光托起来的下午。"
+      },
+      {
+        "title": "舟上的午宴",
+        "pageTitle": "Luncheon of the Boating Party",
+        "year": "1880-1881 年",
+        "museum": "菲利普斯收藏馆",
+        "note": "社交场景被组织成一种极其松弛却精密的亲密秩序。"
+      }
+    ]
+  },
+  {
+    "id": "matisse",
+    "name": "亨利·马蒂斯",
+    "latin": "Henri Matisse",
+    "wikiTitle": "Henri Matisse",
+    "birth": 1869,
+    "death": 1954,
+    "eraId": "modern",
+    "region": "法国",
+    "movement": "野兽派 / 色彩平面",
+    "position": [
+      248,
+      158,
+      18
+    ],
+    "blurb": "马蒂斯把色彩从再现中彻底解放出来，让平面本身就能制造空间、节奏和愉悦。",
+    "curatorNote": "他总能把最复杂的视觉组织，做得像一次轻松的呼吸。",
+    "aliases": [
+      "The Dance",
+      "The Red Studio",
+      "野兽派"
+    ],
+    "works": [
+      {
+        "title": "舞蹈",
+        "pageTitle": "Dance (Matisse)",
+        "year": "1910 年",
+        "museum": "埃尔米塔日博物馆",
+        "note": "人物被极简化之后，节奏反而变得更猛烈。"
+      },
+      {
+        "title": "红色工作室",
+        "pageTitle": "The Red Studio",
+        "year": "1911 年",
+        "museum": "纽约现代艺术博物馆",
+        "note": "房间和色块合并成一个几乎没有重力的内部宇宙。"
+      }
+    ]
+  },
+  {
+    "id": "georgia-okeeffe",
+    "name": "乔治亚·欧姬芙",
+    "latin": "Georgia O'Keeffe",
+    "wikiTitle": "Georgia O'Keeffe",
+    "birth": 1887,
+    "death": 1986,
+    "eraId": "modern",
+    "region": "美国",
+    "movement": "现代主义 / 花与荒原",
+    "position": [
+      314,
+      -138,
+      28
+    ],
+    "blurb": "欧姬芙把花朵、骨骼和荒漠都放大到近乎抽象，让观看在亲密与辽阔之间来回摇摆。",
+    "curatorNote": "她像把显微镜和望远镜放在同一只眼睛里。",
+    "aliases": [
+      "Black Iris III",
+      "Cow's Skull: Red, White, and Blue",
+      "美国现代主义"
+    ],
+    "works": [
+      {
+        "title": "黑鸢尾 III",
+        "pageTitle": "Black Iris III",
+        "year": "1926 年",
+        "museum": "大都会艺术博物馆",
+        "note": "局部放大之后，花朵开始逼近抽象与身体经验。"
+      },
+      {
+        "title": "牛头骨：红白蓝",
+        "pageTitle": "Cow's Skull: Red, White, and Blue",
+        "year": "1931 年",
+        "museum": "大都会艺术博物馆",
+        "note": "荒原意象被压成强烈而克制的国家寓言。"
+      }
+    ]
+  },
+  {
+    "id": "qi-baishi",
+    "name": "齐白石",
+    "latin": "Qi Baishi",
+    "wikiTitle": "Qi Baishi",
+    "birth": 1864,
+    "death": 1957,
+    "eraId": "modern",
+    "region": "中国",
+    "movement": "写意花鸟 / 金石趣味",
+    "position": [
+      176,
+      12,
+      232
+    ],
+    "blurb": "齐白石把虾、蟹、花果都画得像刚刚有了生命，笔墨在他手里带着极强的民间活气。",
+    "curatorNote": "他把大写意从文人案头拉回日常世界，既亲切又极有锋芒。",
+    "aliases": [
+      "虾",
+      "花鸟",
+      "写意"
+    ],
+    "works": [
+      {
+        "title": "群虾图",
+        "year": "20 世纪",
+        "museum": "北京画院等系统收藏",
+        "note": "几笔透明的墨色，就把水感和生命感一起提起来。"
+      },
+      {
+        "title": "蛙声十里出山泉",
+        "year": "20 世纪",
+        "museum": "中国美术馆系统",
+        "note": "声音、泉水和想象被一起安放进了画面空白里。"
+      }
+    ]
+  },
+  {
+    "id": "zhang-daqian",
+    "name": "张大千",
+    "latin": "Zhang Daqian",
+    "wikiTitle": "Zhang Daqian",
+    "birth": 1899,
+    "death": 1983,
+    "eraId": "contemporary",
+    "region": "中国",
+    "movement": "泼彩山水 / 传统转译",
+    "position": [
+      286,
+      74,
+      198
+    ],
+    "blurb": "张大千一端连着古典山水，一端又把泼彩推向近乎抽象的壮阔，传统因此被再次点亮。",
+    "curatorNote": "他很像一颗横跨古今的行星，把旧笔墨和现代视觉撞在一起。",
+    "aliases": [
+      "庐山图",
+      "泼彩",
+      "山水"
+    ],
+    "works": [
+      {
+        "title": "庐山图",
+        "year": "1981 年",
+        "museum": "台北故宫博物院",
+        "note": "晚年巨制像把记忆、山川和笔墨一起压进一张长卷里。"
+      },
+      {
+        "title": "泼彩山水",
+        "year": "20 世纪晚期",
+        "museum": "多馆藏",
+        "note": "色块与云气相互覆盖，传统山水被推向近乎宇宙化的尺度。"
+      }
+    ]
+  },
+  {
+    "id": "lu-tanwei",
+    "name": "陆探微",
+    "latin": "Lu Tanwei",
+    "wikiTitle": "Lu Tanwei",
+    "birth": 400,
+    "death": 450,
+    "eraId": "ancient",
+    "region": "中国·南朝",
+    "movement": "人物画 / 南朝笔法",
+    "position": [
+      -158.56,
+      18,
+      -8
+    ],
+    "blurb": "陆探微把 人物画与南朝笔法 带进了这条时代支流，让这颗星在 中国·南朝 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南朝 这条支线里的关键节点，能把 人物画、南朝笔法 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南朝",
+      "人物画 / 南朝笔法",
+      "人物故事图",
+      "古贤图稿"
+    ],
+    "works": [
+      {
+        "title": "人物故事图",
+        "year": "400-450 年间",
+        "museum": "馆藏待补",
+        "note": "陆探微 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "古贤图稿",
+        "year": "400-450 年间",
+        "museum": "馆藏待补",
+        "note": "陆探微 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "zhang-sengyao",
+    "name": "张僧繇",
+    "latin": "Zhang Sengyao",
+    "wikiTitle": "Zhang Sengyao",
+    "birth": 500,
+    "death": 550,
+    "eraId": "ancient",
+    "region": "中国·南朝梁",
+    "movement": "佛教壁画 / 人物画",
+    "position": [
+      -156.79889070445358,
+      110.28951063166815,
+      42.40407009715237
+    ],
+    "blurb": "张僧繇把 佛教壁画与人物画 带进了这条时代支流，让这颗星在 中国·南朝梁 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南朝梁 这条支线里的关键节点，能把 佛教壁画、人物画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南朝梁",
+      "佛教壁画 / 人物画",
+      "梁武帝像",
+      "五星二十八宿神形图"
+    ],
+    "works": [
+      {
+        "title": "梁武帝像",
+        "year": "500-550 年间",
+        "museum": "馆藏待补",
+        "note": "张僧繇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "五星二十八宿神形图",
+        "year": "500-550 年间",
+        "museum": "馆藏待补",
+        "note": "张僧繇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "zhan-ziqian",
+    "name": "展子虔",
+    "latin": "Zhan Ziqian",
+    "wikiTitle": "Zhan Ziqian",
+    "birth": 545,
+    "death": 618,
+    "eraId": "ancient",
+    "region": "中国·隋",
+    "movement": "青绿山水 / 早期山水画",
+    "position": [
+      -191.0655091622627,
+      83.14608449528066,
+      92.2574982706986
+    ],
+    "blurb": "展子虔把 青绿山水与早期山水画 带进了这条时代支流，让这颗星在 中国·隋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·隋 这条支线里的关键节点，能把 青绿山水、早期山水画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·隋",
+      "青绿山水 / 早期山水画",
+      "游春图",
+      "山水图稿"
+    ],
+    "works": [
+      {
+        "title": "游春图",
+        "year": "545-618 年间",
+        "museum": "馆藏待补",
+        "note": "展子虔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "山水图稿",
+        "year": "545-618 年间",
+        "museum": "馆藏待补",
+        "note": "展子虔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "yan-liben",
+    "name": "阎立本",
+    "latin": "Yan Liben",
+    "wikiTitle": "Yan Liben",
+    "birth": 600,
+    "death": 673,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "人物画 / 宫廷图像",
+    "position": [
+      -181.072,
+      61.18424574258877,
+      104.78422038565499
+    ],
+    "blurb": "阎立本把 人物画与宫廷图像 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 人物画、宫廷图像 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "人物画 / 宫廷图像",
+      "步辇图",
+      "历代帝王图"
+    ],
+    "works": [
+      {
+        "title": "步辇图",
+        "year": "600-673 年间",
+        "museum": "馆藏待补",
+        "note": "阎立本 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "历代帝王图",
+        "year": "600-673 年间",
+        "museum": "馆藏待补",
+        "note": "阎立本 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "li-sixun",
+    "name": "李思训",
+    "latin": "Li Sixun",
+    "wikiTitle": "Li Sixun",
+    "birth": 651,
+    "death": 716,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "青绿山水 / 金碧山水",
+    "position": [
+      -256.9147901352005,
+      -56.18967512897862,
+      137.4138268427717
+    ],
+    "blurb": "李思训把 青绿山水与金碧山水 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 青绿山水、金碧山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "青绿山水 / 金碧山水",
+      "江帆楼阁图",
+      "山水楼阁图"
+    ],
+    "works": [
+      {
+        "title": "江帆楼阁图",
+        "year": "651-716 年间",
+        "museum": "馆藏待补",
+        "note": "李思训 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "山水楼阁图",
+        "year": "651-716 年间",
+        "museum": "馆藏待补",
+        "note": "李思训 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "li-zhaodao",
+    "name": "李昭道",
+    "latin": "Li Zhaodao",
+    "wikiTitle": "Li Zhaodao",
+    "birth": 670,
+    "death": 730,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "青绿山水 / 山水楼观",
+    "position": [
+      -305.63975311764705,
+      -52.05436866725306,
+      64.86770475888939
+    ],
+    "blurb": "李昭道把 青绿山水与山水楼观 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 青绿山水、山水楼观 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "青绿山水 / 山水楼观",
+      "明皇幸蜀图",
+      "春山行旅图"
+    ],
+    "works": [
+      {
+        "title": "明皇幸蜀图",
+        "year": "670-730 年间",
+        "museum": "馆藏待补",
+        "note": "李昭道 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "春山行旅图",
+        "year": "670-730 年间",
+        "museum": "馆藏待补",
+        "note": "李昭道 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "wang-wei",
+    "name": "王维",
+    "latin": "Wang Wei",
+    "wikiTitle": "Wang Wei",
+    "birth": 699,
+    "death": 759,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "诗画合一 / 水墨山水",
+    "position": [
+      -313.45599999999996,
+      -25.65822591584425,
+      78.48476092352918
+    ],
+    "blurb": "王维把 诗画合一与水墨山水 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 诗画合一、水墨山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "诗画合一 / 水墨山水",
+      "辋川图",
+      "雪溪图"
+    ],
+    "works": [
+      {
+        "title": "辋川图",
+        "year": "699-759 年间",
+        "museum": "馆藏待补",
+        "note": "王维 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "雪溪图",
+        "year": "699-759 年间",
+        "museum": "馆藏待补",
+        "note": "王维 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "han-gan",
+    "name": "韩干",
+    "latin": "Han Gan",
+    "wikiTitle": "Han Gan",
+    "birth": 706,
+    "death": 783,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "鞍马画",
+    "position": [
+      -371.008068521077,
+      86.9555801559974,
+      48.97843383773305
+    ],
+    "blurb": "韩干把 鞍马画 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 鞍马画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "鞍马画",
+      "照夜白图",
+      "牧马图"
+    ],
+    "works": [
+      {
+        "title": "照夜白图",
+        "year": "706-783 年间",
+        "museum": "馆藏待补",
+        "note": "韩干 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "牧马图",
+        "year": "706-783 年间",
+        "museum": "馆藏待补",
+        "note": "韩干 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "zhou-fang",
+    "name": "周昉",
+    "latin": "Zhou Fang",
+    "wikiTitle": "Zhou Fang",
+    "birth": 730,
+    "death": 800,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "仕女画",
+    "position": [
+      -405.84704202519123,
+      105.74524233675028,
+      -9.423947796963695
+    ],
+    "blurb": "周昉把 仕女画 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 仕女画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "仕女画",
+      "簪花仕女图",
+      "挥扇仕女图"
+    ],
+    "works": [
+      {
+        "title": "簪花仕女图",
+        "year": "730-800 年间",
+        "museum": "馆藏待补",
+        "note": "周昉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "挥扇仕女图",
+        "year": "730-800 年间",
+        "museum": "馆藏待补",
+        "note": "周昉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "zhang-xuan",
+    "name": "张萱",
+    "latin": "Zhang Xuan",
+    "wikiTitle": "Zhang Xuan",
+    "birth": 713,
+    "death": 755,
+    "eraId": "ancient",
+    "region": "中国·唐",
+    "movement": "宫廷仕女图",
+    "position": [
+      -423.328,
+      96.97230067458415,
+      -7.999999999999982
+    ],
+    "blurb": "张萱把 宫廷仕女图 带进了这条时代支流，让这颗星在 中国·唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·唐 这条支线里的关键节点，能把 宫廷仕女图 串进更大的艺术网络。",
+    "aliases": [
+      "中国·唐",
+      "宫廷仕女图",
+      "虢国夫人游春图",
+      "捣练图"
+    ],
+    "works": [
+      {
+        "title": "虢国夫人游春图",
+        "year": "713-755 年间",
+        "museum": "馆藏待补",
+        "note": "张萱 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "捣练图",
+        "year": "713-755 年间",
+        "museum": "馆藏待补",
+        "note": "张萱 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "gu-hongzhong",
+    "name": "顾闳中",
+    "latin": "Gu Hongzhong",
+    "wikiTitle": "Gu Hongzhong",
+    "birth": 910,
+    "death": 980,
+    "eraId": "ancient",
+    "region": "中国·五代南唐",
+    "movement": "人物长卷 / 宫廷生活",
+    "position": [
+      -340.117899695054,
+      -0.5329854620807488,
+      -50.74029335723447
+    ],
+    "blurb": "顾闳中把 人物长卷与宫廷生活 带进了这条时代支流，让这颗星在 中国·五代南唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代南唐 这条支线里的关键节点，能把 人物长卷、宫廷生活 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代南唐",
+      "人物长卷 / 宫廷生活",
+      "韩熙载夜宴图",
+      "宫宴图卷"
+    ],
+    "works": [
+      {
+        "title": "韩熙载夜宴图",
+        "year": "910-980 年间",
+        "museum": "馆藏待补",
+        "note": "顾闳中 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "宫宴图卷",
+        "year": "910-980 年间",
+        "museum": "馆藏待补",
+        "note": "顾闳中 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "huang-quan",
+    "name": "黄筌",
+    "latin": "Huang Quan",
+    "wikiTitle": "Huang Quan",
+    "birth": 903,
+    "death": 965,
+    "eraId": "ancient",
+    "region": "中国·五代后蜀",
+    "movement": "工笔花鸟",
+    "position": [
+      -312.364456513975,
+      -58.99832024793325,
+      -95.02554418421046
+    ],
+    "blurb": "黄筌把 工笔花鸟 带进了这条时代支流，让这颗星在 中国·五代后蜀 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代后蜀 这条支线里的关键节点，能把 工笔花鸟 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代后蜀",
+      "工笔花鸟",
+      "写生珍禽图",
+      "花竹图"
+    ],
+    "works": [
+      {
+        "title": "写生珍禽图",
+        "year": "903-965 年间",
+        "museum": "馆藏待补",
+        "note": "黄筌 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "花竹图",
+        "year": "903-965 年间",
+        "museum": "馆藏待补",
+        "note": "黄筌 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "xu-xi",
+    "name": "徐熙",
+    "latin": "Xu Xi",
+    "wikiTitle": "Xu Xi",
+    "birth": 886,
+    "death": 975,
+    "eraId": "ancient",
+    "region": "中国·五代南唐",
+    "movement": "没骨花鸟 / 野逸花卉",
+    "position": [
+      -322.19200000000006,
+      -69.17301921887184,
+      -107.63449065459208
+    ],
+    "blurb": "徐熙把 没骨花鸟与野逸花卉 带进了这条时代支流，让这颗星在 中国·五代南唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代南唐 这条支线里的关键节点，能把 没骨花鸟、野逸花卉 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代南唐",
+      "没骨花鸟 / 野逸花卉",
+      "雪竹图",
+      "玉堂富贵图"
+    ],
+    "works": [
+      {
+        "title": "雪竹图",
+        "year": "886-975 年间",
+        "museum": "馆藏待补",
+        "note": "徐熙 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "玉堂富贵图",
+        "year": "886-975 年间",
+        "museum": "馆藏待补",
+        "note": "徐熙 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jing-hao",
+    "name": "荆浩",
+    "latin": "Jing Hao",
+    "wikiTitle": "Jing Hao",
+    "birth": 850,
+    "death": 911,
+    "eraId": "ancient",
+    "region": "中国·五代",
+    "movement": "北方山水 / 笔法论",
+    "position": [
+      -255.18073011988068,
+      23.366589539830272,
+      -138.2300537587875
+    ],
+    "blurb": "荆浩把 北方山水与笔法论 带进了这条时代支流，让这颗星在 中国·五代 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代 这条支线里的关键节点，能把 北方山水、笔法论 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代",
+      "北方山水 / 笔法论",
+      "匡庐图",
+      "笔法记"
+    ],
+    "works": [
+      {
+        "title": "匡庐图",
+        "year": "850-911 年间",
+        "museum": "馆藏待补",
+        "note": "荆浩 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "笔法记",
+        "year": "850-911 年间",
+        "museum": "馆藏待补",
+        "note": "荆浩 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "guan-tong",
+    "name": "关仝",
+    "latin": "Guan Tong",
+    "wikiTitle": "Guan Tong",
+    "birth": 906,
+    "death": 960,
+    "eraId": "ancient",
+    "region": "中国·五代",
+    "movement": "关陕山水",
+    "position": [
+      -170.7565618876268,
+      115.40461609222213,
+      -133.13143782733422
+    ],
+    "blurb": "关仝把 关陕山水 带进了这条时代支流，让这颗星在 中国·五代 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代 这条支线里的关键节点，能把 关陕山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代",
+      "关陕山水",
+      "关山行旅图",
+      "秋山晚翠图"
+    ],
+    "works": [
+      {
+        "title": "关山行旅图",
+        "year": "906-960 年间",
+        "museum": "馆藏待补",
+        "note": "关仝 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "秋山晚翠图",
+        "year": "906-960 年间",
+        "museum": "馆藏待补",
+        "note": "关仝 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "dong-yuan",
+    "name": "董源",
+    "latin": "Dong Yuan",
+    "wikiTitle": "Dong Yuan",
+    "birth": 934,
+    "death": 962,
+    "eraId": "ancient",
+    "region": "中国·五代南唐",
+    "movement": "江南山水",
+    "position": [
+      -207.28,
+      124.99096837058616,
+      -81.33503119246626
+    ],
+    "blurb": "董源把 江南山水 带进了这条时代支流，让这颗星在 中国·五代南唐 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·五代南唐 这条支线里的关键节点，能把 江南山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·五代南唐",
+      "江南山水",
+      "潇湘图",
+      "夏景山口待渡图"
+    ],
+    "works": [
+      {
+        "title": "潇湘图",
+        "year": "934-962 年间",
+        "museum": "馆藏待补",
+        "note": "董源 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "夏景山口待渡图",
+        "year": "934-962 年间",
+        "museum": "馆藏待补",
+        "note": "董源 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "juran",
+    "name": "巨然",
+    "latin": "Juran",
+    "wikiTitle": "Juran",
+    "birth": 960,
+    "death": 995,
+    "eraId": "ancient",
+    "region": "中国·北宋",
+    "movement": "江南僧人山水",
+    "position": [
+      -156.17066133449663,
+      45.835058523525745,
+      -57.4584374936668
+    ],
+    "blurb": "巨然把 江南僧人山水 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 江南僧人山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "江南僧人山水",
+      "层岩丛树图",
+      "秋山问道图"
+    ],
+    "works": [
+      {
+        "title": "层岩丛树图",
+        "year": "960-995 年间",
+        "museum": "馆藏待补",
+        "note": "巨然 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "秋山问道图",
+        "year": "960-995 年间",
+        "museum": "馆藏待补",
+        "note": "巨然 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "li-cheng",
+    "name": "李成",
+    "latin": "Li Cheng",
+    "wikiTitle": "Li Cheng",
+    "birth": 919,
+    "death": 967,
+    "eraId": "ancient",
+    "region": "中国·北宋",
+    "movement": "寒林平远山水",
+    "position": [
+      -123.62391354725256,
+      -51.405871625725496,
+      -6.742073022413251
+    ],
+    "blurb": "李成把 寒林平远山水 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 寒林平远山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "寒林平远山水",
+      "读碑窠石图",
+      "晴峦萧寺图"
+    ],
+    "works": [
+      {
+        "title": "读碑窠石图",
+        "year": "919-967 年间",
+        "museum": "馆藏待补",
+        "note": "李成 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "晴峦萧寺图",
+        "year": "919-967 年间",
+        "museum": "馆藏待补",
+        "note": "李成 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "li-gonglin",
+    "name": "李公麟",
+    "latin": "Li Gonglin",
+    "wikiTitle": "Li Gonglin",
+    "birth": 1049,
+    "death": 1106,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "白描人物 / 古画研究",
+    "position": [
+      -32.68000000000001,
+      86,
+      186
+    ],
+    "blurb": "李公麟把 白描人物与古画研究 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 白描人物、古画研究 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "白描人物 / 古画研究",
+      "五马图",
+      "维摩演教图"
+    ],
+    "works": [
+      {
+        "title": "五马图",
+        "year": "1049-1106 年间",
+        "museum": "馆藏待补",
+        "note": "李公麟 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "维摩演教图",
+        "year": "1049-1106 年间",
+        "museum": "馆藏待补",
+        "note": "李公麟 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "mi-fu",
+    "name": "米芾",
+    "latin": "Mi Fu",
+    "wikiTitle": "Mi Fu",
+    "birth": 1051,
+    "death": 1107,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "米点山水 / 书画鉴藏",
+    "position": [
+      -33.471264762933316,
+      170.50715273804806,
+      234.92728749091472
+    ],
+    "blurb": "米芾把 米点山水与书画鉴藏 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 米点山水、书画鉴藏 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "米点山水 / 书画鉴藏",
+      "珊瑚帖",
+      "多景楼诗帖"
+    ],
+    "works": [
+      {
+        "title": "珊瑚帖",
+        "year": "1051-1107 年间",
+        "museum": "馆藏待补",
+        "note": "米芾 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "多景楼诗帖",
+        "year": "1051-1107 年间",
+        "museum": "馆藏待补",
+        "note": "米芾 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "mi-youren",
+    "name": "米友仁",
+    "latin": "Mi Youren",
+    "wikiTitle": "Mi Youren",
+    "birth": 1074,
+    "death": 1153,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "米家云山",
+    "position": [
+      -71.92003296042392,
+      134.91043264075353,
+      280.74552092060674
+    ],
+    "blurb": "米友仁把 米家云山 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 米家云山 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "米家云山",
+      "潇湘奇观图",
+      "云山图"
+    ],
+    "works": [
+      {
+        "title": "潇湘奇观图",
+        "year": "1074-1153 年间",
+        "museum": "馆藏待补",
+        "note": "米友仁 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "云山图",
+        "year": "1074-1153 年间",
+        "museum": "馆藏待补",
+        "note": "米友仁 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "emperor-huizong-of-song",
+    "name": "赵佶",
+    "latin": "Emperor Huizong of Song",
+    "wikiTitle": "Emperor Huizong of Song",
+    "birth": 1082,
+    "death": 1135,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "院体花鸟 / 瘦金体",
+    "position": [
+      -69.43154226287234,
+      108.27426679533397,
+      294.78127167600894
+    ],
+    "blurb": "赵佶把 院体花鸟与瘦金体 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 院体花鸟、瘦金体 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "院体花鸟 / 瘦金体",
+      "瑞鹤图",
+      "听琴图"
+    ],
+    "works": [
+      {
+        "title": "瑞鹤图",
+        "year": "1082-1135 年间",
+        "museum": "馆藏待补",
+        "note": "赵佶 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "听琴图",
+        "year": "1082-1135 年间",
+        "museum": "馆藏待补",
+        "note": "赵佶 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "ma-yuan",
+    "name": "马远",
+    "latin": "Ma Yuan",
+    "wikiTitle": "Ma Yuan",
+    "birth": 1160,
+    "death": 1225,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "边角山水",
+    "position": [
+      -149.4602720903466,
+      8.586304802616866,
+      315.34789797823987
+    ],
+    "blurb": "马远把 边角山水 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 边角山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "边角山水",
+      "踏歌图",
+      "寒江独钓图"
+    ],
+    "works": [
+      {
+        "title": "踏歌图",
+        "year": "1160-1225 年间",
+        "museum": "馆藏待补",
+        "note": "马远 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "寒江独钓图",
+        "year": "1160-1225 年间",
+        "museum": "馆藏待补",
+        "note": "马远 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "xia-gui",
+    "name": "夏圭",
+    "latin": "Xia Gui",
+    "wikiTitle": "Xia Gui",
+    "birth": 1180,
+    "death": 1224,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "水墨山水",
+    "position": [
+      -183.06014905938628,
+      45.83982899710512,
+      241.87704093637097
+    ],
+    "blurb": "夏圭把 水墨山水 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 水墨山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "水墨山水",
+      "溪山清远图",
+      "山水十二景"
+    ],
+    "works": [
+      {
+        "title": "溪山清远图",
+        "year": "1180-1224 年间",
+        "museum": "馆藏待补",
+        "note": "夏圭 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "山水十二景",
+        "year": "1180-1224 年间",
+        "museum": "馆藏待补",
+        "note": "夏圭 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "liang-kai",
+    "name": "梁楷",
+    "latin": "Liang Kai",
+    "wikiTitle": "Liang Kai",
+    "birth": 1140,
+    "death": 1210,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "减笔人物 / 禅画",
+    "position": [
+      -196.48379990306614,
+      81.50882479653228,
+      249.843257059771
+    ],
+    "blurb": "梁楷把 减笔人物与禅画 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 减笔人物、禅画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "减笔人物 / 禅画",
+      "泼墨仙人图",
+      "六祖截竹图"
+    ],
+    "works": [
+      {
+        "title": "泼墨仙人图",
+        "year": "1140-1210 年间",
+        "museum": "馆藏待补",
+        "note": "梁楷 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "六祖截竹图",
+        "year": "1140-1210 年间",
+        "museum": "馆藏待补",
+        "note": "梁楷 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "chen-rong",
+    "name": "陈容",
+    "latin": "Chen Rong",
+    "wikiTitle": "Chen Rong",
+    "birth": 1200,
+    "death": 1266,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "墨龙图",
+    "position": [
+      -240.61729659121607,
+      175.7098222253541,
+      207.95766553987664
+    ],
+    "blurb": "陈容把 墨龙图 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 墨龙图 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "墨龙图",
+      "九龙图",
+      "云龙图"
+    ],
+    "works": [
+      {
+        "title": "九龙图",
+        "year": "1200-1266 年间",
+        "museum": "馆藏待补",
+        "note": "陈容 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "云龙图",
+        "year": "1200-1266 年间",
+        "museum": "馆藏待补",
+        "note": "陈容 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "qian-xuan",
+    "name": "钱选",
+    "latin": "Qian Xuan",
+    "wikiTitle": "Qian Xuan",
+    "birth": 1235,
+    "death": 1305,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "花鸟与山水 / 文人画",
+    "position": [
+      -250.56227487499055,
+      137.0538164903462,
+      144.52182267725783
+    ],
+    "blurb": "钱选把 花鸟与山水与文人画 带进了这条时代支流，让这颗星在 中国·元 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·元 这条支线里的关键节点，能把 花鸟与山水、文人画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·元",
+      "花鸟与山水 / 文人画",
+      "王羲之观鹅图",
+      "浮玉山居图"
+    ],
+    "works": [
+      {
+        "title": "王羲之观鹅图",
+        "year": "1235-1305 年间",
+        "museum": "馆藏待补",
+        "note": "钱选 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "浮玉山居图",
+        "year": "1235-1305 年间",
+        "museum": "馆藏待补",
+        "note": "钱选 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "ni-zan",
+    "name": "倪瓒",
+    "latin": "Ni Zan",
+    "wikiTitle": "Ni Zan",
+    "birth": 1301,
+    "death": 1374,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "疏林平远 / 元四家",
+    "position": [
+      -263.70833821471126,
+      112.59381911434093,
+      135.68784378009693
+    ],
+    "blurb": "倪瓒把 疏林平远与元四家 带进了这条时代支流，让这颗星在 中国·元 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·元 这条支线里的关键节点，能把 疏林平远、元四家 串进更大的艺术网络。",
+    "aliases": [
+      "中国·元",
+      "疏林平远 / 元四家",
+      "容膝斋图",
+      "渔庄秋霁图"
+    ],
+    "works": [
+      {
+        "title": "容膝斋图",
+        "year": "1301-1374 年间",
+        "museum": "馆藏待补",
+        "note": "倪瓒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "渔庄秋霁图",
+        "year": "1301-1374 年间",
+        "museum": "馆藏待补",
+        "note": "倪瓒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "wu-zhen",
+    "name": "吴镇",
+    "latin": "Wu Zhen",
+    "wikiTitle": "Wu Zhen",
+    "birth": 1280,
+    "death": 1354,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "渔父题材 / 墨竹山水",
+    "position": [
+      -172.8310760510693,
+      24.583145844700624,
+      123.04658219233508
+    ],
+    "blurb": "吴镇把 渔父题材与墨竹山水 带进了这条时代支流，让这颗星在 中国·元 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·元 这条支线里的关键节点，能把 渔父题材、墨竹山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·元",
+      "渔父题材 / 墨竹山水",
+      "渔父图",
+      "双桧平远图"
+    ],
+    "works": [
+      {
+        "title": "渔父图",
+        "year": "1280-1354 年间",
+        "museum": "馆藏待补",
+        "note": "吴镇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "双桧平远图",
+        "year": "1280-1354 年间",
+        "museum": "馆藏待补",
+        "note": "吴镇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "wang-meng",
+    "name": "王蒙",
+    "latin": "Wang Meng",
+    "wikiTitle": "Wang Meng",
+    "birth": 1308,
+    "death": 1385,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "密体山水 / 元四家",
+    "position": [
+      -125.44377669505958,
+      44.45510293447397,
+      95.76026501582596
+    ],
+    "blurb": "王蒙把 密体山水与元四家 带进了这条时代支流，让这颗星在 中国·元 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·元 这条支线里的关键节点，能把 密体山水、元四家 串进更大的艺术网络。",
+    "aliases": [
+      "中国·元",
+      "密体山水 / 元四家",
+      "青卞隐居图",
+      "葛稚川移居图"
+    ],
+    "works": [
+      {
+        "title": "青卞隐居图",
+        "year": "1308-1385 年间",
+        "museum": "馆藏待补",
+        "note": "王蒙 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "葛稚川移居图",
+        "year": "1308-1385 年间",
+        "museum": "馆藏待补",
+        "note": "王蒙 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "tang-di",
+    "name": "唐棣",
+    "latin": "Tang Di",
+    "wikiTitle": "Tang Di",
+    "birth": 1296,
+    "death": 1364,
+    "eraId": "song",
+    "region": "中国·元",
+    "movement": "文人山水",
+    "position": [
+      -122.00000000000003,
+      57.4738065940806,
+      81.984
+    ],
+    "blurb": "唐棣把 文人山水 带进了这条时代支流，让这颗星在 中国·元 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·元 这条支线里的关键节点，能把 文人山水 串进更大的艺术网络。",
+    "aliases": [
+      "中国·元",
+      "文人山水",
+      "携琴访友图",
+      "秋林读书图"
+    ],
+    "works": [
+      {
+        "title": "携琴访友图",
+        "year": "1296-1364 年间",
+        "museum": "馆藏待补",
+        "note": "唐棣 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "秋林读书图",
+        "year": "1296-1364 年间",
+        "museum": "馆藏待补",
+        "note": "唐棣 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "wang-shen",
+    "name": "王诜",
+    "latin": "Wang Shen",
+    "wikiTitle": "Wang Shen",
+    "birth": 1036,
+    "death": 1093,
+    "eraId": "song",
+    "region": "中国·北宋",
+    "movement": "青绿山水 / 文人士大夫画",
+    "position": [
+      -47.55994564004105,
+      158.56075639966738,
+      87.04306788037155
+    ],
+    "blurb": "王诜把 青绿山水与文人士大夫画 带进了这条时代支流，让这颗星在 中国·北宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·北宋 这条支线里的关键节点，能把 青绿山水、文人士大夫画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·北宋",
+      "青绿山水 / 文人士大夫画",
+      "烟江叠嶂图",
+      "渔村小雪图"
+    ],
+    "works": [
+      {
+        "title": "烟江叠嶂图",
+        "year": "1036-1093 年间",
+        "museum": "馆藏待补",
+        "note": "王诜 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "渔村小雪图",
+        "year": "1036-1093 年间",
+        "museum": "馆藏待补",
+        "note": "王诜 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "li-tang",
+    "name": "李唐",
+    "latin": "Li Tang",
+    "wikiTitle": "Li Tang",
+    "birth": 1066,
+    "death": 1150,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "院体山水 / 斧劈皴",
+    "position": [
+      17.713572728102804,
+      157.59011495910048,
+      131.74367602818955
+    ],
+    "blurb": "李唐把 院体山水与斧劈皴 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 院体山水、斧劈皴 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "院体山水 / 斧劈皴",
+      "万壑松风图",
+      "采薇图"
+    ],
+    "works": [
+      {
+        "title": "万壑松风图",
+        "year": "1066-1150 年间",
+        "museum": "馆藏待补",
+        "note": "李唐 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "采薇图",
+        "year": "1066-1150 年间",
+        "museum": "馆藏待补",
+        "note": "李唐 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "su-hanchen",
+    "name": "苏汉臣",
+    "latin": "Su Hanchen",
+    "wikiTitle": "Su Hanchen",
+    "birth": 1094,
+    "death": 1172,
+    "eraId": "song",
+    "region": "中国·南宋",
+    "movement": "儿童题材 / 风俗画",
+    "position": [
+      -39.4790801560919,
+      136.23363555069005,
+      156.7017564181287
+    ],
+    "blurb": "苏汉臣把 儿童题材与风俗画 带进了这条时代支流，让这颗星在 中国·南宋 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国·南宋 这条支线里的关键节点，能把 儿童题材、风俗画 串进更大的艺术网络。",
+    "aliases": [
+      "中国·南宋",
+      "儿童题材 / 风俗画",
+      "秋庭戏婴图",
+      "五瑞图"
+    ],
+    "works": [
+      {
+        "title": "秋庭戏婴图",
+        "year": "1094-1172 年间",
+        "museum": "馆藏待补",
+        "note": "苏汉臣 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "五瑞图",
+        "year": "1094-1172 年间",
+        "museum": "馆藏待补",
+        "note": "苏汉臣 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "masaccio",
+    "name": "马萨乔",
+    "latin": "Masaccio",
+    "wikiTitle": "Masaccio",
+    "birth": 1401,
+    "death": 1428,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "早期文艺复兴 / 透视与体积",
+    "position": [
+      -0.8800000000000097,
+      -90,
+      -164
+    ],
+    "blurb": "马萨乔把 早期文艺复兴与透视与体积 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 早期文艺复兴、透视与体积 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "早期文艺复兴 / 透视与体积",
+      "圣三位一体",
+      "逐出伊甸园"
+    ],
+    "works": [
+      {
+        "title": "圣三位一体",
+        "year": "1401-1428 年间",
+        "museum": "馆藏待补",
+        "note": "马萨乔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "逐出伊甸园",
+        "year": "1401-1428 年间",
+        "museum": "馆藏待补",
+        "note": "马萨乔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "fra-angelico",
+    "name": "安杰利科修士",
+    "latin": "Fra Angelico",
+    "wikiTitle": "Fra Angelico",
+    "birth": 1395,
+    "death": 1455,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "宗教壁画 / 早期文艺复兴",
+    "position": [
+      -3.346208149914176,
+      7.075462606558773,
+      -105.39147775361357
+    ],
+    "blurb": "安杰利科修士把 宗教壁画与早期文艺复兴 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 宗教壁画、早期文艺复兴 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "宗教壁画 / 早期文艺复兴",
+      "天使报喜",
+      "圣马可修道院壁画"
+    ],
+    "works": [
+      {
+        "title": "天使报喜",
+        "year": "1395-1455 年间",
+        "museum": "馆藏待补",
+        "note": "安杰利科修士 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "圣马可修道院壁画",
+        "year": "1395-1455 年间",
+        "museum": "馆藏待补",
+        "note": "安杰利科修士 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "piero-della-francesca",
+    "name": "皮耶罗·德拉·弗朗切斯卡",
+    "latin": "Piero della Francesca",
+    "wikiTitle": "Piero della Francesca",
+    "birth": 1415,
+    "death": 1492,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "几何透视 / 静穆人物",
+    "position": [
+      -48.9018582462303,
+      -42.92733710137572,
+      -52.461671893520986
+    ],
+    "blurb": "皮耶罗·德拉·弗朗切斯卡把 几何透视与静穆人物 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 几何透视、静穆人物 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "几何透视 / 静穆人物",
+      "基督受洗",
+      "基督鞭笞"
+    ],
+    "works": [
+      {
+        "title": "基督受洗",
+        "year": "1415-1492 年间",
+        "museum": "馆藏待补",
+        "note": "皮耶罗·德拉·弗朗切斯卡 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "基督鞭笞",
+        "year": "1415-1492 年间",
+        "museum": "馆藏待补",
+        "note": "皮耶罗·德拉·弗朗切斯卡 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "paolo-uccello",
+    "name": "保罗·乌切洛",
+    "latin": "Paolo Uccello",
+    "wikiTitle": "Paolo Uccello",
+    "birth": 1397,
+    "death": 1475,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "透视实验 / 战争场面",
+    "position": [
+      -50.79452192687769,
+      -79.19949476318533,
+      -35.05195329463794
+    ],
+    "blurb": "保罗·乌切洛把 透视实验与战争场面 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 透视实验、战争场面 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "透视实验 / 战争场面",
+      "圣罗马诺之战",
+      "夜猎图"
+    ],
+    "works": [
+      {
+        "title": "圣罗马诺之战",
+        "year": "1397-1475 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·乌切洛 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "夜猎图",
+        "year": "1397-1475 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·乌切洛 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "andrea-mantegna",
+    "name": "安德烈亚·曼特尼亚",
+    "latin": "Andrea Mantegna",
+    "wikiTitle": "Andrea Mantegna",
+    "birth": 1431,
+    "death": 1506,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "透视缩短 / 古典主义",
+    "position": [
+      -141.8814511428794,
+      -182.8289586596225,
+      -18.702980165977095
+    ],
+    "blurb": "安德烈亚·曼特尼亚把 透视缩短与古典主义 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 透视缩短、古典主义 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "透视缩短 / 古典主义",
+      "死去的基督",
+      "婚礼室壁画"
+    ],
+    "works": [
+      {
+        "title": "死去的基督",
+        "year": "1431-1506 年间",
+        "museum": "馆藏待补",
+        "note": "安德烈亚·曼特尼亚 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "婚礼室壁画",
+        "year": "1431-1506 年间",
+        "museum": "馆藏待补",
+        "note": "安德烈亚·曼特尼亚 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "giovanni-bellini",
+    "name": "乔瓦尼·贝利尼",
+    "latin": "Giovanni Bellini",
+    "wikiTitle": "Giovanni Bellini",
+    "birth": 1430,
+    "death": 1516,
+    "eraId": "renaissance",
+    "region": "意大利·威尼斯",
+    "movement": "威尼斯画派先驱",
+    "position": [
+      -169.5303136822531,
+      -118.17655086499454,
+      -108.07364916771512
+    ],
+    "blurb": "乔瓦尼·贝利尼把 威尼斯画派先驱 带进了这条时代支流，让这颗星在 意大利·威尼斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利·威尼斯 这条支线里的关键节点，能把 威尼斯画派先驱 串进更大的艺术网络。",
+    "aliases": [
+      "意大利·威尼斯",
+      "威尼斯画派先驱",
+      "众神的盛宴",
+      "圣弗朗西斯在沙漠中"
+    ],
+    "works": [
+      {
+        "title": "众神的盛宴",
+        "year": "1430-1516 年间",
+        "museum": "馆藏待补",
+        "note": "乔瓦尼·贝利尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "圣弗朗西斯在沙漠中",
+        "year": "1430-1516 年间",
+        "museum": "馆藏待补",
+        "note": "乔瓦尼·贝利尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jan-van-eyck",
+    "name": "扬·凡·艾克",
+    "latin": "Jan van Eyck",
+    "wikiTitle": "Jan van Eyck",
+    "birth": 1390,
+    "death": 1441,
+    "eraId": "renaissance",
+    "region": "尼德兰",
+    "movement": "北方文艺复兴 / 油画",
+    "position": [
+      -186.7522903610041,
+      -71.60939642402492,
+      -102.88914288965614
+    ],
+    "blurb": "扬·凡·艾克把 北方文艺复兴与油画 带进了这条时代支流，让这颗星在 尼德兰 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 尼德兰 这条支线里的关键节点，能把 北方文艺复兴、油画 串进更大的艺术网络。",
+    "aliases": [
+      "尼德兰",
+      "北方文艺复兴 / 油画",
+      "阿尔诺芬尼夫妇像",
+      "根特祭坛画"
+    ],
+    "works": [
+      {
+        "title": "阿尔诺芬尼夫妇像",
+        "year": "1390-1441 年间",
+        "museum": "馆藏待补",
+        "note": "扬·凡·艾克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "根特祭坛画",
+        "year": "1390-1441 年间",
+        "museum": "馆藏待补",
+        "note": "扬·凡·艾克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "albrecht-durer",
+    "name": "阿尔布雷希特·丢勒",
+    "latin": "Albrecht Durer",
+    "wikiTitle": "Albrecht Durer",
+    "birth": 1471,
+    "death": 1528,
+    "eraId": "renaissance",
+    "region": "德意志",
+    "movement": "版画 / 北方文艺复兴",
+    "position": [
+      -225.17600234188055,
+      18.39708502264216,
+      -160.47436254245133
+    ],
+    "blurb": "阿尔布雷希特·丢勒把 版画与北方文艺复兴 带进了这条时代支流，让这颗星在 德意志 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 德意志 这条支线里的关键节点，能把 版画、北方文艺复兴 串进更大的艺术网络。",
+    "aliases": [
+      "德意志",
+      "版画 / 北方文艺复兴",
+      "兔子",
+      "忧郁 I"
+    ],
+    "works": [
+      {
+        "title": "兔子",
+        "year": "1471-1528 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔布雷希特·丢勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "忧郁 I",
+        "year": "1471-1528 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔布雷希特·丢勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "giorgione",
+    "name": "乔尔乔内",
+    "latin": "Giorgione",
+    "wikiTitle": "Giorgione",
+    "birth": 1477,
+    "death": 1510,
+    "eraId": "renaissance",
+    "region": "意大利·威尼斯",
+    "movement": "诗意风景 / 威尼斯画派",
+    "position": [
+      -219.20423651763758,
+      -60.78581125954837,
+      -237.10148125210787
+    ],
+    "blurb": "乔尔乔内把 诗意风景与威尼斯画派 带进了这条时代支流，让这颗星在 意大利·威尼斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利·威尼斯 这条支线里的关键节点，能把 诗意风景、威尼斯画派 串进更大的艺术网络。",
+    "aliases": [
+      "意大利·威尼斯",
+      "诗意风景 / 威尼斯画派",
+      "暴风雨",
+      "沉睡的维纳斯"
+    ],
+    "works": [
+      {
+        "title": "暴风雨",
+        "year": "1477-1510 年间",
+        "museum": "馆藏待补",
+        "note": "乔尔乔内 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "沉睡的维纳斯",
+        "year": "1477-1510 年间",
+        "museum": "馆藏待补",
+        "note": "乔尔乔内 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "correggio",
+    "name": "科雷乔",
+    "latin": "Correggio",
+    "wikiTitle": "Correggio",
+    "birth": 1489,
+    "death": 1534,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "柔光人体 / 穹顶幻象",
+    "position": [
+      -228.1480719291814,
+      -97.56495723383671,
+      -252.9859849150621
+    ],
+    "blurb": "科雷乔把 柔光人体与穹顶幻象 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 柔光人体、穹顶幻象 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "柔光人体 / 穹顶幻象",
+      "牧羊人朝拜",
+      "木星与伊俄"
+    ],
+    "works": [
+      {
+        "title": "牧羊人朝拜",
+        "year": "1489-1534 年间",
+        "museum": "馆藏待补",
+        "note": "科雷乔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "木星与伊俄",
+        "year": "1489-1534 年间",
+        "museum": "馆藏待补",
+        "note": "科雷乔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "tintoretto",
+    "name": "丁托列托",
+    "latin": "Tintoretto",
+    "wikiTitle": "Tintoretto",
+    "birth": 1518,
+    "death": 1594,
+    "eraId": "renaissance",
+    "region": "意大利·威尼斯",
+    "movement": "晚期威尼斯画派 / 动势构图",
+    "position": [
+      -128.043805661501,
+      -173.77870720688347,
+      -247.00690853268884
+    ],
+    "blurb": "丁托列托把 晚期威尼斯画派与动势构图 带进了这条时代支流，让这颗星在 意大利·威尼斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利·威尼斯 这条支线里的关键节点，能把 晚期威尼斯画派、动势构图 串进更大的艺术网络。",
+    "aliases": [
+      "意大利·威尼斯",
+      "晚期威尼斯画派 / 动势构图",
+      "天堂",
+      "最后的晚餐"
+    ],
+    "works": [
+      {
+        "title": "天堂",
+        "year": "1518-1594 年间",
+        "museum": "馆藏待补",
+        "note": "丁托列托 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "最后的晚餐",
+        "year": "1518-1594 年间",
+        "museum": "馆藏待补",
+        "note": "丁托列托 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "el-greco",
+    "name": "埃尔·格列柯",
+    "latin": "El Greco",
+    "wikiTitle": "El Greco",
+    "birth": 1541,
+    "death": 1614,
+    "eraId": "renaissance",
+    "region": "西班牙",
+    "movement": "样式主义 / 拉长人体",
+    "position": [
+      -67.67369996375018,
+      -100.19348894639383,
+      -264.5986640273111
+    ],
+    "blurb": "埃尔·格列柯把 样式主义与拉长人体 带进了这条时代支流，让这颗星在 西班牙 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 西班牙 这条支线里的关键节点，能把 样式主义、拉长人体 串进更大的艺术网络。",
+    "aliases": [
+      "西班牙",
+      "样式主义 / 拉长人体",
+      "奥尔加斯伯爵的葬礼",
+      "拉奥孔"
+    ],
+    "works": [
+      {
+        "title": "奥尔加斯伯爵的葬礼",
+        "year": "1541-1614 年间",
+        "museum": "馆藏待补",
+        "note": "埃尔·格列柯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "拉奥孔",
+        "year": "1541-1614 年间",
+        "museum": "馆藏待补",
+        "note": "埃尔·格列柯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "hans-holbein-the-younger",
+    "name": "小汉斯·荷尔拜因",
+    "latin": "Hans Holbein the Younger",
+    "wikiTitle": "Hans Holbein the Younger",
+    "birth": 1497,
+    "death": 1543,
+    "eraId": "renaissance",
+    "region": "德意志 / 英国",
+    "movement": "宫廷肖像",
+    "position": [
+      -56.06511578293682,
+      -73.28578000947616,
+      -277.9137452957683
+    ],
+    "blurb": "小汉斯·荷尔拜因把 宫廷肖像 带进了这条时代支流，让这颗星在 德意志 / 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 德意志 / 英国 这条支线里的关键节点，能把 宫廷肖像 串进更大的艺术网络。",
+    "aliases": [
+      "德意志 / 英国",
+      "宫廷肖像",
+      "大使们",
+      "亨利八世像"
+    ],
+    "works": [
+      {
+        "title": "大使们",
+        "year": "1497-1543 年间",
+        "museum": "馆藏待补",
+        "note": "小汉斯·荷尔拜因 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "亨利八世像",
+        "year": "1497-1543 年间",
+        "museum": "馆藏待补",
+        "note": "小汉斯·荷尔拜因 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "perugino",
+    "name": "佩鲁吉诺",
+    "latin": "Perugino",
+    "wikiTitle": "Perugino",
+    "birth": 1446,
+    "death": 1523,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "乌姆布里亚画派",
+    "position": [
+      19.767177931617283,
+      8.973063152887534,
+      -246.88848961994225
+    ],
+    "blurb": "佩鲁吉诺把 乌姆布里亚画派 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 乌姆布里亚画派 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "乌姆布里亚画派",
+      "把钥匙交给圣彼得",
+      "圣塞巴斯蒂安"
+    ],
+    "works": [
+      {
+        "title": "把钥匙交给圣彼得",
+        "year": "1446-1523 年间",
+        "museum": "馆藏待补",
+        "note": "佩鲁吉诺 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "圣塞巴斯蒂安",
+        "year": "1446-1523 年间",
+        "museum": "馆藏待补",
+        "note": "佩鲁吉诺 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "andrea-del-verrocchio",
+    "name": "韦罗基奥",
+    "latin": "Andrea del Verrocchio",
+    "wikiTitle": "Andrea del Verrocchio",
+    "birth": 1435,
+    "death": 1488,
+    "eraId": "renaissance",
+    "region": "意大利",
+    "movement": "工作坊传统 / 人物画",
+    "position": [
+      67.06094627506198,
+      -58.87751960157605,
+      -172.90866325055347
+    ],
+    "blurb": "韦罗基奥把 工作坊传统与人物画 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 工作坊传统、人物画 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "工作坊传统 / 人物画",
+      "基督受洗",
+      "抱花圣母"
+    ],
+    "works": [
+      {
+        "title": "基督受洗",
+        "year": "1435-1488 年间",
+        "museum": "馆藏待补",
+        "note": "韦罗基奥 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "抱花圣母",
+        "year": "1435-1488 年间",
+        "museum": "馆藏待补",
+        "note": "韦罗基奥 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "peter-paul-rubens",
+    "name": "彼得·保罗·鲁本斯",
+    "latin": "Peter Paul Rubens",
+    "wikiTitle": "Peter Paul Rubens",
+    "birth": 1577,
+    "death": 1640,
+    "eraId": "baroque",
+    "region": "佛兰德斯",
+    "movement": "巴洛克 / 动势与肉身",
+    "position": [
+      111.83999999999999,
+      50,
+      -174
+    ],
+    "blurb": "彼得·保罗·鲁本斯把 巴洛克与动势与肉身 带进了这条时代支流，让这颗星在 佛兰德斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 佛兰德斯 这条支线里的关键节点，能把 巴洛克、动势与肉身 串进更大的艺术网络。",
+    "aliases": [
+      "佛兰德斯",
+      "巴洛克 / 动势与肉身",
+      "劫夺留西帕斯的女儿",
+      "玛丽·德·美第奇组画"
+    ],
+    "works": [
+      {
+        "title": "劫夺留西帕斯的女儿",
+        "year": "1577-1640 年间",
+        "museum": "馆藏待补",
+        "note": "彼得·保罗·鲁本斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "玛丽·德·美第奇组画",
+        "year": "1577-1640 年间",
+        "museum": "馆藏待补",
+        "note": "彼得·保罗·鲁本斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "anthony-van-dyck",
+    "name": "安东尼·凡·戴克",
+    "latin": "Anthony van Dyck",
+    "wikiTitle": "Anthony van Dyck",
+    "birth": 1599,
+    "death": 1641,
+    "eraId": "baroque",
+    "region": "佛兰德斯 / 英国",
+    "movement": "宫廷肖像",
+    "position": [
+      112.32396628344785,
+      139.4135698152344,
+      -118.26365213692793
+    ],
+    "blurb": "安东尼·凡·戴克把 宫廷肖像 带进了这条时代支流，让这颗星在 佛兰德斯 / 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 佛兰德斯 / 英国 这条支线里的关键节点，能把 宫廷肖像 串进更大的艺术网络。",
+    "aliases": [
+      "佛兰德斯 / 英国",
+      "宫廷肖像",
+      "查理一世骑马像",
+      "自画像"
+    ],
+    "works": [
+      {
+        "title": "查理一世骑马像",
+        "year": "1599-1641 年间",
+        "museum": "馆藏待补",
+        "note": "安东尼·凡·戴克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "自画像",
+        "year": "1599-1641 年间",
+        "museum": "馆藏待补",
+        "note": "安东尼·凡·戴克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "diego-velazquez",
+    "name": "迭戈·委拉斯开兹",
+    "latin": "Diego Velazquez",
+    "wikiTitle": "Diego Velazquez",
+    "birth": 1599,
+    "death": 1660,
+    "eraId": "baroque",
+    "region": "西班牙",
+    "movement": "宫廷肖像 / 空间观看",
+    "position": [
+      78.98350564928393,
+      107.70638435594284,
+      -64.49040096215931
+    ],
+    "blurb": "迭戈·委拉斯开兹把 宫廷肖像与空间观看 带进了这条时代支流，让这颗星在 西班牙 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 西班牙 这条支线里的关键节点，能把 宫廷肖像、空间观看 串进更大的艺术网络。",
+    "aliases": [
+      "西班牙",
+      "宫廷肖像 / 空间观看",
+      "宫娥",
+      "教皇英诺森十世肖像"
+    ],
+    "works": [
+      {
+        "title": "宫娥",
+        "year": "1599-1660 年间",
+        "museum": "馆藏待补",
+        "note": "迭戈·委拉斯开兹 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "教皇英诺森十世肖像",
+        "year": "1599-1660 年间",
+        "museum": "馆藏待补",
+        "note": "迭戈·委拉斯开兹 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "frans-hals",
+    "name": "弗兰斯·哈尔斯",
+    "latin": "Frans Hals",
+    "wikiTitle": "Frans Hals",
+    "birth": 1582,
+    "death": 1666,
+    "eraId": "baroque",
+    "region": "荷兰",
+    "movement": "肖像画 / 笔触活力",
+    "position": [
+      84.84459477619546,
+      83.0549309065972,
+      -49.43623768136037
+    ],
+    "blurb": "弗兰斯·哈尔斯把 肖像画与笔触活力 带进了这条时代支流，让这颗星在 荷兰 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 荷兰 这条支线里的关键节点，能把 肖像画、笔触活力 串进更大的艺术网络。",
+    "aliases": [
+      "荷兰",
+      "肖像画 / 笔触活力",
+      "笑骑士",
+      "圣乔治市民卫队宴会"
+    ],
+    "works": [
+      {
+        "title": "笑骑士",
+        "year": "1582-1666 年间",
+        "museum": "馆藏待补",
+        "note": "弗兰斯·哈尔斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "圣乔治市民卫队宴会",
+        "year": "1582-1666 年间",
+        "museum": "馆藏待补",
+        "note": "弗兰斯·哈尔斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "artemisia-gentileschi",
+    "name": "阿尔泰米西亚·真蒂莱斯基",
+    "latin": "Artemisia Gentileschi",
+    "wikiTitle": "Artemisia Gentileschi",
+    "birth": 1593,
+    "death": 1653,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "巴洛克 / 女性英雄题材",
+    "position": [
+      13.103536270815686,
+      -27.515913028844267,
+      -19.21978086975369
+    ],
+    "blurb": "阿尔泰米西亚·真蒂莱斯基把 巴洛克与女性英雄题材 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 巴洛克、女性英雄题材 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "巴洛克 / 女性英雄题材",
+      "朱迪斯斩杀赫罗弗尼斯",
+      "自画像作为绘画寓言"
+    ],
+    "works": [
+      {
+        "title": "朱迪斯斩杀赫罗弗尼斯",
+        "year": "1593-1653 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔泰米西亚·真蒂莱斯基 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "自画像作为绘画寓言",
+        "year": "1593-1653 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔泰米西亚·真蒂莱斯基 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "nicolas-poussin",
+    "name": "尼古拉·普桑",
+    "latin": "Nicolas Poussin",
+    "wikiTitle": "Nicolas Poussin",
+    "birth": 1594,
+    "death": 1665,
+    "eraId": "baroque",
+    "region": "法国",
+    "movement": "古典巴洛克 / 历史画",
+    "position": [
+      -25.07022594346809,
+      -6.863100004884629,
+      -101.27532973703899
+    ],
+    "blurb": "尼古拉·普桑把 古典巴洛克与历史画 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 古典巴洛克、历史画 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "古典巴洛克 / 历史画",
+      "阿卡迪亚的牧人",
+      "萨宾妇女被掳"
+    ],
+    "works": [
+      {
+        "title": "阿卡迪亚的牧人",
+        "year": "1594-1665 年间",
+        "museum": "馆藏待补",
+        "note": "尼古拉·普桑 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "萨宾妇女被掳",
+        "year": "1594-1665 年间",
+        "museum": "馆藏待补",
+        "note": "尼古拉·普桑 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "claude-lorrain",
+    "name": "克劳德·洛兰",
+    "latin": "Claude Lorrain",
+    "wikiTitle": "Claude Lorrain",
+    "birth": 1600,
+    "death": 1682,
+    "eraId": "baroque",
+    "region": "法国 / 罗马",
+    "movement": "理想风景",
+    "position": [
+      -35.005909509944864,
+      24.65832419219022,
+      -88.84836978028932
+    ],
+    "blurb": "克劳德·洛兰把 理想风景 带进了这条时代支流，让这颗星在 法国 / 罗马 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 / 罗马 这条支线里的关键节点，能把 理想风景 串进更大的艺术网络。",
+    "aliases": [
+      "法国 / 罗马",
+      "理想风景",
+      "海港日出",
+      "与以撒和利百加的婚礼风景"
+    ],
+    "works": [
+      {
+        "title": "海港日出",
+        "year": "1600-1682 年间",
+        "museum": "馆藏待补",
+        "note": "克劳德·洛兰 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "与以撒和利百加的婚礼风景",
+        "year": "1600-1682 年间",
+        "museum": "馆藏待补",
+        "note": "克劳德·洛兰 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jusepe-de-ribera",
+    "name": "何塞·德·里贝拉",
+    "latin": "Jusepe de Ribera",
+    "wikiTitle": "Jusepe de Ribera",
+    "birth": 1591,
+    "death": 1652,
+    "eraId": "baroque",
+    "region": "西班牙 / 那不勒斯",
+    "movement": "暗色写实 / 宗教苦难",
+    "position": [
+      -82.5451863571179,
+      132.32017441143415,
+      -129.0436382367042
+    ],
+    "blurb": "何塞·德·里贝拉把 暗色写实与宗教苦难 带进了这条时代支流，让这颗星在 西班牙 / 那不勒斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 西班牙 / 那不勒斯 这条支线里的关键节点，能把 暗色写实、宗教苦难 串进更大的艺术网络。",
+    "aliases": [
+      "西班牙 / 那不勒斯",
+      "暗色写实 / 宗教苦难",
+      "圣巴多罗买殉难",
+      "跛童"
+    ],
+    "works": [
+      {
+        "title": "圣巴多罗买殉难",
+        "year": "1591-1652 年间",
+        "museum": "馆藏待补",
+        "note": "何塞·德·里贝拉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "跛童",
+        "year": "1591-1652 年间",
+        "museum": "馆藏待补",
+        "note": "何塞·德·里贝拉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "georges-de-la-tour",
+    "name": "乔治·德·拉·图尔",
+    "latin": "Georges de La Tour",
+    "wikiTitle": "Georges de La Tour",
+    "birth": 1593,
+    "death": 1652,
+    "eraId": "baroque",
+    "region": "法国",
+    "movement": "烛光场景 / 静夜宗教画",
+    "position": [
+      -103.99504920408046,
+      123.38771653811636,
+      -198.25495962400987
+    ],
+    "blurb": "乔治·德·拉·图尔把 烛光场景与静夜宗教画 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 烛光场景、静夜宗教画 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "烛光场景 / 静夜宗教画",
+      "新生儿",
+      "抹大拉的马利亚与夜灯"
+    ],
+    "works": [
+      {
+        "title": "新生儿",
+        "year": "1593-1652 年间",
+        "museum": "馆藏待补",
+        "note": "乔治·德·拉·图尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "抹大拉的马利亚与夜灯",
+        "year": "1593-1652 年间",
+        "museum": "馆藏待补",
+        "note": "乔治·德·拉·图尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "bartolome-esteban-murillo",
+    "name": "巴托洛梅·牟利罗",
+    "latin": "Bartolome Esteban Murillo",
+    "wikiTitle": "Bartolome Esteban Murillo",
+    "birth": 1617,
+    "death": 1682,
+    "eraId": "baroque",
+    "region": "西班牙",
+    "movement": "宗教与街头儿童",
+    "position": [
+      -118.89809867820458,
+      106.12473282991334,
+      -202.5502650802674
+    ],
+    "blurb": "巴托洛梅·牟利罗把 宗教与街头儿童 带进了这条时代支流，让这颗星在 西班牙 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 西班牙 这条支线里的关键节点，能把 宗教与街头儿童 串进更大的艺术网络。",
+    "aliases": [
+      "西班牙",
+      "宗教与街头儿童",
+      "无原罪受胎",
+      "吃葡萄和甜瓜的孩子"
+    ],
+    "works": [
+      {
+        "title": "无原罪受胎",
+        "year": "1617-1682 年间",
+        "museum": "馆藏待补",
+        "note": "巴托洛梅·牟利罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "吃葡萄和甜瓜的孩子",
+        "year": "1617-1682 年间",
+        "museum": "馆藏待补",
+        "note": "巴托洛梅·牟利罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "annibale-carracci",
+    "name": "安尼巴莱·卡拉奇",
+    "latin": "Annibale Carracci",
+    "wikiTitle": "Annibale Carracci",
+    "birth": 1560,
+    "death": 1609,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "博洛尼亚学院派",
+    "position": [
+      -37.713352905465186,
+      5.739846330922774,
+      -234.63435535074572
+    ],
+    "blurb": "安尼巴莱·卡拉奇把 博洛尼亚学院派 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 博洛尼亚学院派 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "博洛尼亚学院派",
+      "吃豆子的人",
+      "法尔内塞画廊壁画"
+    ],
+    "works": [
+      {
+        "title": "吃豆子的人",
+        "year": "1560-1609 年间",
+        "museum": "馆藏待补",
+        "note": "安尼巴莱·卡拉奇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "法尔内塞画廊壁画",
+        "year": "1560-1609 年间",
+        "museum": "馆藏待补",
+        "note": "安尼巴莱·卡拉奇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "guido-reni",
+    "name": "圭多·雷尼",
+    "latin": "Guido Reni",
+    "wikiTitle": "Guido Reni",
+    "birth": 1575,
+    "death": 1642,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "理想化宗教人物",
+    "position": [
+      -2.6368052906182307,
+      -16.78989427037115,
+      -276.34561565678064
+    ],
+    "blurb": "圭多·雷尼把 理想化宗教人物 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 理想化宗教人物 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "理想化宗教人物",
+      "无辜者的屠杀",
+      "阿塔兰塔与希波墨涅斯"
+    ],
+    "works": [
+      {
+        "title": "无辜者的屠杀",
+        "year": "1575-1642 年间",
+        "museum": "馆藏待补",
+        "note": "圭多·雷尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "阿塔兰塔与希波墨涅斯",
+        "year": "1575-1642 年间",
+        "museum": "馆藏待补",
+        "note": "圭多·雷尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "salvator-rosa",
+    "name": "萨尔瓦托尔·罗萨",
+    "latin": "Salvator Rosa",
+    "wikiTitle": "Salvator Rosa",
+    "birth": 1615,
+    "death": 1673,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "风暴风景 / 浪漫先声",
+    "position": [
+      -5.915672554166623,
+      -14.732577745577046,
+      -292.2353026639483
+    ],
+    "blurb": "萨尔瓦托尔·罗萨把 风暴风景与浪漫先声 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 风暴风景、浪漫先声 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "风暴风景 / 浪漫先声",
+      "巫术",
+      "海湾景色"
+    ],
+    "works": [
+      {
+        "title": "巫术",
+        "year": "1615-1673 年间",
+        "museum": "馆藏待补",
+        "note": "萨尔瓦托尔·罗萨 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "海湾景色",
+        "year": "1615-1673 年间",
+        "museum": "馆藏待补",
+        "note": "萨尔瓦托尔·罗萨 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jan-steen",
+    "name": "扬·斯汀",
+    "latin": "Jan Steen",
+    "wikiTitle": "Jan Steen",
+    "birth": 1626,
+    "death": 1679,
+    "eraId": "baroque",
+    "region": "荷兰",
+    "movement": "风俗画",
+    "position": [
+      61.518047795626025,
+      93.89151757315068,
+      -308.021190796487
+    ],
+    "blurb": "扬·斯汀把 风俗画 带进了这条时代支流，让这颗星在 荷兰 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 荷兰 这条支线里的关键节点，能把 风俗画 串进更大的艺术网络。",
+    "aliases": [
+      "荷兰",
+      "风俗画",
+      "圣尼古拉斯节",
+      "欢乐家庭"
+    ],
+    "works": [
+      {
+        "title": "圣尼古拉斯节",
+        "year": "1626-1679 年间",
+        "museum": "馆藏待补",
+        "note": "扬·斯汀 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "欢乐家庭",
+        "year": "1626-1679 年间",
+        "museum": "馆藏待补",
+        "note": "扬·斯汀 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "rachel-ruysch",
+    "name": "拉谢尔·鲁伊施",
+    "latin": "Rachel Ruysch",
+    "wikiTitle": "Rachel Ruysch",
+    "birth": 1664,
+    "death": 1750,
+    "eraId": "baroque",
+    "region": "荷兰",
+    "movement": "花卉静物",
+    "position": [
+      133.97755009565742,
+      146.7121444146766,
+      -279.77350838428765
+    ],
+    "blurb": "拉谢尔·鲁伊施把 花卉静物 带进了这条时代支流，让这颗星在 荷兰 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 荷兰 这条支线里的关键节点，能把 花卉静物 串进更大的艺术网络。",
+    "aliases": [
+      "荷兰",
+      "花卉静物",
+      "花束静物",
+      "桌上花卉"
+    ],
+    "works": [
+      {
+        "title": "花束静物",
+        "year": "1664-1750 年间",
+        "museum": "馆藏待补",
+        "note": "拉谢尔·鲁伊施 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "桌上花卉",
+        "year": "1664-1750 年间",
+        "museum": "馆藏待补",
+        "note": "拉谢尔·鲁伊施 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "giuseppe-arcimboldo",
+    "name": "朱塞佩·阿尔钦博托",
+    "latin": "Giuseppe Arcimboldo",
+    "wikiTitle": "Giuseppe Arcimboldo",
+    "birth": 1526,
+    "death": 1593,
+    "eraId": "baroque",
+    "region": "意大利",
+    "movement": "怪诞肖像 / 四季主题",
+    "position": [
+      89.43652545422134,
+      140.5862354215402,
+      -234.95598183714054
+    ],
+    "blurb": "朱塞佩·阿尔钦博托把 怪诞肖像与四季主题 带进了这条时代支流，让这颗星在 意大利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 这条支线里的关键节点，能把 怪诞肖像、四季主题 串进更大的艺术网络。",
+    "aliases": [
+      "意大利",
+      "怪诞肖像 / 四季主题",
+      "四季",
+      "图书管理员"
+    ],
+    "works": [
+      {
+        "title": "四季",
+        "year": "1526-1593 年间",
+        "museum": "馆藏待补",
+        "note": "朱塞佩·阿尔钦博托 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "图书管理员",
+        "year": "1526-1593 年间",
+        "museum": "馆藏待补",
+        "note": "朱塞佩·阿尔钦博托 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "william-hogarth",
+    "name": "威廉·霍加斯",
+    "latin": "William Hogarth",
+    "wikiTitle": "William Hogarth",
+    "birth": 1697,
+    "death": 1764,
+    "eraId": "baroque",
+    "region": "英国",
+    "movement": "叙事组画 / 讽刺画",
+    "position": [
+      125.4179086912842,
+      28.131842081808884,
+      -194.10999383670398
+    ],
+    "blurb": "威廉·霍加斯把 叙事组画与讽刺画 带进了这条时代支流，让这颗星在 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 英国 这条支线里的关键节点，能把 叙事组画、讽刺画 串进更大的艺术网络。",
+    "aliases": [
+      "英国",
+      "叙事组画 / 讽刺画",
+      "时髦婚姻",
+      "妓女生涯"
+    ],
+    "works": [
+      {
+        "title": "时髦婚姻",
+        "year": "1697-1764 年间",
+        "museum": "馆藏待补",
+        "note": "威廉·霍加斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "妓女生涯",
+        "year": "1697-1764 年间",
+        "museum": "馆藏待补",
+        "note": "威廉·霍加斯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "eugene-delacroix",
+    "name": "欧仁·德拉克罗瓦",
+    "latin": "Eugene Delacroix",
+    "wikiTitle": "Eugene Delacroix",
+    "birth": 1798,
+    "death": 1863,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "浪漫主义 / 色彩激情",
+    "position": [
+      208.27999999999997,
+      10,
+      22
+    ],
+    "blurb": "欧仁·德拉克罗瓦把 浪漫主义与色彩激情 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 浪漫主义、色彩激情 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "浪漫主义 / 色彩激情",
+      "自由引导人民",
+      "萨达纳帕卢斯之死"
+    ],
+    "works": [
+      {
+        "title": "自由引导人民",
+        "year": "1798-1863 年间",
+        "museum": "馆藏待补",
+        "note": "欧仁·德拉克罗瓦 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "萨达纳帕卢斯之死",
+        "year": "1798-1863 年间",
+        "museum": "馆藏待补",
+        "note": "欧仁·德拉克罗瓦 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "theodore-gericault",
+    "name": "泰奥多尔·籍里柯",
+    "latin": "Theodore Gericault",
+    "wikiTitle": "Theodore Gericault",
+    "birth": 1791,
+    "death": 1824,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "浪漫主义 / 动荡现实",
+    "position": [
+      205.78371614094056,
+      105.11641021067454,
+      81.37968701278625
+    ],
+    "blurb": "泰奥多尔·籍里柯把 浪漫主义与动荡现实 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 浪漫主义、动荡现实 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "浪漫主义 / 动荡现实",
+      "梅杜萨之筏",
+      "军官猎骑图"
+    ],
+    "works": [
+      {
+        "title": "梅杜萨之筏",
+        "year": "1791-1824 年间",
+        "museum": "馆藏待补",
+        "note": "泰奥多尔·籍里柯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "军官猎骑图",
+        "year": "1791-1824 年间",
+        "museum": "馆藏待补",
+        "note": "泰奥多尔·籍里柯 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jean-auguste-dominique-ingres",
+    "name": "安格尔",
+    "latin": "Jean-Auguste-Dominique Ingres",
+    "wikiTitle": "Jean-Auguste-Dominique Ingres",
+    "birth": 1780,
+    "death": 1867,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "新古典主义 / 线条",
+    "position": [
+      159.67250933613275,
+      56.28388283695142,
+      135.00593768682742
+    ],
+    "blurb": "安格尔把 新古典主义与线条 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 新古典主义、线条 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "新古典主义 / 线条",
+      "大宫女",
+      "土耳其浴室"
+    ],
+    "works": [
+      {
+        "title": "大宫女",
+        "year": "1780-1867 年间",
+        "museum": "馆藏待补",
+        "note": "安格尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "土耳其浴室",
+        "year": "1780-1867 年间",
+        "museum": "馆藏待补",
+        "note": "安格尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jean-francois-millet",
+    "name": "让-弗朗索瓦·米勒",
+    "latin": "Jean-Francois Millet",
+    "wikiTitle": "Jean-Francois Millet",
+    "birth": 1814,
+    "death": 1875,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "巴比松派 / 农民题材",
+    "position": [
+      157.75676439108722,
+      20.889856189222872,
+      152.64473153043264
+    ],
+    "blurb": "让-弗朗索瓦·米勒把 巴比松派与农民题材 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 巴比松派、农民题材 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "巴比松派 / 农民题材",
+      "拾穗者",
+      "晚钟"
+    ],
+    "works": [
+      {
+        "title": "拾穗者",
+        "year": "1814-1875 年间",
+        "museum": "馆藏待补",
+        "note": "让-弗朗索瓦·米勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "晚钟",
+        "year": "1814-1875 年间",
+        "museum": "馆藏待补",
+        "note": "让-弗朗索瓦·米勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "gustave-courbet",
+    "name": "古斯塔夫·库尔贝",
+    "latin": "Gustave Courbet",
+    "wikiTitle": "Gustave Courbet",
+    "birth": 1819,
+    "death": 1877,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "现实主义",
+    "position": [
+      65.55901896513427,
+      -80.85387443282201,
+      169.20882272657585
+    ],
+    "blurb": "古斯塔夫·库尔贝把 现实主义 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 现实主义 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "现实主义",
+      "石工",
+      "画室"
+    ],
+    "works": [
+      {
+        "title": "石工",
+        "year": "1819-1877 年间",
+        "museum": "馆藏待补",
+        "note": "古斯塔夫·库尔贝 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "画室",
+        "year": "1819-1877 年间",
+        "museum": "馆藏待补",
+        "note": "古斯塔夫·库尔贝 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "camille-corot",
+    "name": "卡米耶·柯罗",
+    "latin": "Camille Corot",
+    "wikiTitle": "Camille Corot",
+    "birth": 1796,
+    "death": 1875,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "风景画 / 巴比松派",
+    "position": [
+      37.57297517528039,
+      -17.470666804037215,
+      78.66222386955178
+    ],
+    "blurb": "卡米耶·柯罗把 风景画与巴比松派 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 风景画、巴比松派 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "风景画 / 巴比松派",
+      "莫特枫丹的回忆",
+      "蓝衣女子"
+    ],
+    "works": [
+      {
+        "title": "莫特枫丹的回忆",
+        "year": "1796-1875 年间",
+        "museum": "馆藏待补",
+        "note": "卡米耶·柯罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "蓝衣女子",
+        "year": "1796-1875 年间",
+        "museum": "馆藏待补",
+        "note": "卡米耶·柯罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "edouard-manet",
+    "name": "爱德华·马奈",
+    "latin": "Edouard Manet",
+    "wikiTitle": "Edouard Manet",
+    "birth": 1832,
+    "death": 1883,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "现代生活 / 印象派前驱",
+    "position": [
+      20.140974390691,
+      28.212080095635173,
+      83.91494733547995
+    ],
+    "blurb": "爱德华·马奈把 现代生活与印象派前驱 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 现代生活、印象派前驱 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "现代生活 / 印象派前驱",
+      "草地上的午餐",
+      "奥林匹亚"
+    ],
+    "works": [
+      {
+        "title": "草地上的午餐",
+        "year": "1832-1883 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·马奈 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "奥林匹亚",
+        "year": "1832-1883 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·马奈 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "edgar-degas",
+    "name": "埃德加·德加",
+    "latin": "Edgar Degas",
+    "wikiTitle": "Edgar Degas",
+    "birth": 1834,
+    "death": 1917,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "舞者 / 都市视角",
+    "position": [
+      -18.75131944361081,
+      116.40991300088382,
+      25.57202742409537
+    ],
+    "blurb": "埃德加·德加把 舞者与都市视角 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 舞者、都市视角 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "舞者 / 都市视角",
+      "舞蹈课",
+      "苦艾酒"
+    ],
+    "works": [
+      {
+        "title": "舞蹈课",
+        "year": "1834-1917 年间",
+        "museum": "馆藏待补",
+        "note": "埃德加·德加 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "苦艾酒",
+        "year": "1834-1917 年间",
+        "museum": "馆藏待补",
+        "note": "埃德加·德加 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "berthe-morisot",
+    "name": "贝尔特·莫里索",
+    "latin": "Berthe Morisot",
+    "wikiTitle": "Berthe Morisot",
+    "birth": 1841,
+    "death": 1895,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "印象派 / 女性与家庭",
+    "position": [
+      -12.706727206877076,
+      38.59261025661224,
+      -52.06334284753032
+    ],
+    "blurb": "贝尔特·莫里索把 印象派与女性与家庭 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 印象派、女性与家庭 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "印象派 / 女性与家庭",
+      "摇篮",
+      "夏日"
+    ],
+    "works": [
+      {
+        "title": "摇篮",
+        "year": "1841-1895 年间",
+        "museum": "馆藏待补",
+        "note": "贝尔特·莫里索 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "夏日",
+        "year": "1841-1895 年间",
+        "museum": "馆藏待补",
+        "note": "贝尔特·莫里索 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "mary-cassatt",
+    "name": "玛丽·卡萨特",
+    "latin": "Mary Cassatt",
+    "wikiTitle": "Mary Cassatt",
+    "birth": 1844,
+    "death": 1926,
+    "eraId": "nineteenth",
+    "region": "美国 / 法国",
+    "movement": "印象派 / 母子题材",
+    "position": [
+      -21.759633781976305,
+      2.7023822817768366,
+      -68.15685313762869
+    ],
+    "blurb": "玛丽·卡萨特把 印象派与母子题材 带进了这条时代支流，让这颗星在 美国 / 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 / 法国 这条支线里的关键节点，能把 印象派、母子题材 串进更大的艺术网络。",
+    "aliases": [
+      "美国 / 法国",
+      "印象派 / 母子题材",
+      "浴后的孩子",
+      "蓝色扶手椅中的小女孩"
+    ],
+    "works": [
+      {
+        "title": "浴后的孩子",
+        "year": "1844-1926 年间",
+        "museum": "馆藏待补",
+        "note": "玛丽·卡萨特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "蓝色扶手椅中的小女孩",
+        "year": "1844-1926 年间",
+        "museum": "馆藏待补",
+        "note": "玛丽·卡萨特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "camille-pissarro",
+    "name": "卡米耶·毕沙罗",
+    "latin": "Camille Pissarro",
+    "wikiTitle": "Camille Pissarro",
+    "birth": 1830,
+    "death": 1903,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "印象派 / 城市与乡村",
+    "position": [
+      79.56541622067579,
+      -71.78341556418383,
+      -62.09910469759265
+    ],
+    "blurb": "卡米耶·毕沙罗把 印象派与城市与乡村 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 印象派、城市与乡村 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "印象派 / 城市与乡村",
+      "蒙马特大道",
+      "红屋顶"
+    ],
+    "works": [
+      {
+        "title": "蒙马特大道",
+        "year": "1830-1903 年间",
+        "museum": "馆藏待补",
+        "note": "卡米耶·毕沙罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "红屋顶",
+        "year": "1830-1903 年间",
+        "museum": "馆藏待补",
+        "note": "卡米耶·毕沙罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "alfred-sisley",
+    "name": "阿尔弗雷德·西斯莱",
+    "latin": "Alfred Sisley",
+    "wikiTitle": "Alfred Sisley",
+    "birth": 1839,
+    "death": 1899,
+    "eraId": "nineteenth",
+    "region": "法国 / 英国",
+    "movement": "风景印象派",
+    "position": [
+      140.67174271961872,
+      0.3425427333166766,
+      -79.92233065924941
+    ],
+    "blurb": "阿尔弗雷德·西斯莱把 风景印象派 带进了这条时代支流，让这颗星在 法国 / 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 / 英国 这条支线里的关键节点，能把 风景印象派 串进更大的艺术网络。",
+    "aliases": [
+      "法国 / 英国",
+      "风景印象派",
+      "塞纳河畔洪水",
+      "卢浮西安雪景"
+    ],
+    "works": [
+      {
+        "title": "塞纳河畔洪水",
+        "year": "1839-1899 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔弗雷德·西斯莱 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "卢浮西安雪景",
+        "year": "1839-1899 年间",
+        "museum": "馆藏待补",
+        "note": "阿尔弗雷德·西斯莱 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "georges-seurat",
+    "name": "乔治·修拉",
+    "latin": "Georges Seurat",
+    "wikiTitle": "Georges Seurat",
+    "birth": 1859,
+    "death": 1891,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "点彩派",
+    "position": [
+      152.4218950001981,
+      26.358598288597804,
+      -93.4126103654495
+    ],
+    "blurb": "乔治·修拉把 点彩派 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 点彩派 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "点彩派",
+      "大碗岛星期天的下午",
+      "马戏团"
+    ],
+    "works": [
+      {
+        "title": "大碗岛星期天的下午",
+        "year": "1859-1891 年间",
+        "museum": "馆藏待补",
+        "note": "乔治·修拉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "马戏团",
+        "year": "1859-1891 年间",
+        "museum": "馆藏待补",
+        "note": "乔治·修拉 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "paul-signac",
+    "name": "保罗·西涅克",
+    "latin": "Paul Signac",
+    "wikiTitle": "Paul Signac",
+    "birth": 1863,
+    "death": 1935,
+    "eraId": "nineteenth",
+    "region": "法国",
+    "movement": "新印象主义 / 色点航海",
+    "position": [
+      229.1789727844419,
+      106.97363627729418,
+      -61.97912764125728
+    ],
+    "blurb": "保罗·西涅克把 新印象主义与色点航海 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 新印象主义、色点航海 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "新印象主义 / 色点航海",
+      "马赛港口",
+      "圣特罗佩松树"
+    ],
+    "works": [
+      {
+        "title": "马赛港口",
+        "year": "1863-1935 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·西涅克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "圣特罗佩松树",
+        "year": "1863-1935 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·西涅克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "james-mcneill-whistler",
+    "name": "詹姆斯·惠斯勒",
+    "latin": "James McNeill Whistler",
+    "wikiTitle": "James McNeill Whistler",
+    "birth": 1834,
+    "death": 1903,
+    "eraId": "nineteenth",
+    "region": "美国 / 英国",
+    "movement": "唯美主义 / 夜曲",
+    "position": [
+      277.0494944003676,
+      40.673065921861735,
+      12.974117496149757
+    ],
+    "blurb": "詹姆斯·惠斯勒把 唯美主义与夜曲 带进了这条时代支流，让这颗星在 美国 / 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 / 英国 这条支线里的关键节点，能把 唯美主义、夜曲 串进更大的艺术网络。",
+    "aliases": [
+      "美国 / 英国",
+      "唯美主义 / 夜曲",
+      "灰与黑的安排：画家之母",
+      "黑与金的夜曲"
+    ],
+    "works": [
+      {
+        "title": "灰与黑的安排：画家之母",
+        "year": "1834-1903 年间",
+        "museum": "馆藏待补",
+        "note": "詹姆斯·惠斯勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "黑与金的夜曲",
+        "year": "1834-1903 年间",
+        "museum": "馆藏待补",
+        "note": "詹姆斯·惠斯勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "edvard-munch",
+    "name": "爱德华·蒙克",
+    "latin": "Edvard Munch",
+    "wikiTitle": "Edvard Munch",
+    "birth": 1863,
+    "death": 1944,
+    "eraId": "modern",
+    "region": "挪威",
+    "movement": "表现主义 / 心理图像",
+    "position": [
+      339.64,
+      26,
+      -36
+    ],
+    "blurb": "爱德华·蒙克把 表现主义与心理图像 带进了这条时代支流，让这颗星在 挪威 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 挪威 这条支线里的关键节点，能把 表现主义、心理图像 串进更大的艺术网络。",
+    "aliases": [
+      "挪威",
+      "表现主义 / 心理图像",
+      "呐喊",
+      "病中的孩子"
+    ],
+    "works": [
+      {
+        "title": "呐喊",
+        "year": "1863-1944 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·蒙克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "病中的孩子",
+        "year": "1863-1944 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·蒙克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "amedeo-modigliani",
+    "name": "阿梅代奥·莫迪利阿尼",
+    "latin": "Amedeo Modigliani",
+    "wikiTitle": "Amedeo Modigliani",
+    "birth": 1884,
+    "death": 1920,
+    "eraId": "modern",
+    "region": "意大利 / 法国",
+    "movement": "肖像与裸女 / 细长造型",
+    "position": [
+      322.6469865266995,
+      133.77962758260512,
+      45.11746973823142
+    ],
+    "blurb": "阿梅代奥·莫迪利阿尼把 肖像与裸女与细长造型 带进了这条时代支流，让这颗星在 意大利 / 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 意大利 / 法国 这条支线里的关键节点，能把 肖像与裸女、细长造型 串进更大的艺术网络。",
+    "aliases": [
+      "意大利 / 法国",
+      "肖像与裸女 / 细长造型",
+      "扶手椅上的裸女",
+      "珍妮·艾布特恩像"
+    ],
+    "works": [
+      {
+        "title": "扶手椅上的裸女",
+        "year": "1884-1920 年间",
+        "museum": "馆藏待补",
+        "note": "阿梅代奥·莫迪利阿尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "珍妮·艾布特恩像",
+        "year": "1884-1920 年间",
+        "museum": "馆藏待补",
+        "note": "阿梅代奥·莫迪利阿尼 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "kazimir-malevich",
+    "name": "卡济米尔·马列维奇",
+    "latin": "Kazimir Malevich",
+    "wikiTitle": "Kazimir Malevich",
+    "birth": 1879,
+    "death": 1935,
+    "eraId": "modern",
+    "region": "俄罗斯",
+    "movement": "至上主义 / 几何抽象",
+    "position": [
+      242.29464384442204,
+      4.60187153044242,
+      93.09624146108075
+    ],
+    "blurb": "卡济米尔·马列维奇把 至上主义与几何抽象 带进了这条时代支流，让这颗星在 俄罗斯 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 俄罗斯 这条支线里的关键节点，能把 至上主义、几何抽象 串进更大的艺术网络。",
+    "aliases": [
+      "俄罗斯",
+      "至上主义 / 几何抽象",
+      "黑方块",
+      "白上之白"
+    ],
+    "works": [
+      {
+        "title": "黑方块",
+        "year": "1879-1935 年间",
+        "museum": "馆藏待补",
+        "note": "卡济米尔·马列维奇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "白上之白",
+        "year": "1879-1935 年间",
+        "museum": "馆藏待补",
+        "note": "卡济米尔·马列维奇 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "piet-mondrian",
+    "name": "皮特·蒙德里安",
+    "latin": "Piet Mondrian",
+    "wikiTitle": "Piet Mondrian",
+    "birth": 1872,
+    "death": 1944,
+    "eraId": "modern",
+    "region": "荷兰",
+    "movement": "新造型主义",
+    "position": [
+      204.44838088077242,
+      -52.283248094624824,
+      103.12815565578543
+    ],
+    "blurb": "皮特·蒙德里安把 新造型主义 带进了这条时代支流，让这颗星在 荷兰 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 荷兰 这条支线里的关键节点，能把 新造型主义 串进更大的艺术网络。",
+    "aliases": [
+      "荷兰",
+      "新造型主义",
+      "百老汇爵士乐",
+      "红黄蓝构成"
+    ],
+    "works": [
+      {
+        "title": "百老汇爵士乐",
+        "year": "1872-1944 年间",
+        "museum": "馆藏待补",
+        "note": "皮特·蒙德里安 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "红黄蓝构成",
+        "year": "1872-1944 年间",
+        "museum": "馆藏待补",
+        "note": "皮特·蒙德里安 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "paul-klee",
+    "name": "保罗·克利",
+    "latin": "Paul Klee",
+    "wikiTitle": "Paul Klee",
+    "birth": 1879,
+    "death": 1940,
+    "eraId": "modern",
+    "region": "瑞士 / 德国",
+    "movement": "抽象诗性 / 包豪斯",
+    "position": [
+      106.1835447761022,
+      -5.192722318983904,
+      34.80159495384544
+    ],
+    "blurb": "保罗·克利把 抽象诗性与包豪斯 带进了这条时代支流，让这颗星在 瑞士 / 德国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 瑞士 / 德国 这条支线里的关键节点，能把 抽象诗性、包豪斯 串进更大的艺术网络。",
+    "aliases": [
+      "瑞士 / 德国",
+      "抽象诗性 / 包豪斯",
+      "推拿索斯山",
+      "金鱼"
+    ],
+    "works": [
+      {
+        "title": "推拿索斯山",
+        "year": "1879-1940 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·克利 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "金鱼",
+        "year": "1879-1940 年间",
+        "museum": "馆藏待补",
+        "note": "保罗·克利 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "egon-schiele",
+    "name": "埃贡·席勒",
+    "latin": "Egon Schiele",
+    "wikiTitle": "Egon Schiele",
+    "birth": 1890,
+    "death": 1918,
+    "eraId": "modern",
+    "region": "奥地利",
+    "movement": "表现主义 / 身体线条",
+    "position": [
+      162.23441507815406,
+      133.81230677796694,
+      -69.50832506912653
+    ],
+    "blurb": "埃贡·席勒把 表现主义与身体线条 带进了这条时代支流，让这颗星在 奥地利 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 奥地利 这条支线里的关键节点，能把 表现主义、身体线条 串进更大的艺术网络。",
+    "aliases": [
+      "奥地利",
+      "表现主义 / 身体线条",
+      "抱膝的自画像",
+      "死神与少女"
+    ],
+    "works": [
+      {
+        "title": "抱膝的自画像",
+        "year": "1890-1918 年间",
+        "museum": "馆藏待补",
+        "note": "埃贡·席勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "死神与少女",
+        "year": "1890-1918 年间",
+        "museum": "馆藏待补",
+        "note": "埃贡·席勒 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "joan-miro",
+    "name": "胡安·米罗",
+    "latin": "Joan Miro",
+    "wikiTitle": "Joan Miro",
+    "birth": 1893,
+    "death": 1983,
+    "eraId": "modern",
+    "region": "西班牙",
+    "movement": "超现实主义 / 符号抽象",
+    "position": [
+      160.5679153839107,
+      118.48538565517782,
+      -101.93539846116045
+    ],
+    "blurb": "胡安·米罗把 超现实主义与符号抽象 带进了这条时代支流，让这颗星在 西班牙 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 西班牙 这条支线里的关键节点，能把 超现实主义、符号抽象 串进更大的艺术网络。",
+    "aliases": [
+      "西班牙",
+      "超现实主义 / 符号抽象",
+      "哈勒昆的狂欢",
+      "蓝色三联作"
+    ],
+    "works": [
+      {
+        "title": "哈勒昆的狂欢",
+        "year": "1893-1983 年间",
+        "museum": "馆藏待补",
+        "note": "胡安·米罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "蓝色三联作",
+        "year": "1893-1983 年间",
+        "museum": "馆藏待补",
+        "note": "胡安·米罗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "marc-chagall",
+    "name": "马克·夏加尔",
+    "latin": "Marc Chagall",
+    "wikiTitle": "Marc Chagall",
+    "birth": 1887,
+    "death": 1985,
+    "eraId": "modern",
+    "region": "白俄罗斯 / 法国",
+    "movement": "梦境叙事 / 色彩象征",
+    "position": [
+      231.34669625252275,
+      -34.197572040260326,
+      -164.07073878818213
+    ],
+    "blurb": "马克·夏加尔把 梦境叙事与色彩象征 带进了这条时代支流，让这颗星在 白俄罗斯 / 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 白俄罗斯 / 法国 这条支线里的关键节点，能把 梦境叙事、色彩象征 串进更大的艺术网络。",
+    "aliases": [
+      "白俄罗斯 / 法国",
+      "梦境叙事 / 色彩象征",
+      "我与村庄",
+      "生日"
+    ],
+    "works": [
+      {
+        "title": "我与村庄",
+        "year": "1887-1985 年间",
+        "museum": "馆藏待补",
+        "note": "马克·夏加尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "生日",
+        "year": "1887-1985 年间",
+        "museum": "馆藏待补",
+        "note": "马克·夏加尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "edward-hopper",
+    "name": "爱德华·霍普",
+    "latin": "Edward Hopper",
+    "wikiTitle": "Edward Hopper",
+    "birth": 1882,
+    "death": 1967,
+    "eraId": "modern",
+    "region": "美国",
+    "movement": "都市孤独 / 现实场景",
+    "position": [
+      335.9779913227519,
+      -33.513293976588145,
+      -150.28487383437582
+    ],
+    "blurb": "爱德华·霍普把 都市孤独与现实场景 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 都市孤独、现实场景 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "都市孤独 / 现实场景",
+      "夜游者",
+      "早晨的阳光"
+    ],
+    "works": [
+      {
+        "title": "夜游者",
+        "year": "1882-1967 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·霍普 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "早晨的阳光",
+        "year": "1882-1967 年间",
+        "museum": "馆藏待补",
+        "note": "爱德华·霍普 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "fernand-leger",
+    "name": "费尔南·莱热",
+    "latin": "Fernand Leger",
+    "wikiTitle": "Fernand Leger",
+    "birth": 1881,
+    "death": 1955,
+    "eraId": "modern",
+    "region": "法国",
+    "movement": "机械时代 / 立体主义后续",
+    "position": [
+      375.3133863707967,
+      51.345834511194056,
+      -132.01119425046176
+    ],
+    "blurb": "费尔南·莱热把 机械时代与立体主义后续 带进了这条时代支流，让这颗星在 法国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 法国 这条支线里的关键节点，能把 机械时代、立体主义后续 串进更大的艺术网络。",
+    "aliases": [
+      "法国",
+      "机械时代 / 立体主义后续",
+      "城市",
+      "三个女人"
+    ],
+    "works": [
+      {
+        "title": "城市",
+        "year": "1881-1955 年间",
+        "museum": "馆藏待补",
+        "note": "费尔南·莱热 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "三个女人",
+        "year": "1881-1955 年间",
+        "museum": "馆藏待补",
+        "note": "费尔南·莱热 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jackson-pollock",
+    "name": "杰克逊·波洛克",
+    "latin": "Jackson Pollock",
+    "wikiTitle": "Jackson Pollock",
+    "birth": 1912,
+    "death": 1956,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "抽象表现主义 / 滴画",
+    "position": [
+      394.28,
+      18,
+      154
+    ],
+    "blurb": "杰克逊·波洛克把 抽象表现主义与滴画 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 抽象表现主义、滴画 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "抽象表现主义 / 滴画",
+      "秋韵",
+      "第 5 号"
+    ],
+    "works": [
+      {
+        "title": "秋韵",
+        "year": "1912-1956 年间",
+        "museum": "馆藏待补",
+        "note": "杰克逊·波洛克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "第 5 号",
+        "year": "1912-1956 年间",
+        "museum": "馆藏待补",
+        "note": "杰克逊·波洛克 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "willem-de-kooning",
+    "name": "威廉·德·库宁",
+    "latin": "Willem de Kooning",
+    "wikiTitle": "Willem de Kooning",
+    "birth": 1904,
+    "death": 1997,
+    "eraId": "contemporary",
+    "region": "荷兰 / 美国",
+    "movement": "抽象表现主义 / 女性系列",
+    "position": [
+      394.82282704765095,
+      120.84300137674899,
+      204.73436792664253
+    ],
+    "blurb": "威廉·德·库宁把 抽象表现主义与女性系列 带进了这条时代支流，让这颗星在 荷兰 / 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 荷兰 / 美国 这条支线里的关键节点，能把 抽象表现主义、女性系列 串进更大的艺术网络。",
+    "aliases": [
+      "荷兰 / 美国",
+      "抽象表现主义 / 女性系列",
+      "女人 I",
+      "挖掘"
+    ],
+    "works": [
+      {
+        "title": "女人 I",
+        "year": "1904-1997 年间",
+        "museum": "馆藏待补",
+        "note": "威廉·德·库宁 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "挖掘",
+        "year": "1904-1997 年间",
+        "museum": "馆藏待补",
+        "note": "威廉·德·库宁 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "mark-rothko",
+    "name": "马克·罗斯科",
+    "latin": "Mark Rothko",
+    "wikiTitle": "Mark Rothko",
+    "birth": 1903,
+    "death": 1970,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "色域绘画",
+    "position": [
+      357.4274455255482,
+      83.29603641257012,
+      253.6818145088037
+    ],
+    "blurb": "马克·罗斯科把 色域绘画 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 色域绘画 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "色域绘画",
+      "橙与黄",
+      "罗斯科礼拜堂组画"
+    ],
+    "works": [
+      {
+        "title": "橙与黄",
+        "year": "1903-1970 年间",
+        "museum": "馆藏待补",
+        "note": "马克·罗斯科 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "罗斯科礼拜堂组画",
+        "year": "1903-1970 年间",
+        "museum": "馆藏待补",
+        "note": "马克·罗斯科 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "francis-bacon",
+    "name": "弗朗西斯·培根",
+    "latin": "Francis Bacon",
+    "wikiTitle": "Francis Bacon",
+    "birth": 1909,
+    "death": 1992,
+    "eraId": "contemporary",
+    "region": "英国",
+    "movement": "形体扭曲 / 存在焦虑",
+    "position": [
+      364.00136981654356,
+      53.927306278101305,
+      267.3849631361976
+    ],
+    "blurb": "弗朗西斯·培根把 形体扭曲与存在焦虑 带进了这条时代支流，让这颗星在 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 英国 这条支线里的关键节点，能把 形体扭曲、存在焦虑 串进更大的艺术网络。",
+    "aliases": [
+      "英国",
+      "形体扭曲 / 存在焦虑",
+      "教皇英诺森十世后的习作",
+      "三联画"
+    ],
+    "works": [
+      {
+        "title": "教皇英诺森十世后的习作",
+        "year": "1909-1992 年间",
+        "museum": "馆藏待补",
+        "note": "弗朗西斯·培根 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "三联画",
+        "year": "1909-1992 年间",
+        "museum": "馆藏待补",
+        "note": "弗朗西斯·培根 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "lucian-freud",
+    "name": "卢西安·弗洛伊德",
+    "latin": "Lucian Freud",
+    "wikiTitle": "Lucian Freud",
+    "birth": 1922,
+    "death": 2011,
+    "eraId": "contemporary",
+    "region": "英国",
+    "movement": "厚涂肖像 / 肉身观察",
+    "position": [
+      283.5350474388879,
+      -71.84799010161494,
+      294.88968664419855
+    ],
+    "blurb": "卢西安·弗洛伊德把 厚涂肖像与肉身观察 带进了这条时代支流，让这颗星在 英国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 英国 这条支线里的关键节点，能把 厚涂肖像、肉身观察 串进更大的艺术网络。",
+    "aliases": [
+      "英国",
+      "厚涂肖像 / 肉身观察",
+      "睡着的救济金管理员",
+      "艺术家的母亲"
+    ],
+    "works": [
+      {
+        "title": "睡着的救济金管理员",
+        "year": "1922-2011 年间",
+        "museum": "馆藏待补",
+        "note": "卢西安·弗洛伊德 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "艺术家的母亲",
+        "year": "1922-2011 年间",
+        "museum": "馆藏待补",
+        "note": "卢西安·弗洛伊德 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "andy-warhol",
+    "name": "安迪·沃霍尔",
+    "latin": "Andy Warhol",
+    "wikiTitle": "Andy Warhol",
+    "birth": 1928,
+    "death": 1987,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "波普艺术 / 图像复制",
+    "position": [
+      240.7185303607047,
+      -48.704956823843546,
+      220.198097290644
+    ],
+    "blurb": "安迪·沃霍尔把 波普艺术与图像复制 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 波普艺术、图像复制 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "波普艺术 / 图像复制",
+      "金宝汤罐头",
+      "玛丽莲双联画"
+    ],
+    "works": [
+      {
+        "title": "金宝汤罐头",
+        "year": "1928-1987 年间",
+        "museum": "馆藏待补",
+        "note": "安迪·沃霍尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "玛丽莲双联画",
+        "year": "1928-1987 年间",
+        "museum": "馆藏待补",
+        "note": "安迪·沃霍尔 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "roy-lichtenstein",
+    "name": "罗伊·利希滕斯坦",
+    "latin": "Roy Lichtenstein",
+    "wikiTitle": "Roy Lichtenstein",
+    "birth": 1923,
+    "death": 1997,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "波普艺术 / 漫画语言",
+    "position": [
+      229.57445284695373,
+      -12.96421514087043,
+      231.5098172512751
+    ],
+    "blurb": "罗伊·利希滕斯坦把 波普艺术与漫画语言 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 波普艺术、漫画语言 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "波普艺术 / 漫画语言",
+      "Whaam!",
+      "沉睡的女孩"
+    ],
+    "works": [
+      {
+        "title": "Whaam!",
+        "year": "1923-1997 年间",
+        "museum": "馆藏待补",
+        "note": "罗伊·利希滕斯坦 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "沉睡的女孩",
+        "year": "1923-1997 年间",
+        "museum": "馆藏待补",
+        "note": "罗伊·利希滕斯坦 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "gerhard-richter",
+    "name": "格哈德·里希特",
+    "latin": "Gerhard Richter",
+    "wikiTitle": "Gerhard Richter",
+    "birth": 1932,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "德国",
+    "movement": "照片绘画 / 抽象刮擦",
+    "position": [
+      176.25337205890833,
+      111.03020215870775,
+      194.92181647684617
+    ],
+    "blurb": "格哈德·里希特把 照片绘画与抽象刮擦 带进了这条时代支流，让这颗星在 德国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 德国 这条支线里的关键节点，能把 照片绘画、抽象刮擦 串进更大的艺术网络。",
+    "aliases": [
+      "德国",
+      "照片绘画 / 抽象刮擦",
+      "贝蒂",
+      "抽象画 809-4"
+    ],
+    "works": [
+      {
+        "title": "贝蒂",
+        "year": "1932-至今 年间",
+        "museum": "馆藏待补",
+        "note": "格哈德·里希特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "抽象画 809-4",
+        "year": "1932-至今 年间",
+        "museum": "馆藏待补",
+        "note": "格哈德·里希特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "cy-twombly",
+    "name": "赛·托姆布雷",
+    "latin": "Cy Twombly",
+    "wikiTitle": "Cy Twombly",
+    "birth": 1928,
+    "death": 2011,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "书写性抽象",
+    "position": [
+      152.1947421089368,
+      103.06303507827121,
+      131.9217675217346
+    ],
+    "blurb": "赛·托姆布雷把 书写性抽象 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 书写性抽象 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "书写性抽象",
+      "勒达与天鹅",
+      "无题黑板画"
+    ],
+    "works": [
+      {
+        "title": "勒达与天鹅",
+        "year": "1928-2011 年间",
+        "museum": "馆藏待补",
+        "note": "赛·托姆布雷 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "无题黑板画",
+        "year": "1928-2011 年间",
+        "museum": "馆藏待补",
+        "note": "赛·托姆布雷 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "jean-michel-basquiat",
+    "name": "让-米歇尔·巴斯奎特",
+    "latin": "Jean-Michel Basquiat",
+    "wikiTitle": "Jean-Michel Basquiat",
+    "birth": 1960,
+    "death": 1988,
+    "eraId": "contemporary",
+    "region": "美国",
+    "movement": "街头语言 / 新表现主义",
+    "position": [
+      135.4791595906624,
+      82.25821305285409,
+      128.01193819616685
+    ],
+    "blurb": "让-米歇尔·巴斯奎特把 街头语言与新表现主义 带进了这条时代支流，让这颗星在 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 美国 这条支线里的关键节点，能把 街头语言、新表现主义 串进更大的艺术网络。",
+    "aliases": [
+      "美国",
+      "街头语言 / 新表现主义",
+      "无题（头骨）",
+      "角斗士"
+    ],
+    "works": [
+      {
+        "title": "无题（头骨）",
+        "year": "1960-1988 年间",
+        "museum": "馆藏待补",
+        "note": "让-米歇尔·巴斯奎特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "角斗士",
+        "year": "1960-1988 年间",
+        "museum": "馆藏待补",
+        "note": "让-米歇尔·巴斯奎特 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "yoshitomo-nara",
+    "name": "奈良美智",
+    "latin": "Yoshitomo Nara",
+    "wikiTitle": "Yoshitomo Nara",
+    "birth": 1959,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "日本",
+    "movement": "当代绘画 / 孤独童像",
+    "position": [
+      226.5377257952215,
+      -34.89245084370315,
+      98.80718936021864
+    ],
+    "blurb": "奈良美智把 当代绘画与孤独童像 带进了这条时代支流，让这颗星在 日本 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 日本 这条支线里的关键节点，能把 当代绘画、孤独童像 串进更大的艺术网络。",
+    "aliases": [
+      "日本",
+      "当代绘画 / 孤独童像",
+      "刀背后的女孩",
+      "梦游室"
+    ],
+    "works": [
+      {
+        "title": "刀背后的女孩",
+        "year": "1959-至今 年间",
+        "museum": "馆藏待补",
+        "note": "奈良美智 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "梦游室",
+        "year": "1959-至今 年间",
+        "museum": "馆藏待补",
+        "note": "奈良美智 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "takashi-murakami",
+    "name": "村上隆",
+    "latin": "Takashi Murakami",
+    "wikiTitle": "Takashi Murakami",
+    "birth": 1962,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "日本",
+    "movement": "超扁平 / 流行图像",
+    "position": [
+      265.8803400118741,
+      -61.80192290429383,
+      60.83924728677658
+    ],
+    "blurb": "村上隆把 超扁平与流行图像 带进了这条时代支流，让这颗星在 日本 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 日本 这条支线里的关键节点，能把 超扁平、流行图像 串进更大的艺术网络。",
+    "aliases": [
+      "日本",
+      "超扁平 / 流行图像",
+      "727",
+      "花球"
+    ],
+    "works": [
+      {
+        "title": "727",
+        "year": "1962-至今 年间",
+        "museum": "馆藏待补",
+        "note": "村上隆 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "花球",
+        "year": "1962-至今 年间",
+        "museum": "馆藏待补",
+        "note": "村上隆 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "zeng-fanzhi",
+    "name": "曾梵志",
+    "latin": "Zeng Fanzhi",
+    "wikiTitle": "Zeng Fanzhi",
+    "birth": 1964,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "中国",
+    "movement": "面具系列 / 当代人物画",
+    "position": [
+      262.20269159465096,
+      -57.03094238691885,
+      46.37555783153424
+    ],
+    "blurb": "曾梵志把 面具系列与当代人物画 带进了这条时代支流，让这颗星在 中国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国 这条支线里的关键节点，能把 面具系列、当代人物画 串进更大的艺术网络。",
+    "aliases": [
+      "中国",
+      "面具系列 / 当代人物画",
+      "面具系列",
+      "最后的晚餐"
+    ],
+    "works": [
+      {
+        "title": "面具系列",
+        "year": "1964-至今 年间",
+        "museum": "馆藏待补",
+        "note": "曾梵志 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "最后的晚餐",
+        "year": "1964-至今 年间",
+        "museum": "馆藏待补",
+        "note": "曾梵志 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "liu-xiaodong",
+    "name": "刘小东",
+    "latin": "Liu Xiaodong",
+    "wikiTitle": "Liu Xiaodong",
+    "birth": 1963,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "中国",
+    "movement": "现场绘画 / 现实人物",
+    "position": [
+      337.8378103653643,
+      68.0788044597883,
+      32.00635196730026
+    ],
+    "blurb": "刘小东把 现场绘画与现实人物 带进了这条时代支流，让这颗星在 中国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国 这条支线里的关键节点，能把 现场绘画、现实人物 串进更大的艺术网络。",
+    "aliases": [
+      "中国",
+      "现场绘画 / 现实人物",
+      "三峡移民",
+      "温床"
+    ],
+    "works": [
+      {
+        "title": "三峡移民",
+        "year": "1963-至今 年间",
+        "museum": "馆藏待补",
+        "note": "刘小东 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "温床",
+        "year": "1963-至今 年间",
+        "museum": "馆藏待补",
+        "note": "刘小东 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "liu-ye",
+    "name": "刘野",
+    "latin": "Liu Ye",
+    "wikiTitle": "Liu Ye",
+    "birth": 1964,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "中国",
+    "movement": "童话冷感 / 平面肖像",
+    "position": [
+      419.1099548370212,
+      128.5072582988297,
+      57.71898595789199
+    ],
+    "blurb": "刘野把 童话冷感与平面肖像 带进了这条时代支流，让这颗星在 中国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 中国 这条支线里的关键节点，能把 童话冷感、平面肖像 串进更大的艺术网络。",
+    "aliases": [
+      "中国",
+      "童话冷感 / 平面肖像",
+      "北京圣母",
+      "蓝衣人"
+    ],
+    "works": [
+      {
+        "title": "北京圣母",
+        "year": "1964-至今 年间",
+        "museum": "馆藏待补",
+        "note": "刘野 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "蓝衣人",
+        "year": "1964-至今 年间",
+        "museum": "馆藏待补",
+        "note": "刘野 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "cecily-brown",
+    "name": "塞西莉·布朗",
+    "latin": "Cecily Brown",
+    "wikiTitle": "Cecily Brown",
+    "birth": 1969,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "英国 / 美国",
+    "movement": "动作绘画 / 感官图像",
+    "position": [
+      369.151778550005,
+      120.6113183295125,
+      98.5144267892695
+    ],
+    "blurb": "塞西莉·布朗把 动作绘画与感官图像 带进了这条时代支流，让这颗星在 英国 / 美国 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 英国 / 美国 这条支线里的关键节点，能把 动作绘画、感官图像 串进更大的艺术网络。",
+    "aliases": [
+      "英国 / 美国",
+      "动作绘画 / 感官图像",
+      "The Girl Who Had Everything",
+      "Saboteur Four Times"
+    ],
+    "works": [
+      {
+        "title": "The Girl Who Had Everything",
+        "year": "1969-至今 年间",
+        "museum": "馆藏待补",
+        "note": "塞西莉·布朗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "Saboteur Four Times",
+        "year": "1969-至今 年间",
+        "museum": "馆藏待补",
+        "note": "塞西莉·布朗 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  },
+  {
+    "id": "peter-doig",
+    "name": "彼得·多伊格",
+    "latin": "Peter Doig",
+    "wikiTitle": "Peter Doig",
+    "birth": 1959,
+    "death": null,
+    "eraId": "contemporary",
+    "region": "苏格兰 / 加拿大",
+    "movement": "当代风景 / 记忆图像",
+    "position": [
+      409.50927596454846,
+      -7.347183041539704,
+      135.6947491999233
+    ],
+    "blurb": "彼得·多伊格把 当代风景与记忆图像 带进了这条时代支流，让这颗星在 苏格兰 / 加拿大 的轨道上持续发亮。",
+    "curatorNote": "这位画家是 苏格兰 / 加拿大 这条支线里的关键节点，能把 当代风景、记忆图像 串进更大的艺术网络。",
+    "aliases": [
+      "苏格兰 / 加拿大",
+      "当代风景 / 记忆图像",
+      "白独木舟",
+      "沼泽中的建筑"
+    ],
+    "works": [
+      {
+        "title": "白独木舟",
+        "year": "1959-至今 年间",
+        "museum": "馆藏待补",
+        "note": "彼得·多伊格 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      },
+      {
+        "title": "沼泽中的建筑",
+        "year": "1959-至今 年间",
+        "museum": "馆藏待补",
+        "note": "彼得·多伊格 的代表作品条目，后续可以继续补充作品页与高清图像。"
+      }
+    ]
+  }
+]

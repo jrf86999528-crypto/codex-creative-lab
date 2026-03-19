@@ -1,0 +1,415 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Prompt Atelier</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}" />
+    <script src="https://mcp.figma.com/mcp/html-to-design/capture.js" async></script>
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="composer">
+        <div class="brand">
+          <div class="brand-mark">A</div>
+          <div>
+            <p class="eyebrow">DESIGN WORKBENCH</p>
+            <h1>Prompt Atelier</h1>
+            <p>品牌 brief 进来，先让模型讨论视觉方向，再输出适配 `Nanobanana / 即梦 / MiniMax` 的 prompt 包。</p>
+          </div>
+        </div>
+
+        <section class="hero-card">
+          <div class="hero-copy">
+            <span class="hero-kicker">工作流</span>
+            <strong>Brief -> 讨论 -> 生图 Prompt</strong>
+            <p>更适合品牌海报、KV、包装视觉、社媒主图。先看方向，再拿 prompt 去出图。</p>
+          </div>
+          <div class="hero-metrics">
+            <article>
+              <span>模型席位</span>
+              <strong>DeepSeek / 豆包 / Gemini</strong>
+            </article>
+            <article>
+              <span>工具出口</span>
+              <strong>Nanobanana / 即梦 / MiniMax</strong>
+            </article>
+          </div>
+          <div class="workflow-strip" aria-label="工作流步骤">
+            <div class="workflow-step active">
+              <span>01</span>
+              <strong>拆 Brief</strong>
+            </div>
+            <div class="workflow-step">
+              <span>02</span>
+              <strong>多模型共创</strong>
+            </div>
+            <div class="workflow-step">
+              <span>03</span>
+              <strong>Prompt 出图</strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="control-card">
+          <div class="section-label">
+            <p class="eyebrow">PROJECT SETUP</p>
+            <h3>项目框架</h3>
+            <p>先把这次视觉任务的基本边界定清楚，后面的讨论才不会发散。</p>
+          </div>
+          <div class="brief-grid two-up">
+            <label class="field compact">
+              <span>项目名</span>
+              <input id="projectNameInput" type="text" placeholder="例如：春季新品主视觉" />
+            </label>
+            <label class="field compact">
+              <span>物料类型</span>
+              <select id="deliverableInput">
+                <option value="品牌海报">品牌海报</option>
+                <option value="KV 主视觉">KV 主视觉</option>
+                <option value="包装视觉">包装视觉</option>
+                <option value="社媒封面">社媒封面</option>
+                <option value="活动 banner">活动 banner</option>
+                <option value="提案 moodboard">提案 moodboard</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="brief-grid two-up">
+            <label class="field compact">
+              <span>目标受众</span>
+              <input id="audienceInput" type="text" placeholder="例如：25-35 岁女性都市白领" />
+            </label>
+            <label class="field compact">
+              <span>品牌调性</span>
+              <input id="toneInput" type="text" placeholder="例如：克制、精致、未来感、轻奢" />
+            </label>
+          </div>
+
+          <section class="advisor-card" id="advisorCard">
+            <div class="advisor-head">
+              <div>
+                <p class="eyebrow">DOUBAO SUGGESTION</p>
+                <h3>豆包建议项目框架与创意输入</h3>
+              </div>
+              <div class="advisor-tools">
+                <button id="generateAdviceButton" class="ghost utility" type="button">生成建议</button>
+                <button id="applyAdviceButton" class="ghost utility" type="button" disabled>应用到左侧</button>
+              </div>
+            </div>
+            <p id="advisorStatus" class="advisor-status">你先写一个大概 brief，豆包会把项目框架和下面的创意输入一起整理成更像平面设计师会交付的写法。</p>
+            <div id="advisorContent" class="advisor-content">
+              <article class="advisor-empty">
+                <strong>还没有建议</strong>
+                <p>适合在项目刚起步时先用它补全项目名、物料类型、受众、调性、核心 brief、文案和风格参考，减少你来回整理需求的时间。</p>
+              </article>
+            </div>
+          </section>
+
+          <div class="section-label compact">
+            <p class="eyebrow">CREATIVE BRIEF</p>
+            <h3>创意输入</h3>
+            <p>把业务目标、必须元素、禁区和参考语境一次交代清楚。</p>
+          </div>
+          <label class="field">
+            <span>核心 brief</span>
+            <textarea id="taskInput" placeholder="写清楚这张图要解决的业务问题、产品卖点、活动主题和主视觉目标"></textarea>
+            <small class="field-hint">这里写最核心的设计任务，例如“做一张新品上市海报，强调高级感和夏季清爽气质”。</small>
+          </label>
+
+          <div class="brief-grid two-up">
+            <label class="field">
+              <span>必须出现</span>
+              <textarea id="mustIncludeInput" class="short-area" placeholder="例如：品牌 logo、主产品、柠檬切片、水珠、白底留文案区"></textarea>
+            </label>
+            <label class="field">
+              <span>明确避免</span>
+              <textarea id="avoidInput" class="short-area" placeholder="例如：廉价电商感、过曝、塑料质感、杂乱背景、AI 错误手部"></textarea>
+            </label>
+          </div>
+
+          <div class="brief-grid two-up">
+            <label class="field compact">
+              <span>标题/文案</span>
+              <input id="copyInput" type="text" placeholder="例如：Fresh Bloom / 轻醒一夏" />
+            </label>
+            <label class="field compact">
+              <span>风格参考</span>
+              <input id="styleReferenceInput" type="text" placeholder="例如：COS 海报 / 无印良品 / 瑞士排版" />
+            </label>
+          </div>
+
+          <label class="field compact">
+            <span>额外要求</span>
+            <input id="outputFocusInput" type="text" placeholder="例如：优先强调留白、商业感、可后续排版" />
+          </label>
+
+          <div class="section-label compact">
+            <p class="eyebrow">DISCUSSION TUNING</p>
+            <h3>共创节奏</h3>
+            <p>轮数、快捷 brief 和运行方式在这里控制，适合边试边收敛。</p>
+          </div>
+          <div class="field">
+            <span>讨论轮数</span>
+            <div class="round-control">
+              <input id="roundRange" type="range" min="1" max="10" value="3" />
+              <div class="round-control-row">
+                <div class="round-counter">
+                  <strong id="roundCount">3</strong>
+                  <span>轮</span>
+                </div>
+                <input id="roundNumber" class="round-number" type="number" min="1" max="10" value="3" />
+              </div>
+            </div>
+            <small class="field-hint">2 轮适合快速出图，3-4 轮更适合打磨 prompt 的准确度和商业感。</small>
+          </div>
+
+          <div class="field presets">
+            <span>快捷 Brief</span>
+            <div class="preset-list">
+              <button type="button" class="preset"
+                data-project="柠檬气泡水上市"
+                data-deliverable="品牌海报"
+                data-audience="18-30 岁城市年轻人"
+                data-tone="清爽、明亮、轻盈、日系商业感"
+                data-task="做一张新品上市海报，突出柠檬气泡水的冰爽、清透和夏日第一口的轻醒感。"
+                data-must="主产品罐身、柠檬切片、气泡、水珠、高留白标题区"
+                data-avoid="廉价促销风、过度写实 3D、杂乱背景、霓虹夜店感"
+                data-copy="Fresh Bloom 轻醒一夏"
+                data-ref="日系饮品广告 / muji 留白"
+                data-focus="需要适合后续加价格和活动信息">饮品海报</button>
+              <button type="button" class="preset"
+                data-project="精华新品 KV"
+                data-deliverable="KV 主视觉"
+                data-audience="25-35 岁护肤消费女性"
+                data-tone="高级、冷静、科技、通透、轻奢"
+                data-task="做一个护肤精华新品的主视觉 KV，强调科技修护和玻璃肌质感。"
+                data-must="滴管瓶、液体流动感、玻璃反射、冷白光、品牌名位置"
+                data-avoid="医美感过重、俗艳渐变、夸张粒子、廉价电商海报感"
+                data-copy="Skin Reset Serum"
+                data-ref="高端护肤品牌广告 / 冷白棚拍"
+                data-focus="要有高级商业摄影感">美妆 KV</button>
+              <button type="button" class="preset"
+                data-project="精品咖啡豆包装"
+                data-deliverable="包装视觉"
+                data-audience="精品咖啡爱好者"
+                data-tone="克制、文艺、手作、产地感、现代排版"
+                data-task="为一款精品单品咖啡豆做包装视觉方向，主打产地故事和手冲仪式感。"
+                data-must="咖啡樱桃、山脉元素、标签留白、可排版区域、包装正面图案感"
+                data-avoid="卡通感、复古过头、脏污纸张效果、过密纹理"
+                data-copy="Ethiopia Guji"
+                data-ref="精品咖啡包装 / 瑞士排版 / editorial"
+                data-focus="需要适配包装正面与社媒种草图">包装提案</button>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button id="runButton" class="run" type="button">生成 Prompt 包</button>
+            <button id="clearButton" class="ghost" type="button">清空</button>
+          </div>
+        </section>
+
+        <section class="status-card">
+          <div>
+            <span class="meta-label">工作目标</span>
+            <strong>先讨论，再出图</strong>
+          </div>
+          <div>
+            <span class="meta-label">输出结构</span>
+            <strong>Prompt / 排版建议 / 生图</strong>
+          </div>
+        </section>
+      </aside>
+
+      <section class="chat">
+        <header class="chat-head">
+          <div>
+            <p class="eyebrow">PROMPT SESSION</p>
+            <h2>平面设计工作台</h2>
+            <p id="statusText">等待 brief</p>
+          </div>
+          <div class="chat-tools">
+            <div class="chips" id="providerChips">
+              <span class="chip deepseek">DeepSeek</span>
+              <span class="chip doubao">豆包</span>
+              <span class="chip gemini">Gemini</span>
+            </div>
+            <button id="copyButton" class="ghost utility" type="button" disabled>复制整包</button>
+          </div>
+        </header>
+
+        <section class="tldr-bar" id="tldrBar">
+          <div class="tldr-main">
+            <p class="eyebrow">TL;DR</p>
+            <h3>等待生成 prompt 包</h3>
+            <p>开始后，这里会先显示当前最值得采纳的视觉方向，避免你一上来就被长 prompt 淹没。</p>
+          </div>
+          <div class="tldr-meta">
+            <article>
+              <span>当前阶段</span>
+              <strong>空闲</strong>
+            </article>
+            <article>
+              <span>最新更新</span>
+              <strong>未开始</strong>
+            </article>
+          </div>
+        </section>
+
+        <div class="workspace">
+          <section class="flow-panel">
+            <div class="toolbar">
+              <div class="session-pills">
+                <span class="session-pill">Prompt 共创</span>
+                <span class="session-pill muted" id="roundBadge">3 轮</span>
+              </div>
+              <nav id="roundNav" class="round-nav" aria-label="回合导航"></nav>
+            </div>
+
+            <div id="timeline" class="timeline">
+              <article class="empty-state">
+                <h3>这里会显示 prompt 共创过程</h3>
+                <p>DeepSeek 和豆包会先讨论视觉方向，再由主持模型收束成可直接投喂给 Nanobanana / 即梦的 prompt 包。</p>
+              </article>
+            </div>
+          </section>
+
+          <aside class="insights">
+            <section class="insight-card overview-card" id="overviewPanel">
+              <div class="card-head">
+                <p class="eyebrow">OVERVIEW</p>
+                <h3>会话概览</h3>
+              </div>
+              <div class="overview-grid">
+                <article><span>状态</span><strong>等待 brief</strong></article>
+                <article><span>轮数</span><strong>3 轮</strong></article>
+                <article><span>参会者</span><strong>3 位</strong></article>
+                <article><span>输出</span><strong>Prompt 包</strong></article>
+              </div>
+            </section>
+
+            <section class="insight-card summary-card" id="summaryPanel">
+              <div class="card-head">
+                <p class="eyebrow">PROMPT PACK</p>
+                <h3>Prompt 包</h3>
+              </div>
+              <article class="summary-placeholder">
+                <strong>还没有设计输出</strong>
+                <p>开始后，这里会由豆包把多模型讨论收束成一段最终执行 Prompt，并补上工具适配建议和版式建议。</p>
+              </article>
+            </section>
+
+            <section class="insight-card activity-card" id="activityPanel">
+              <div class="card-head">
+                <p class="eyebrow">ACTIVITY</p>
+                <h3>运行提示</h3>
+              </div>
+              <ul class="activity-list">
+                <li>把必须出现和明确避免写清楚，生图质量会提升很多。</li>
+                <li>Nanobanana 更吃细节控制，即梦和 MiniMax 更适合直接中文文生图。</li>
+                <li>3 轮以内更适合商业项目，拖太久会开始发散。</li>
+              </ul>
+            </section>
+          </aside>
+        </div>
+
+        <section class="image-studio" id="imageStudio">
+          <div class="image-studio-head">
+            <div>
+              <p class="eyebrow">IMAGE STUDIO</p>
+              <h3>Prompt 直连生图</h3>
+              <p>默认执行豆包最后总结优化的一段统一 Prompt。你也可以手动微调后，再发给 `即梦 / Nano Banana / MiniMax`。</p>
+            </div>
+            <div class="image-studio-tools">
+              <label class="toggle">
+                <input id="autoGenerateInput" type="checkbox" />
+                <span>Prompt 包完成后自动出图</span>
+              </label>
+            </div>
+          </div>
+          <div class="engine-strip" aria-label="生图引擎说明">
+            <article>
+              <span>即梦</span>
+              <strong>中文氛围与商业感</strong>
+            </article>
+            <article>
+              <span>Nano Banana</span>
+              <strong>细节控制与修辞实验</strong>
+            </article>
+            <article>
+              <span>MiniMax</span>
+              <strong>官方图像接口直出</strong>
+            </article>
+          </div>
+
+          <div class="image-studio-grid">
+            <section class="image-config-card">
+              <div class="image-config-grid">
+                <label class="field compact">
+                  <span>生图工具</span>
+                  <select id="imageProviderSelect">
+                    <option value="auto">全自动（即梦 + Nano Banana + MiniMax）</option>
+                    <option value="jimeng">即梦</option>
+                    <option value="nano">Nano Banana</option>
+                    <option value="minimax">MiniMax</option>
+                  </select>
+                </label>
+                <label class="field compact">
+                  <span>尺寸预设</span>
+                  <select id="sizePresetSelect">
+                    <option value="1024x1024">1:1 方图 1024 × 1024</option>
+                    <option value="1024x1280" selected>4:5 竖版 1024 × 1280</option>
+                    <option value="1200x1600">3:4 竖版 1200 × 1600</option>
+                    <option value="864x1536">9:16 封面 864 × 1536</option>
+                    <option value="1536x864">16:9 横图 1536 × 864</option>
+                    <option value="1792x1024">Banner 1792 × 1024</option>
+                    <option value="custom">自定义</option>
+                  </select>
+                </label>
+              </div>
+
+              <div class="image-config-grid size-grid">
+                <label class="field compact">
+                  <span>宽度</span>
+                  <input id="imageWidthInput" type="number" min="256" max="4096" step="1" value="1024" />
+                </label>
+                <label class="field compact">
+                  <span>高度</span>
+                  <input id="imageHeightInput" type="number" min="256" max="4096" step="1" value="1280" />
+                </label>
+              </div>
+
+              <label class="field">
+                <span>执行 Prompt</span>
+                <textarea id="imagePromptInput" class="image-prompt-input" placeholder="讨论完成后，这里会自动带入对应的生图 prompt。你也可以手动改。"></textarea>
+                <small id="imagePromptHint" class="field-hint">默认会带入当前 Prompt 包里最适合所选工具的 prompt。</small>
+              </label>
+
+              <div class="actions">
+                <button id="generateImageButton" class="run" type="button">开始生图</button>
+                <button id="syncPromptButton" class="ghost" type="button">同步当前 Prompt 包</button>
+              </div>
+            </section>
+
+            <section class="image-results-card">
+              <div class="card-head">
+                <p class="eyebrow">RESULTS</p>
+                <h3>生成结果</h3>
+              </div>
+              <p id="imageStatusText" class="image-status-text">等待 Prompt 包，或者直接手动填写 Prompt 后生图。</p>
+              <div id="imageResults" class="image-results">
+                <article class="image-empty-state">
+                  <strong>还没有图片</strong>
+                  <p>先生成 Prompt 包，或者直接手动指定工具、尺寸和 prompt 后点击“开始生图”。</p>
+                </article>
+              </div>
+            </section>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>

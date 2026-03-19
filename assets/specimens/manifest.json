@@ -1,0 +1,90 @@
+{
+  "provider": "meshy",
+  "version": 1,
+  "aiModel": "latest",
+  "generatedAt": "2026-03-19T09:20:04.999005+00:00",
+  "specimens": {
+    "thylacine": {
+      "prompt": "full body extinct thylacine museum reconstruction, realistic marsupial wolf anatomy, lean build, stiff tail, dark rump stripes, neutral standing pose, isolated object, no base",
+      "texturePrompt": "short sandy brown fur, subtle cream underside, dark tiger like stripes on back hips and tail base, natural paws, natural snout, museum quality fur detail",
+      "negativePrompt": "cartoon, cute toy, armor, saddle, base, pedestal, environment, multiple animals, extra limbs, open mouth roar",
+      "targetPolycount": 48000,
+      "shouldRemesh": true,
+      "localModel": "./assets/specimens/thylacine/tripo.glb",
+      "localThumbnail": "./assets/specimens/thylacine/thumbnail.jpg",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": "2026-03-19T09:14:19.911211+00:00",
+      "provider": "tripo",
+      "providerTaskId": "d1e98eeb-f471-41b7-adbb-53f0874ce06c"
+    },
+    "mammoth": {
+      "prompt": "full body woolly mammoth reconstruction, realistic prehistoric elephant anatomy, long curved tusks, heavy shoulders, dense fur, neutral standing pose, isolated object, no base",
+      "texturePrompt": "dark brown shaggy coat, lighter underfur, weathered ivory tusks, cold climate skin detail, museum quality reconstruction",
+      "negativePrompt": "cartoon, fantasy armor, war mammoth, rider, platform, environment, multiple animals, exaggerated monster face",
+      "targetPolycount": 52000,
+      "shouldRemesh": true,
+      "localModel": "./assets/specimens/mammoth/tripo.glb",
+      "localThumbnail": "./assets/specimens/mammoth/thumbnail.jpg",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": "2026-03-19T09:15:55.225654+00:00",
+      "provider": "tripo",
+      "providerTaskId": "05a6314c-10e2-4d20-b671-62843f2304eb"
+    },
+    "dodo": {
+      "prompt": "full body dodo bird reconstruction, realistic extinct island bird anatomy, stout body, hooked beak, sturdy legs, neutral standing pose, isolated object, no base",
+      "texturePrompt": "soft gray beige feathers, pale belly, bluish wing tint, dark curved beak with warm highlight, museum quality natural plumage",
+      "negativePrompt": "cartoon mascot, cute plush, hat, props, environment, multiple birds, exaggerated smile, fantasy wings",
+      "targetPolycount": 36000,
+      "shouldRemesh": true,
+      "localModel": "./assets/specimens/dodo/tripo.glb",
+      "localThumbnail": "./assets/specimens/dodo/thumbnail.jpg",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": "2026-03-19T09:17:33.029075+00:00",
+      "provider": "tripo",
+      "providerTaskId": "f7bb9f82-cceb-47b8-b997-51ba6f98d39e"
+    },
+    "quagga": {
+      "prompt": "full body quagga reconstruction, realistic zebra like extinct equid anatomy, striped front half and brown rear half, neutral standing pose, isolated object, no base",
+      "texturePrompt": "sharp black stripes on head neck and forebody, warm brown hindquarters, dark mane, natural hooves, museum reconstruction detail",
+      "negativePrompt": "cartoon horse, saddle, rider, environment, multiple animals, fantasy markings, glossy toy surface",
+      "targetPolycount": 44000,
+      "shouldRemesh": true,
+      "localModel": "./assets/specimens/quagga/tripo.glb",
+      "localThumbnail": "./assets/specimens/quagga/thumbnail.jpg",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": "2026-03-19T09:18:53.801947+00:00",
+      "provider": "tripo",
+      "providerTaskId": "dc0e5b8c-47eb-4b31-bc18-a4b6d65687e4"
+    },
+    "moa": {
+      "prompt": "full body giant moa reconstruction, realistic extinct New Zealand giant bird, towering long legs, heavy body, long neck, small head, neutral standing pose, isolated object, no base",
+      "texturePrompt": "earth brown feathers, darker neck shading, rough keratin beak, natural bird legs and claws, museum quality reconstruction",
+      "negativePrompt": "ostrich costume, cartoon bird, saddle, rider, platform, environment, multiple animals, fantasy crest",
+      "targetPolycount": 42000,
+      "shouldRemesh": true,
+      "localModel": "./assets/specimens/moa/tripo.glb",
+      "localThumbnail": "./assets/specimens/moa/thumbnail.jpg",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": "2026-03-19T09:20:04.999005+00:00",
+      "provider": "tripo",
+      "providerTaskId": "7b9d3bdc-d2d4-4fb8-930b-85054a551ec8"
+    },
+    "aurochs": {
+      "prompt": "full body aurochs reconstruction, realistic wild ancestral cattle anatomy, massive shoulders, long forward curving horns, dark coat, neutral standing pose, isolated object, no base",
+      "texturePrompt": "deep black brown coat, lighter dorsal ridge, weathered ivory horn tips, powerful neck muscles, museum quality natural fur",
+      "negativePrompt": "domestic cow, cartoon bull, rodeo, saddle, environment, multiple animals, fantasy armor, exaggerated monster body",
+      "targetPolycount": 48000,
+      "shouldRemesh": true,
+      "localModel": "",
+      "localThumbnail": "",
+      "previewTaskId": "",
+      "refineTaskId": "",
+      "lastGeneratedAt": null
+    }
+  }
+}

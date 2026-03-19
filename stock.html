@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PulseDeck Alpha | 盘中股票实时分析</title>
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./stock.css" />
+    <script defer src="./assets/echarts.min.js"></script>
+    <script defer src="./stock.js"></script>
+  </head>
+  <body>
+    <div class="backdrop-grid"></div>
+    <div class="backdrop-glow glow-a"></div>
+    <div class="backdrop-glow glow-b"></div>
+
+    <header class="topbar">
+      <div class="brand-block">
+        <p class="eyebrow">PULSEDECK ALPHA TERMINAL</p>
+        <h1>盘中股票实时分析工作台</h1>
+        <p class="lead">
+          把盘口、市场宽度、板块热力、公告和 AI 推演叠到一张盘中研究终端里。
+        </p>
+      </div>
+
+      <div class="topbar-controls">
+        <form id="symbolForm" class="search-shell">
+          <label class="field">
+            <span>标的代码</span>
+            <input id="symbolInput" name="symbol" type="search" placeholder="601155.SH / SH600519 / 000001" />
+          </label>
+          <button class="primary-button" type="submit">载入</button>
+          <button id="refreshButton" class="secondary-button" type="button">刷新</button>
+          <button id="autoRefreshButton" class="chip-button active" type="button">自动刷新</button>
+        </form>
+
+        <div class="status-strip">
+          <span id="engineBadge" class="status-pill">本地预测引擎</span>
+          <span id="serverTime" class="status-pill subtle">--</span>
+          <span id="refreshMeta" class="status-pill subtle">刷新中…</span>
+        </div>
+      </div>
+    </header>
+
+    <nav class="section-nav">
+      <a href="#snapshot">行情</a>
+      <a href="#ai">AI 结论</a>
+      <a href="#market">市场总览</a>
+      <a href="#timeline">讯息流</a>
+      <a href="#compare">对比池</a>
+    </nav>
+
+    <main class="page-shell">
+      <section id="warningBanner" class="warning-banner hidden"></section>
+
+      <section id="snapshot" class="hero-grid">
+        <article class="panel hero-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">LIVE SNAPSHOT</p>
+              <h2 id="heroTitle">载入中</h2>
+            </div>
+            <div class="hero-badges">
+              <span id="symbolBadge" class="hero-chip">--</span>
+              <span id="marketBadge" class="hero-chip muted">A 股</span>
+            </div>
+          </div>
+
+          <div class="hero-price-row">
+            <div>
+              <div id="heroPrice" class="hero-price">--</div>
+              <div id="heroChange" class="hero-change">--</div>
+            </div>
+            <div class="hero-mini-grid" id="heroMiniGrid"></div>
+          </div>
+
+          <div class="metric-grid" id="quoteMetrics"></div>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">INTRADAY MAP</p>
+              <h2>价格结构</h2>
+            </div>
+            <div class="toggle-row">
+              <button class="chart-toggle active" data-chart="intraday" type="button">分时</button>
+              <button class="chart-toggle" data-chart="swing" type="button">波段</button>
+            </div>
+          </div>
+          <div id="mainChart" class="chart-surface"></div>
+        </article>
+      </section>
+
+      <section id="ai" class="analysis-grid">
+        <article class="panel ai-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">ALPHA LAYER</p>
+              <h2>AI 结论卡</h2>
+            </div>
+            <span id="confidenceBadge" class="hero-chip muted">置信度 --</span>
+          </div>
+          <h3 id="aiHeadline" class="ai-headline">等待数据</h3>
+          <p id="aiThesis" class="panel-copy">载入后会在这里生成盘中推演摘要。</p>
+
+          <div id="horizonGrid" class="horizon-grid"></div>
+
+          <div class="split-columns">
+            <section>
+              <div class="subhead">
+                <h3>催化与驱动</h3>
+              </div>
+              <ul id="catalystList" class="bullet-list"></ul>
+            </section>
+            <section>
+              <div class="subhead">
+                <h3>风险与失效位</h3>
+              </div>
+              <ul id="riskList" class="bullet-list"></ul>
+              <ul id="invalidationList" class="bullet-list ghost"></ul>
+            </section>
+          </div>
+
+          <section class="subsection">
+            <div class="subhead">
+              <h3>执行清单</h3>
+            </div>
+            <ul id="actionPlanList" class="bullet-list compact"></ul>
+          </section>
+        </article>
+
+        <article class="panel score-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">QUANT STACK</p>
+              <h2>预测引擎拆解</h2>
+            </div>
+            <span id="scoreBadge" class="score-badge">总分 --</span>
+          </div>
+          <div id="scorecardGrid" class="scorecard-grid"></div>
+          <div id="signalCards" class="signal-grid"></div>
+        </article>
+      </section>
+
+      <section class="research-grid">
+        <article class="panel research-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">RESEARCH TERMINAL</p>
+              <h2>研究结论卡</h2>
+            </div>
+          </div>
+          <div id="researchCards" class="research-cards"></div>
+        </article>
+      </section>
+
+      <section id="market" class="market-grid">
+        <article class="panel market-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">MARKET OVERVIEW</p>
+              <h2>沪深指数与市场宽度</h2>
+            </div>
+            <span id="marketPulseLabel" class="hero-chip muted">市场脉冲 --</span>
+          </div>
+          <div id="indexStrip" class="index-strip"></div>
+          <div class="market-chart-grid">
+            <div class="market-chart-card">
+              <div class="subhead">
+                <h3>涨跌停分布</h3>
+              </div>
+              <div id="breadthChart" class="mini-chart"></div>
+            </div>
+            <div class="market-chart-card">
+              <div class="subhead">
+                <h3>板块热力</h3>
+              </div>
+              <div id="sectorChart" class="mini-chart"></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="panel heat-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">SECTOR MAP</p>
+              <h2>热点与拖累</h2>
+            </div>
+          </div>
+          <div class="heat-lists">
+            <section>
+              <h3>行业领涨</h3>
+              <div id="industryHeat" class="heat-list"></div>
+            </section>
+            <section>
+              <h3>概念领涨</h3>
+              <div id="conceptHeat" class="heat-list"></div>
+            </section>
+            <section>
+              <h3>弱势板块</h3>
+              <div id="laggardHeat" class="heat-list"></div>
+            </section>
+          </div>
+        </article>
+      </section>
+
+      <section id="timeline" class="timeline-grid">
+        <article class="panel timeline-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">MESSAGE FLOW</p>
+              <h2>公告与盘中讯息流</h2>
+            </div>
+          </div>
+          <div id="announcementSummary" class="summary-chip-row"></div>
+          <div id="announcementTimeline" class="timeline-list"></div>
+        </article>
+
+        <article class="panel tape-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">TAPE READ</p>
+              <h2>最近成交</h2>
+            </div>
+          </div>
+          <div id="tapeTable" class="tape-table"></div>
+        </article>
+      </section>
+
+      <section id="compare" class="compare-grid">
+        <article class="panel watchlist-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">COMPARISON POOL</p>
+              <h2>同池对比</h2>
+            </div>
+          </div>
+          <div id="watchlistTable" class="watchlist-table"></div>
+        </article>
+
+        <article class="panel recent-panel">
+          <div class="panel-head compact">
+            <div>
+              <p class="eyebrow">RECENT SYMBOLS</p>
+              <h2>最近查看</h2>
+            </div>
+          </div>
+          <div id="recentSymbols" class="chip-stack"></div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

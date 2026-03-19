@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>OpenClaw Roundtable</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}" />
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="composer">
+        <div class="brand">
+          <div class="brand-mark">P</div>
+          <div>
+            <p class="eyebrow">LOCAL ROUND TABLE</p>
+            <h1>Panel Deck</h1>
+            <p>在本地发起多模型讨论，实时查看回合推进、结论和风险，不再像一页纯日志。</p>
+          </div>
+        </div>
+
+        <section class="hero-card">
+          <div class="hero-copy">
+            <span class="hero-kicker">默认参会席位</span>
+            <strong>DeepSeek / 豆包 / Gemini</strong>
+            <p>适合做方案对比、优先级判断、工作流讨论。`Ctrl/Command + Enter` 可直接发起。</p>
+          </div>
+          <div class="hero-metrics">
+            <article>
+              <span>模式</span>
+              <strong>本地工作台</strong>
+            </article>
+            <article>
+              <span>输出</span>
+              <strong>过程 + 结论</strong>
+            </article>
+          </div>
+        </section>
+
+        <div class="control-card">
+          <label class="field">
+            <span>任务</span>
+            <textarea id="taskInput" placeholder="输入你想让 DeepSeek、豆包、Gemini 讨论的任务"></textarea>
+            <small class="field-hint">建议把问题写成“是否 / 如何 / 优先级 / 方案比较”这类可讨论任务。</small>
+          </label>
+
+          <div class="field">
+            <span>讨论轮数</span>
+            <div class="round-control">
+              <input id="roundRange" type="range" min="1" max="10" value="3" />
+              <div class="round-control-row">
+                <div class="round-counter">
+                  <strong id="roundCount">3</strong>
+                  <span>轮</span>
+                </div>
+                <input id="roundNumber" class="round-number" type="number" min="1" max="10" value="3" />
+              </div>
+            </div>
+            <small class="field-hint">1 轮适合快速判断，4 轮以上更适合多轮博弈，但等待会明显变长。</small>
+          </div>
+
+          <div class="field presets">
+            <span>快捷问题</span>
+            <div class="preset-list">
+              <button type="button" class="preset" data-prompt="请讨论：是否应该把 OpenClaw 机器人开放到团队群，并给出完整讨论过程。">团队群开放</button>
+              <button type="button" class="preset" data-prompt="请讨论：当前最适合我的 OpenClaw 默认工作流是什么？">默认工作流</button>
+              <button type="button" class="preset" data-prompt="请讨论：我下一步应该优先完善 Star Office UI、Lobster workflow 还是飞书接入？">下一步优先级</button>
+              <button type="button" class="preset" data-prompt="请讨论：如果把 OpenClaw 做成个人 AI 中控台，最值得优先补齐的 3 个能力是什么？">AI 中控台</button>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button id="runButton" class="run" type="button">开始讨论</button>
+            <button id="clearButton" class="ghost" type="button">清空</button>
+          </div>
+        </div>
+
+        <div class="status-card">
+          <div>
+            <span class="meta-label">会话节奏</span>
+            <strong>看过程，不只看答案</strong>
+          </div>
+          <div>
+            <span class="meta-label">总结结构</span>
+            <strong>结论 / 待办 / 风险</strong>
+          </div>
+        </div>
+      </aside>
+
+      <section class="chat">
+        <header class="chat-head">
+          <div>
+            <p class="eyebrow">SESSION VIEW</p>
+            <h2>讨论工作台</h2>
+            <p id="statusText">等待任务</p>
+          </div>
+          <div class="chat-tools">
+            <div class="chips" id="providerChips">
+              <span class="chip deepseek">DeepSeek</span>
+              <span class="chip doubao">豆包</span>
+              <span class="chip gemini">Gemini</span>
+            </div>
+            <button id="copyButton" class="ghost utility" type="button" disabled>复制结果</button>
+          </div>
+        </header>
+
+        <section class="tldr-bar" id="tldrBar">
+          <div class="tldr-main">
+            <p class="eyebrow">TL;DR</p>
+            <h3>等待讨论启动</h3>
+            <p>开始讨论后，这里会固定显示当前最重要的结论脉冲，优先让你看到核心判断。</p>
+          </div>
+          <div class="tldr-meta">
+            <article>
+              <span>当前阶段</span>
+              <strong>空闲</strong>
+            </article>
+            <article>
+              <span>最新更新</span>
+              <strong>未开始</strong>
+            </article>
+          </div>
+        </section>
+
+        <div class="workspace">
+          <section class="flow-panel">
+            <div class="toolbar">
+              <div class="session-pills">
+                <span class="session-pill">完整过程</span>
+                <span class="session-pill muted" id="roundBadge">3 轮</span>
+              </div>
+              <nav id="roundNav" class="round-nav" aria-label="回合导航"></nav>
+            </div>
+
+            <div id="timeline" class="timeline">
+              <article class="empty-state">
+                <h3>这里会显示完整的讨论轮次</h3>
+                <p>每一轮分别展示三位模型的判断，右侧摘要区会自动抽取结论、待办和风险。</p>
+              </article>
+            </div>
+          </section>
+
+          <aside class="insights">
+            <section class="insight-card overview-card" id="overviewPanel">
+              <div class="card-head">
+                <p class="eyebrow">OVERVIEW</p>
+                <h3>会话概览</h3>
+              </div>
+              <div class="overview-grid">
+                <article>
+                  <span>状态</span>
+                  <strong>等待任务</strong>
+                </article>
+                <article>
+                  <span>轮数</span>
+                  <strong>3 轮</strong>
+                </article>
+                <article>
+                  <span>参会者</span>
+                  <strong>3 位</strong>
+                </article>
+                <article>
+                  <span>摘要</span>
+                  <strong>未生成</strong>
+                </article>
+              </div>
+            </section>
+
+            <section class="insight-card summary-card" id="summaryPanel">
+              <div class="card-head">
+                <p class="eyebrow">SUMMARY</p>
+                <h3>摘要区</h3>
+              </div>
+              <article class="summary-placeholder">
+                <strong>还没有本轮结果</strong>
+                <p>开始讨论后，这里会拆分展示最终结论、待办清单和风险项，而不是只给一整段文本。</p>
+              </article>
+            </section>
+
+            <section class="insight-card activity-card" id="activityPanel">
+              <div class="card-head">
+                <p class="eyebrow">ACTIVITY</p>
+                <h3>运行提示</h3>
+              </div>
+              <ul class="activity-list">
+                <li>写清楚讨论目标，输出会更稳定。</li>
+                <li>2 轮更适合快速判断，3 轮更适合方案博弈。</li>
+                <li>如果某个模型暂时不可用，系统会自动降级。</li>
+              </ul>
+            </section>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <template id="roundTemplate">
+      <section class="round-block">
+        <div class="round-title"></div>
+        <div class="round-replies"></div>
+      </section>
+    </template>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>

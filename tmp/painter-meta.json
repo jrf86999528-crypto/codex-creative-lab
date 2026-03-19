@@ -1,0 +1,130 @@
+{
+  "gu-kaizhi": {
+    "name": "顾恺之",
+    "latin": "Gu Kaizhi"
+  },
+  "fan-kuan": {
+    "name": "范宽",
+    "latin": "Fan Kuan"
+  },
+  "guo-xi": {
+    "name": "郭熙",
+    "latin": "Guo Xi"
+  },
+  "leonardo": {
+    "name": "列奥纳多·达·芬奇",
+    "latin": "Leonardo da Vinci"
+  },
+  "michelangelo": {
+    "name": "米开朗基罗",
+    "latin": "Michelangelo"
+  },
+  "raphael": {
+    "name": "拉斐尔",
+    "latin": "Raphael"
+  },
+  "caravaggio": {
+    "name": "卡拉瓦乔",
+    "latin": "Caravaggio"
+  },
+  "rembrandt": {
+    "name": "伦勃朗",
+    "latin": "Rembrandt"
+  },
+  "hokusai": {
+    "name": "葛饰北斋",
+    "latin": "Katsushika Hokusai"
+  },
+  "turner": {
+    "name": "透纳",
+    "latin": "J. M. W. Turner"
+  },
+  "monet": {
+    "name": "克劳德·莫奈",
+    "latin": "Claude Monet"
+  },
+  "cezanne": {
+    "name": "保罗·塞尚",
+    "latin": "Paul Cezanne"
+  },
+  "van-gogh": {
+    "name": "文森特·梵高",
+    "latin": "Vincent van Gogh"
+  },
+  "klimt": {
+    "name": "古斯塔夫·克里姆特",
+    "latin": "Gustav Klimt"
+  },
+  "kandinsky": {
+    "name": "瓦西里·康定斯基",
+    "latin": "Wassily Kandinsky"
+  },
+  "picasso": {
+    "name": "巴勃罗·毕加索",
+    "latin": "Pablo Picasso"
+  },
+  "frida-kahlo": {
+    "name": "弗里达·卡罗",
+    "latin": "Frida Kahlo"
+  },
+  "dali": {
+    "name": "萨尔瓦多·达利",
+    "latin": "Salvador Dali"
+  },
+  "yayoi-kusama": {
+    "name": "草间弥生",
+    "latin": "Yayoi Kusama"
+  },
+  "hockney": {
+    "name": "大卫·霍克尼",
+    "latin": "David Hockney"
+  },
+  "wu-daozi": {
+    "name": "吴道子",
+    "latin": "Wu Daozi"
+  },
+  "zhao-mengfu": {
+    "name": "赵孟頫",
+    "latin": "Zhao Mengfu"
+  },
+  "huang-gongwang": {
+    "name": "黄公望",
+    "latin": "Huang Gongwang"
+  },
+  "botticelli": {
+    "name": "桑德罗·波提切利",
+    "latin": "Sandro Botticelli"
+  },
+  "titian": {
+    "name": "提香",
+    "latin": "Titian"
+  },
+  "vermeer": {
+    "name": "约翰内斯·维米尔",
+    "latin": "Johannes Vermeer"
+  },
+  "goya": {
+    "name": "弗朗西斯科·戈雅",
+    "latin": "Francisco Goya"
+  },
+  "renoir": {
+    "name": "皮埃尔-奥古斯特·雷诺阿",
+    "latin": "Pierre-Auguste Renoir"
+  },
+  "matisse": {
+    "name": "亨利·马蒂斯",
+    "latin": "Henri Matisse"
+  },
+  "georgia-okeeffe": {
+    "name": "乔治亚·欧姬芙",
+    "latin": "Georgia O'Keeffe"
+  },
+  "qi-baishi": {
+    "name": "齐白石",
+    "latin": "Qi Baishi"
+  },
+  "zhang-daqian": {
+    "name": "张大千",
+    "latin": "Zhang Daqian"
+  }
+}

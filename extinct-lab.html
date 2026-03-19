@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Lazarus | 灭绝动物复活地球仪</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./extinct-lab.css?v=20260319-tripo5-texture3" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.164.1/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.164.1/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="./extinct-lab.js?v=20260319-tripo5-texture3"></script>
+  </head>
+  <body>
+    <div class="ambient ambient-grid"></div>
+    <div class="ambient ambient-noise"></div>
+    <div class="ambient ambient-glow ambient-glow-a"></div>
+    <div class="ambient ambient-glow ambient-glow-b"></div>
+    <div class="ambient ambient-scanlines"></div>
+
+    <main class="page-shell">
+      <section class="planet-stage panel">
+        <div class="globe-frame">
+          <div id="globeCanvas" class="globe-canvas" aria-label="3D extinct animal globe"></div>
+
+          <div class="globe-overlay overlay-brand">
+            <p class="eyebrow">Project Lazarus / Planetary Reinstatement Console</p>
+            <h1>灭绝动物复活地球仪</h1>
+          </div>
+
+          <div id="telemetryPanel" class="globe-overlay overlay-telemetry">
+            <div class="panel-topline">
+              <p class="eyebrow">Lab Telemetry</p>
+              <button id="telemetryToggle" class="status-pill warning telemetry-toggle" type="button" aria-expanded="true">
+                封闭测试区
+              </button>
+            </div>
+            <div id="telemetryGrid" class="status-grid compact">
+              <div>
+                <span>候选物种</span>
+                <strong id="specimenCount">0</strong>
+              </div>
+              <div>
+                <span>当前样本</span>
+                <strong id="selectedNameStat">--</strong>
+              </div>
+              <div>
+                <span>最高复活率</span>
+                <strong id="topSuccessRate">--</strong>
+              </div>
+              <div>
+                <span>系统警告</span>
+                <strong id="globalAlertLabel">--</strong>
+              </div>
+            </div>
+          </div>
+
+          <div id="focusPanel" class="globe-overlay overlay-focus">
+            <div id="focusToggle" class="focus-head" role="button" tabindex="0" aria-expanded="true">
+              <div>
+                <p class="eyebrow">Selected Specimen</p>
+                <strong id="overlayName">载入中</strong>
+              </div>
+              <div class="focus-head-actions">
+                <span id="selectedAnchorLabel" class="status-pill subtle">--</span>
+                <span class="focus-collapse-hint">收起</span>
+              </div>
+            </div>
+            <div id="focusPanelBody" class="focus-panel-body">
+              <p id="overlayMeta" class="overlay-copy">正在校准地表样本与地理锚点。</p>
+              <div class="focus-meta">
+              <div>
+                <span class="micro-label">原始分布</span>
+                <strong id="overlayRegion">--</strong>
+              </div>
+              <div>
+                <span class="micro-label">灭绝时间</span>
+                <strong id="overlayExtinction">--</strong>
+              </div>
+              <div>
+                <span class="micro-label">进入方式</span>
+                <strong>点击地表样本</strong>
+              </div>
+              </div>
+            </div>
+          </div>
+
+          <button id="openViewerButton" class="primary-button globe-action" type="button">弹出 3D 样本仓</button>
+        </div>
+
+        <div id="markerLegend" class="marker-legend marker-dock"></div>
+      </section>
+
+      <section class="dock-grid">
+        <details class="fold-card fold-card-wide" open>
+          <summary>
+            <div>
+              <p class="eyebrow">Integrated Dossier</p>
+              <strong id="heroName">载入中</strong>
+            </div>
+            <span id="heroStatusChip" class="summary-meta">--</span>
+          </summary>
+          <div class="fold-body">
+            <div class="dossier-layout">
+              <div class="hero-dossier">
+                <div class="hero-dossier-top">
+                  <div>
+                    <p id="heroLatin" class="subline">--</p>
+                    <p id="heroSummary" class="body-copy">--</p>
+                  </div>
+                </div>
+
+                <div class="info-grid">
+                  <div class="info-chip">
+                    <span>原始分布</span>
+                    <strong id="originZone">--</strong>
+                  </div>
+                  <div class="info-chip">
+                    <span>复活理由</span>
+                    <strong id="revivalReason">--</strong>
+                  </div>
+                  <div class="info-chip">
+                    <span>实验层级</span>
+                    <strong id="tierBadge">--</strong>
+                  </div>
+                  <div class="info-chip">
+                    <span>灭绝时间</span>
+                    <strong id="extinctionYear">--</strong>
+                  </div>
+                </div>
+
+                <div id="traitChips" class="trait-chips"></div>
+              </div>
+
+              <div class="dossier-side">
+                <div class="section-block">
+                  <div class="section-label-row">
+                    <p class="eyebrow">Resurrection Scores</p>
+                    <span id="scoreSummary" class="summary-meta">--</span>
+                  </div>
+                  <div id="scoreGrid" class="score-grid"></div>
+                  <div class="warning-card">
+                    <p class="eyebrow">Containment Note</p>
+                    <p id="warningText" class="body-copy">--</p>
+                  </div>
+                </div>
+
+                <div class="section-block">
+                  <div class="section-label-row">
+                    <p class="eyebrow">Specimen Sheet</p>
+                    <span class="summary-meta">快速信息</span>
+                  </div>
+                  <div id="detailFacts" class="fact-grid"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </details>
+
+        <details class="fold-card" open>
+          <summary>
+            <div>
+              <p class="eyebrow">Reconstruction Pipeline</p>
+              <strong>复活链路</strong>
+            </div>
+            <span id="currentPipelineLabel" class="summary-meta">--</span>
+          </summary>
+          <div class="fold-body">
+            <div class="section-block">
+              <div id="pipelineSteps" class="pipeline-steps"></div>
+            </div>
+            <div class="section-block">
+              <div class="section-label-row">
+                <p class="eyebrow">Anatomy Gap</p>
+                <span class="summary-meta">关键参数</span>
+              </div>
+              <div id="anatomyBars" class="anatomy-bars"></div>
+            </div>
+          </div>
+        </details>
+
+        <details class="fold-card" open>
+          <summary>
+            <div>
+              <p class="eyebrow">Habitat & Ethics</p>
+              <strong>生态位与争议</strong>
+            </div>
+            <span id="habitatBadge" class="summary-meta">--</span>
+          </summary>
+          <div class="fold-body">
+            <div class="section-block">
+              <div id="habitatChips" class="chip-grid"></div>
+            </div>
+            <div class="copy-grid">
+              <article class="copy-card">
+                <h3>再引入场景</h3>
+                <p id="reintroductionText" class="body-copy">--</p>
+              </article>
+              <article class="copy-card">
+                <h3>伦理分歧</h3>
+                <p id="ethicsText" class="body-copy">--</p>
+              </article>
+            </div>
+            <div class="section-block">
+              <div class="section-label-row">
+                <p class="eyebrow">Proxy Species</p>
+                <span class="summary-meta">近缘参考</span>
+              </div>
+              <div id="proxyGrid" class="proxy-grid"></div>
+            </div>
+          </div>
+        </details>
+
+        <details class="fold-card">
+          <summary>
+            <div>
+              <p class="eyebrow">Incident Archive</p>
+              <strong>失败日志</strong>
+            </div>
+            <span class="summary-meta">实验室异常</span>
+          </summary>
+          <div class="fold-body">
+            <div id="incidentList" class="incident-list"></div>
+          </div>
+        </details>
+      </section>
+    </main>
+
+    <section id="viewerModal" class="viewer-modal hidden" role="dialog" aria-modal="true" aria-hidden="true">
+      <div class="viewer-backdrop" data-close-viewer="true"></div>
+      <div class="viewer-panel">
+        <button id="closeViewerButton" class="close-button" type="button" aria-label="关闭 3D 样本仓">×</button>
+
+        <div class="viewer-head">
+          <div>
+            <p class="eyebrow">Specimen Viewer</p>
+            <h2 id="viewerName">--</h2>
+            <p id="viewerLatin" class="subline">--</p>
+          </div>
+          <div class="viewer-meta">
+            <span id="viewerStatus" class="status-pill">--</span>
+            <span id="viewerAnchor" class="status-pill subtle">--</span>
+          </div>
+        </div>
+
+        <div class="viewer-layout">
+          <div class="viewer-stage">
+            <div id="viewerCanvas" class="viewer-canvas" aria-label="3D specimen viewer"></div>
+            <div class="viewer-hint">拖拽旋转 · 滚轮缩放 · 观察复原体</div>
+          </div>
+
+          <div class="viewer-copy">
+            <article class="copy-card">
+              <h3>实验员注释</h3>
+              <p id="viewerNote" class="body-copy">--</p>
+            </article>
+            <article class="copy-card">
+              <h3>重点风险</h3>
+              <p id="viewerWarning" class="body-copy">--</p>
+            </article>
+            <article class="copy-card">
+              <h3>地表回归标签</h3>
+              <div id="viewerTraits" class="trait-chips"></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

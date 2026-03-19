@@ -1,0 +1,2386 @@
+[
+  {
+    "painterId": "gu-kaizhi",
+    "painterName": "顾恺之",
+    "lookupTitle": "Admonitions Scroll",
+    "artworkTitle": "女史箴图",
+    "explicitPageTitle": "Admonitions Scroll",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "gu-kaizhi",
+    "painterName": "顾恺之",
+    "lookupTitle": "Nymph of the Luo River",
+    "artworkTitle": "洛神赋图",
+    "explicitPageTitle": "Nymph of the Luo River",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "gu-kaizhi",
+    "painterName": "顾恺之",
+    "lookupTitle": "Wise and Benevolent Women",
+    "artworkTitle": "列女仁智图",
+    "explicitPageTitle": "Wise and Benevolent Women",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "fan-kuan",
+    "painterName": "范宽",
+    "lookupTitle": "Travelers among Mountains and Streams",
+    "artworkTitle": "溪山行旅图",
+    "explicitPageTitle": "Travelers among Mountains and Streams",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "fan-kuan",
+    "painterName": "范宽",
+    "lookupTitle": "Snow Scene",
+    "artworkTitle": "雪景寒林图",
+    "explicitPageTitle": "Snow Scene",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "guo-xi",
+    "painterName": "郭熙",
+    "lookupTitle": "Early Spring (painting)",
+    "artworkTitle": "早春图",
+    "explicitPageTitle": "Early Spring (painting)",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "guo-xi",
+    "painterName": "郭熙",
+    "lookupTitle": "Old Trees, Level Distance",
+    "artworkTitle": "树色平远图",
+    "explicitPageTitle": "Old Trees, Level Distance",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "leonardo",
+    "painterName": "列奥纳多·达·芬奇",
+    "lookupTitle": "Mona Lisa",
+    "artworkTitle": "蒙娜丽莎",
+    "explicitPageTitle": "Mona Lisa",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "leonardo",
+    "painterName": "列奥纳多·达·芬奇",
+    "lookupTitle": "The Last Supper (Leonardo)",
+    "artworkTitle": "最后的晚餐",
+    "explicitPageTitle": "The Last Supper (Leonardo)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "leonardo",
+    "painterName": "列奥纳多·达·芬奇",
+    "lookupTitle": "Vitruvian Man",
+    "artworkTitle": "维特鲁威人",
+    "explicitPageTitle": "Vitruvian Man",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "michelangelo",
+    "painterName": "米开朗基罗",
+    "lookupTitle": "The Creation of Adam",
+    "artworkTitle": "创造亚当",
+    "explicitPageTitle": "The Creation of Adam",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "michelangelo",
+    "painterName": "米开朗基罗",
+    "lookupTitle": "David (Michelangelo)",
+    "artworkTitle": "大卫",
+    "explicitPageTitle": "David (Michelangelo)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "michelangelo",
+    "painterName": "米开朗基罗",
+    "lookupTitle": "The Last Judgment (Michelangelo)",
+    "artworkTitle": "最后的审判",
+    "explicitPageTitle": "The Last Judgment (Michelangelo)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "raphael",
+    "painterName": "拉斐尔",
+    "lookupTitle": "The School of Athens",
+    "artworkTitle": "雅典学院",
+    "explicitPageTitle": "The School of Athens",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "raphael",
+    "painterName": "拉斐尔",
+    "lookupTitle": "Sistine Madonna",
+    "artworkTitle": "西斯廷圣母",
+    "explicitPageTitle": "Sistine Madonna",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "raphael",
+    "painterName": "拉斐尔",
+    "lookupTitle": "Transfiguration (Raphael)",
+    "artworkTitle": "基督变容",
+    "explicitPageTitle": "Transfiguration (Raphael)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "caravaggio",
+    "painterName": "卡拉瓦乔",
+    "lookupTitle": "The Calling of St Matthew",
+    "artworkTitle": "圣马太蒙召",
+    "explicitPageTitle": "The Calling of St Matthew",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "caravaggio",
+    "painterName": "卡拉瓦乔",
+    "lookupTitle": "Judith Beheading Holofernes (Caravaggio)",
+    "artworkTitle": "朱迪斯斩首霍洛费尔内斯",
+    "explicitPageTitle": "Judith Beheading Holofernes (Caravaggio)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "caravaggio",
+    "painterName": "卡拉瓦乔",
+    "lookupTitle": "Basket of Fruit (Caravaggio)",
+    "artworkTitle": "水果篮",
+    "explicitPageTitle": "Basket of Fruit (Caravaggio)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "rembrandt",
+    "painterName": "伦勃朗",
+    "lookupTitle": "The Night Watch",
+    "artworkTitle": "夜巡",
+    "explicitPageTitle": "The Night Watch",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "rembrandt",
+    "painterName": "伦勃朗",
+    "lookupTitle": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "artworkTitle": "杜普医生的解剖课",
+    "explicitPageTitle": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "rembrandt",
+    "painterName": "伦勃朗",
+    "lookupTitle": "The Return of the Prodigal Son (Rembrandt)",
+    "artworkTitle": "浪子回头",
+    "explicitPageTitle": "The Return of the Prodigal Son (Rembrandt)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "hokusai",
+    "painterName": "葛饰北斋",
+    "lookupTitle": "The Great Wave off Kanagawa",
+    "artworkTitle": "神奈川冲浪里",
+    "explicitPageTitle": "The Great Wave off Kanagawa",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "hokusai",
+    "painterName": "葛饰北斋",
+    "lookupTitle": "Fine Wind, Clear Morning",
+    "artworkTitle": "凯风快晴",
+    "explicitPageTitle": "Fine Wind, Clear Morning",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "hokusai",
+    "painterName": "葛饰北斋",
+    "lookupTitle": "Kajikazawa in Kai Province",
+    "artworkTitle": "甲州石班泽",
+    "explicitPageTitle": "Kajikazawa in Kai Province",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "turner",
+    "painterName": "透纳",
+    "lookupTitle": "The Fighting Temeraire",
+    "artworkTitle": "战舰无畏号的最后航程",
+    "explicitPageTitle": "The Fighting Temeraire",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "turner",
+    "painterName": "透纳",
+    "lookupTitle": "Rain, Steam and Speed – The Great Western Railway",
+    "artworkTitle": "雨、蒸汽与速度",
+    "explicitPageTitle": "Rain, Steam and Speed – The Great Western Railway",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "turner",
+    "painterName": "透纳",
+    "lookupTitle": "The Slave Ship",
+    "artworkTitle": "奴隶船",
+    "explicitPageTitle": "The Slave Ship",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "monet",
+    "painterName": "克劳德·莫奈",
+    "lookupTitle": "Impression, Sunrise",
+    "artworkTitle": "印象·日出",
+    "explicitPageTitle": "Impression, Sunrise",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "monet",
+    "painterName": "克劳德·莫奈",
+    "lookupTitle": "Water Lilies",
+    "artworkTitle": "睡莲",
+    "explicitPageTitle": "Water Lilies",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "monet",
+    "painterName": "克劳德·莫奈",
+    "lookupTitle": "Haystacks (Monet series)",
+    "artworkTitle": "干草堆",
+    "explicitPageTitle": "Haystacks (Monet series)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "cezanne",
+    "painterName": "保罗·塞尚",
+    "lookupTitle": "The Card Players",
+    "artworkTitle": "玩纸牌者",
+    "explicitPageTitle": "The Card Players",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "cezanne",
+    "painterName": "保罗·塞尚",
+    "lookupTitle": "Mont Sainte-Victoire",
+    "artworkTitle": "圣维克多山",
+    "explicitPageTitle": "Mont Sainte-Victoire",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "cezanne",
+    "painterName": "保罗·塞尚",
+    "lookupTitle": "The Large Bathers",
+    "artworkTitle": "大浴女",
+    "explicitPageTitle": "The Large Bathers",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "van-gogh",
+    "painterName": "文森特·梵高",
+    "lookupTitle": "The Starry Night",
+    "artworkTitle": "星月夜",
+    "explicitPageTitle": "The Starry Night",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "van-gogh",
+    "painterName": "文森特·梵高",
+    "lookupTitle": "Sunflowers (Van Gogh series)",
+    "artworkTitle": "向日葵",
+    "explicitPageTitle": "Sunflowers (Van Gogh series)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "van-gogh",
+    "painterName": "文森特·梵高",
+    "lookupTitle": "The Bedroom",
+    "artworkTitle": "卧室",
+    "explicitPageTitle": "The Bedroom",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "klimt",
+    "painterName": "古斯塔夫·克里姆特",
+    "lookupTitle": "The Kiss (Klimt)",
+    "artworkTitle": "吻",
+    "explicitPageTitle": "The Kiss (Klimt)",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "klimt",
+    "painterName": "古斯塔夫·克里姆特",
+    "lookupTitle": "Portrait of Adele Bloch-Bauer I",
+    "artworkTitle": "阿黛尔·布洛赫-鲍尔肖像一号",
+    "explicitPageTitle": "Portrait of Adele Bloch-Bauer I",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "klimt",
+    "painterName": "古斯塔夫·克里姆特",
+    "lookupTitle": "Judith and the Head of Holofernes",
+    "artworkTitle": "朱迪斯一号",
+    "explicitPageTitle": "Judith and the Head of Holofernes",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "kandinsky",
+    "painterName": "瓦西里·康定斯基",
+    "lookupTitle": "Composition VIII",
+    "artworkTitle": "构成第八号",
+    "explicitPageTitle": "Composition VIII",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "kandinsky",
+    "painterName": "瓦西里·康定斯基",
+    "lookupTitle": "Yellow-Red-Blue",
+    "artworkTitle": "黄-红-蓝",
+    "explicitPageTitle": "Yellow-Red-Blue",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "kandinsky",
+    "painterName": "瓦西里·康定斯基",
+    "lookupTitle": "Several Circles",
+    "artworkTitle": "数个圆圈",
+    "explicitPageTitle": "Several Circles",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "picasso",
+    "painterName": "巴勃罗·毕加索",
+    "lookupTitle": "Les Demoiselles d'Avignon",
+    "artworkTitle": "亚维农少女",
+    "explicitPageTitle": "Les Demoiselles d'Avignon",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "picasso",
+    "painterName": "巴勃罗·毕加索",
+    "lookupTitle": "Guernica",
+    "artworkTitle": "格尔尼卡",
+    "explicitPageTitle": "Guernica",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "picasso",
+    "painterName": "巴勃罗·毕加索",
+    "lookupTitle": "Girl before a Mirror",
+    "artworkTitle": "镜前少女",
+    "explicitPageTitle": "Girl before a Mirror",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "frida-kahlo",
+    "painterName": "弗里达·卡罗",
+    "lookupTitle": "The Two Fridas",
+    "artworkTitle": "两个弗里达",
+    "explicitPageTitle": "The Two Fridas",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "frida-kahlo",
+    "painterName": "弗里达·卡罗",
+    "lookupTitle": "Self-Portrait with Thorn Necklace and Hummingbird",
+    "artworkTitle": "带荆棘项链和蜂鸟的自画像",
+    "explicitPageTitle": "Self-Portrait with Thorn Necklace and Hummingbird",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "frida-kahlo",
+    "painterName": "弗里达·卡罗",
+    "lookupTitle": "The Wounded Deer",
+    "artworkTitle": "受伤的鹿",
+    "explicitPageTitle": "The Wounded Deer",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "dali",
+    "painterName": "萨尔瓦多·达利",
+    "lookupTitle": "The Persistence of Memory",
+    "artworkTitle": "记忆的永恒",
+    "explicitPageTitle": "The Persistence of Memory",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "dali",
+    "painterName": "萨尔瓦多·达利",
+    "lookupTitle": "Metamorphosis of Narcissus",
+    "artworkTitle": "那喀索斯的变形",
+    "explicitPageTitle": "Metamorphosis of Narcissus",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "dali",
+    "painterName": "萨尔瓦多·达利",
+    "lookupTitle": "Swans Reflecting Elephants",
+    "artworkTitle": "天鹅映象大象",
+    "explicitPageTitle": "Swans Reflecting Elephants",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "yayoi-kusama",
+    "painterName": "草间弥生",
+    "lookupTitle": "Infinity Mirrored Room",
+    "artworkTitle": "无限镜屋",
+    "explicitPageTitle": "Infinity Mirrored Room",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "yayoi-kusama",
+    "painterName": "草间弥生",
+    "lookupTitle": "Phalli's Field",
+    "artworkTitle": "阳具原野",
+    "explicitPageTitle": "Phalli's Field",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "yayoi-kusama",
+    "painterName": "草间弥生",
+    "lookupTitle": "Pumpkin (Yayoi Kusama)",
+    "artworkTitle": "南瓜",
+    "explicitPageTitle": "Pumpkin (Yayoi Kusama)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "hockney",
+    "painterName": "大卫·霍克尼",
+    "lookupTitle": "A Bigger Splash",
+    "artworkTitle": "更大的水花",
+    "explicitPageTitle": "A Bigger Splash",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "hockney",
+    "painterName": "大卫·霍克尼",
+    "lookupTitle": "Mr and Mrs Clark and Percy",
+    "artworkTitle": "克拉克夫妇与珀西",
+    "explicitPageTitle": "Mr and Mrs Clark and Percy",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "hockney",
+    "painterName": "大卫·霍克尼",
+    "lookupTitle": "Portrait of an Artist (Pool with Two Figures)",
+    "artworkTitle": "艺术家肖像（泳池与两个人物）",
+    "explicitPageTitle": "Portrait of an Artist (Pool with Two Figures)",
+    "fileStem": "03-work-3"
+  },
+  {
+    "painterId": "wu-daozi",
+    "painterName": "吴道子",
+    "lookupTitle": "八十七神仙卷",
+    "artworkTitle": "八十七神仙卷",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "wu-daozi",
+    "painterName": "吴道子",
+    "lookupTitle": "送子天王图",
+    "artworkTitle": "送子天王图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhao-mengfu",
+    "painterName": "赵孟頫",
+    "lookupTitle": "鹊华秋色图",
+    "artworkTitle": "鹊华秋色图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhao-mengfu",
+    "painterName": "赵孟頫",
+    "lookupTitle": "人骑图",
+    "artworkTitle": "人骑图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "huang-gongwang",
+    "painterName": "黄公望",
+    "lookupTitle": "Dwelling in the Fuchun Mountains",
+    "artworkTitle": "富春山居图",
+    "explicitPageTitle": "Dwelling in the Fuchun Mountains",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "huang-gongwang",
+    "painterName": "黄公望",
+    "lookupTitle": "九峰雪霁图",
+    "artworkTitle": "九峰雪霁图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "botticelli",
+    "painterName": "桑德罗·波提切利",
+    "lookupTitle": "The Birth of Venus",
+    "artworkTitle": "维纳斯的诞生",
+    "explicitPageTitle": "The Birth of Venus",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "botticelli",
+    "painterName": "桑德罗·波提切利",
+    "lookupTitle": "Primavera (Botticelli)",
+    "artworkTitle": "春",
+    "explicitPageTitle": "Primavera (Botticelli)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "titian",
+    "painterName": "提香",
+    "lookupTitle": "Venus of Urbino",
+    "artworkTitle": "乌尔比诺的维纳斯",
+    "explicitPageTitle": "Venus of Urbino",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "titian",
+    "painterName": "提香",
+    "lookupTitle": "Assumption of the Virgin (Titian)",
+    "artworkTitle": "圣母升天",
+    "explicitPageTitle": "Assumption of the Virgin (Titian)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "vermeer",
+    "painterName": "约翰内斯·维米尔",
+    "lookupTitle": "Girl with a Pearl Earring",
+    "artworkTitle": "戴珍珠耳环的少女",
+    "explicitPageTitle": "Girl with a Pearl Earring",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "vermeer",
+    "painterName": "约翰内斯·维米尔",
+    "lookupTitle": "The Milkmaid (Vermeer)",
+    "artworkTitle": "倒牛奶的女仆",
+    "explicitPageTitle": "The Milkmaid (Vermeer)",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "goya",
+    "painterName": "弗朗西斯科·戈雅",
+    "lookupTitle": "The Third of May 1808",
+    "artworkTitle": "1808 年 5 月 3 日",
+    "explicitPageTitle": "The Third of May 1808",
+    "fileStem": "01-1808-5-3"
+  },
+  {
+    "painterId": "goya",
+    "painterName": "弗朗西斯科·戈雅",
+    "lookupTitle": "Saturn Devouring His Son",
+    "artworkTitle": "农神吞噬其子",
+    "explicitPageTitle": "Saturn Devouring His Son",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "renoir",
+    "painterName": "皮埃尔-奥古斯特·雷诺阿",
+    "lookupTitle": "Bal du moulin de la Galette",
+    "artworkTitle": "煎饼磨坊的舞会",
+    "explicitPageTitle": "Bal du moulin de la Galette",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "renoir",
+    "painterName": "皮埃尔-奥古斯特·雷诺阿",
+    "lookupTitle": "Luncheon of the Boating Party",
+    "artworkTitle": "舟上的午宴",
+    "explicitPageTitle": "Luncheon of the Boating Party",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "matisse",
+    "painterName": "亨利·马蒂斯",
+    "lookupTitle": "Dance (Matisse)",
+    "artworkTitle": "舞蹈",
+    "explicitPageTitle": "Dance (Matisse)",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "matisse",
+    "painterName": "亨利·马蒂斯",
+    "lookupTitle": "The Red Studio",
+    "artworkTitle": "红色工作室",
+    "explicitPageTitle": "The Red Studio",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "georgia-okeeffe",
+    "painterName": "乔治亚·欧姬芙",
+    "lookupTitle": "Black Iris III",
+    "artworkTitle": "黑鸢尾 III",
+    "explicitPageTitle": "Black Iris III",
+    "fileStem": "01-iii"
+  },
+  {
+    "painterId": "georgia-okeeffe",
+    "painterName": "乔治亚·欧姬芙",
+    "lookupTitle": "Cow's Skull: Red, White, and Blue",
+    "artworkTitle": "牛头骨：红白蓝",
+    "explicitPageTitle": "Cow's Skull: Red, White, and Blue",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "qi-baishi",
+    "painterName": "齐白石",
+    "lookupTitle": "群虾图",
+    "artworkTitle": "群虾图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "qi-baishi",
+    "painterName": "齐白石",
+    "lookupTitle": "蛙声十里出山泉",
+    "artworkTitle": "蛙声十里出山泉",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhang-daqian",
+    "painterName": "张大千",
+    "lookupTitle": "庐山图",
+    "artworkTitle": "庐山图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhang-daqian",
+    "painterName": "张大千",
+    "lookupTitle": "泼彩山水",
+    "artworkTitle": "泼彩山水",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "lu-tanwei",
+    "painterName": "陆探微",
+    "lookupTitle": "人物故事图",
+    "artworkTitle": "人物故事图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "lu-tanwei",
+    "painterName": "陆探微",
+    "lookupTitle": "古贤图稿",
+    "artworkTitle": "古贤图稿",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhang-sengyao",
+    "painterName": "张僧繇",
+    "lookupTitle": "梁武帝像",
+    "artworkTitle": "梁武帝像",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhang-sengyao",
+    "painterName": "张僧繇",
+    "lookupTitle": "五星二十八宿神形图",
+    "artworkTitle": "五星二十八宿神形图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhan-ziqian",
+    "painterName": "展子虔",
+    "lookupTitle": "游春图",
+    "artworkTitle": "游春图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhan-ziqian",
+    "painterName": "展子虔",
+    "lookupTitle": "山水图稿",
+    "artworkTitle": "山水图稿",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "yan-liben",
+    "painterName": "阎立本",
+    "lookupTitle": "步辇图",
+    "artworkTitle": "步辇图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "yan-liben",
+    "painterName": "阎立本",
+    "lookupTitle": "历代帝王图",
+    "artworkTitle": "历代帝王图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "li-sixun",
+    "painterName": "李思训",
+    "lookupTitle": "江帆楼阁图",
+    "artworkTitle": "江帆楼阁图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "li-sixun",
+    "painterName": "李思训",
+    "lookupTitle": "山水楼阁图",
+    "artworkTitle": "山水楼阁图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "li-zhaodao",
+    "painterName": "李昭道",
+    "lookupTitle": "明皇幸蜀图",
+    "artworkTitle": "明皇幸蜀图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "li-zhaodao",
+    "painterName": "李昭道",
+    "lookupTitle": "春山行旅图",
+    "artworkTitle": "春山行旅图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "wang-wei",
+    "painterName": "王维",
+    "lookupTitle": "辋川图",
+    "artworkTitle": "辋川图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "wang-wei",
+    "painterName": "王维",
+    "lookupTitle": "雪溪图",
+    "artworkTitle": "雪溪图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "han-gan",
+    "painterName": "韩干",
+    "lookupTitle": "照夜白图",
+    "artworkTitle": "照夜白图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "han-gan",
+    "painterName": "韩干",
+    "lookupTitle": "牧马图",
+    "artworkTitle": "牧马图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhou-fang",
+    "painterName": "周昉",
+    "lookupTitle": "簪花仕女图",
+    "artworkTitle": "簪花仕女图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhou-fang",
+    "painterName": "周昉",
+    "lookupTitle": "挥扇仕女图",
+    "artworkTitle": "挥扇仕女图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zhang-xuan",
+    "painterName": "张萱",
+    "lookupTitle": "虢国夫人游春图",
+    "artworkTitle": "虢国夫人游春图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zhang-xuan",
+    "painterName": "张萱",
+    "lookupTitle": "捣练图",
+    "artworkTitle": "捣练图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "gu-hongzhong",
+    "painterName": "顾闳中",
+    "lookupTitle": "韩熙载夜宴图",
+    "artworkTitle": "韩熙载夜宴图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "gu-hongzhong",
+    "painterName": "顾闳中",
+    "lookupTitle": "宫宴图卷",
+    "artworkTitle": "宫宴图卷",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "huang-quan",
+    "painterName": "黄筌",
+    "lookupTitle": "写生珍禽图",
+    "artworkTitle": "写生珍禽图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "huang-quan",
+    "painterName": "黄筌",
+    "lookupTitle": "花竹图",
+    "artworkTitle": "花竹图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "xu-xi",
+    "painterName": "徐熙",
+    "lookupTitle": "雪竹图",
+    "artworkTitle": "雪竹图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "xu-xi",
+    "painterName": "徐熙",
+    "lookupTitle": "玉堂富贵图",
+    "artworkTitle": "玉堂富贵图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jing-hao",
+    "painterName": "荆浩",
+    "lookupTitle": "匡庐图",
+    "artworkTitle": "匡庐图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jing-hao",
+    "painterName": "荆浩",
+    "lookupTitle": "笔法记",
+    "artworkTitle": "笔法记",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "guan-tong",
+    "painterName": "关仝",
+    "lookupTitle": "关山行旅图",
+    "artworkTitle": "关山行旅图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "guan-tong",
+    "painterName": "关仝",
+    "lookupTitle": "秋山晚翠图",
+    "artworkTitle": "秋山晚翠图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "dong-yuan",
+    "painterName": "董源",
+    "lookupTitle": "潇湘图",
+    "artworkTitle": "潇湘图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "dong-yuan",
+    "painterName": "董源",
+    "lookupTitle": "夏景山口待渡图",
+    "artworkTitle": "夏景山口待渡图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "juran",
+    "painterName": "巨然",
+    "lookupTitle": "层岩丛树图",
+    "artworkTitle": "层岩丛树图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "juran",
+    "painterName": "巨然",
+    "lookupTitle": "秋山问道图",
+    "artworkTitle": "秋山问道图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "li-cheng",
+    "painterName": "李成",
+    "lookupTitle": "读碑窠石图",
+    "artworkTitle": "读碑窠石图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "li-cheng",
+    "painterName": "李成",
+    "lookupTitle": "晴峦萧寺图",
+    "artworkTitle": "晴峦萧寺图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "li-gonglin",
+    "painterName": "李公麟",
+    "lookupTitle": "五马图",
+    "artworkTitle": "五马图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "li-gonglin",
+    "painterName": "李公麟",
+    "lookupTitle": "维摩演教图",
+    "artworkTitle": "维摩演教图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "mi-fu",
+    "painterName": "米芾",
+    "lookupTitle": "珊瑚帖",
+    "artworkTitle": "珊瑚帖",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "mi-fu",
+    "painterName": "米芾",
+    "lookupTitle": "多景楼诗帖",
+    "artworkTitle": "多景楼诗帖",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "mi-youren",
+    "painterName": "米友仁",
+    "lookupTitle": "潇湘奇观图",
+    "artworkTitle": "潇湘奇观图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "mi-youren",
+    "painterName": "米友仁",
+    "lookupTitle": "云山图",
+    "artworkTitle": "云山图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "emperor-huizong-of-song",
+    "painterName": "赵佶",
+    "lookupTitle": "瑞鹤图",
+    "artworkTitle": "瑞鹤图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "emperor-huizong-of-song",
+    "painterName": "赵佶",
+    "lookupTitle": "听琴图",
+    "artworkTitle": "听琴图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "ma-yuan",
+    "painterName": "马远",
+    "lookupTitle": "踏歌图",
+    "artworkTitle": "踏歌图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "ma-yuan",
+    "painterName": "马远",
+    "lookupTitle": "寒江独钓图",
+    "artworkTitle": "寒江独钓图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "xia-gui",
+    "painterName": "夏圭",
+    "lookupTitle": "溪山清远图",
+    "artworkTitle": "溪山清远图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "xia-gui",
+    "painterName": "夏圭",
+    "lookupTitle": "山水十二景",
+    "artworkTitle": "山水十二景",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "liang-kai",
+    "painterName": "梁楷",
+    "lookupTitle": "泼墨仙人图",
+    "artworkTitle": "泼墨仙人图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "liang-kai",
+    "painterName": "梁楷",
+    "lookupTitle": "六祖截竹图",
+    "artworkTitle": "六祖截竹图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "chen-rong",
+    "painterName": "陈容",
+    "lookupTitle": "九龙图",
+    "artworkTitle": "九龙图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "chen-rong",
+    "painterName": "陈容",
+    "lookupTitle": "云龙图",
+    "artworkTitle": "云龙图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "qian-xuan",
+    "painterName": "钱选",
+    "lookupTitle": "王羲之观鹅图",
+    "artworkTitle": "王羲之观鹅图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "qian-xuan",
+    "painterName": "钱选",
+    "lookupTitle": "浮玉山居图",
+    "artworkTitle": "浮玉山居图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "ni-zan",
+    "painterName": "倪瓒",
+    "lookupTitle": "容膝斋图",
+    "artworkTitle": "容膝斋图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "ni-zan",
+    "painterName": "倪瓒",
+    "lookupTitle": "渔庄秋霁图",
+    "artworkTitle": "渔庄秋霁图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "wu-zhen",
+    "painterName": "吴镇",
+    "lookupTitle": "渔父图",
+    "artworkTitle": "渔父图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "wu-zhen",
+    "painterName": "吴镇",
+    "lookupTitle": "双桧平远图",
+    "artworkTitle": "双桧平远图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "wang-meng",
+    "painterName": "王蒙",
+    "lookupTitle": "青卞隐居图",
+    "artworkTitle": "青卞隐居图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "wang-meng",
+    "painterName": "王蒙",
+    "lookupTitle": "葛稚川移居图",
+    "artworkTitle": "葛稚川移居图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "tang-di",
+    "painterName": "唐棣",
+    "lookupTitle": "携琴访友图",
+    "artworkTitle": "携琴访友图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "tang-di",
+    "painterName": "唐棣",
+    "lookupTitle": "秋林读书图",
+    "artworkTitle": "秋林读书图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "wang-shen",
+    "painterName": "王诜",
+    "lookupTitle": "烟江叠嶂图",
+    "artworkTitle": "烟江叠嶂图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "wang-shen",
+    "painterName": "王诜",
+    "lookupTitle": "渔村小雪图",
+    "artworkTitle": "渔村小雪图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "li-tang",
+    "painterName": "李唐",
+    "lookupTitle": "万壑松风图",
+    "artworkTitle": "万壑松风图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "li-tang",
+    "painterName": "李唐",
+    "lookupTitle": "采薇图",
+    "artworkTitle": "采薇图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "su-hanchen",
+    "painterName": "苏汉臣",
+    "lookupTitle": "秋庭戏婴图",
+    "artworkTitle": "秋庭戏婴图",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "su-hanchen",
+    "painterName": "苏汉臣",
+    "lookupTitle": "五瑞图",
+    "artworkTitle": "五瑞图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "masaccio",
+    "painterName": "马萨乔",
+    "lookupTitle": "圣三位一体",
+    "artworkTitle": "圣三位一体",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "masaccio",
+    "painterName": "马萨乔",
+    "lookupTitle": "逐出伊甸园",
+    "artworkTitle": "逐出伊甸园",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "fra-angelico",
+    "painterName": "安杰利科修士",
+    "lookupTitle": "天使报喜",
+    "artworkTitle": "天使报喜",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "fra-angelico",
+    "painterName": "安杰利科修士",
+    "lookupTitle": "圣马可修道院壁画",
+    "artworkTitle": "圣马可修道院壁画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "piero-della-francesca",
+    "painterName": "皮耶罗·德拉·弗朗切斯卡",
+    "lookupTitle": "基督受洗",
+    "artworkTitle": "基督受洗",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "piero-della-francesca",
+    "painterName": "皮耶罗·德拉·弗朗切斯卡",
+    "lookupTitle": "基督鞭笞",
+    "artworkTitle": "基督鞭笞",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "paolo-uccello",
+    "painterName": "保罗·乌切洛",
+    "lookupTitle": "圣罗马诺之战",
+    "artworkTitle": "圣罗马诺之战",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "paolo-uccello",
+    "painterName": "保罗·乌切洛",
+    "lookupTitle": "夜猎图",
+    "artworkTitle": "夜猎图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "andrea-mantegna",
+    "painterName": "安德烈亚·曼特尼亚",
+    "lookupTitle": "死去的基督",
+    "artworkTitle": "死去的基督",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "andrea-mantegna",
+    "painterName": "安德烈亚·曼特尼亚",
+    "lookupTitle": "婚礼室壁画",
+    "artworkTitle": "婚礼室壁画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "giovanni-bellini",
+    "painterName": "乔瓦尼·贝利尼",
+    "lookupTitle": "众神的盛宴",
+    "artworkTitle": "众神的盛宴",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "giovanni-bellini",
+    "painterName": "乔瓦尼·贝利尼",
+    "lookupTitle": "圣弗朗西斯在沙漠中",
+    "artworkTitle": "圣弗朗西斯在沙漠中",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jan-van-eyck",
+    "painterName": "扬·凡·艾克",
+    "lookupTitle": "阿尔诺芬尼夫妇像",
+    "artworkTitle": "阿尔诺芬尼夫妇像",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jan-van-eyck",
+    "painterName": "扬·凡·艾克",
+    "lookupTitle": "根特祭坛画",
+    "artworkTitle": "根特祭坛画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "albrecht-durer",
+    "painterName": "阿尔布雷希特·丢勒",
+    "lookupTitle": "兔子",
+    "artworkTitle": "兔子",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "albrecht-durer",
+    "painterName": "阿尔布雷希特·丢勒",
+    "lookupTitle": "忧郁 I",
+    "artworkTitle": "忧郁 I",
+    "explicitPageTitle": "",
+    "fileStem": "02-i"
+  },
+  {
+    "painterId": "giorgione",
+    "painterName": "乔尔乔内",
+    "lookupTitle": "暴风雨",
+    "artworkTitle": "暴风雨",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "giorgione",
+    "painterName": "乔尔乔内",
+    "lookupTitle": "沉睡的维纳斯",
+    "artworkTitle": "沉睡的维纳斯",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "correggio",
+    "painterName": "科雷乔",
+    "lookupTitle": "牧羊人朝拜",
+    "artworkTitle": "牧羊人朝拜",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "correggio",
+    "painterName": "科雷乔",
+    "lookupTitle": "木星与伊俄",
+    "artworkTitle": "木星与伊俄",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "tintoretto",
+    "painterName": "丁托列托",
+    "lookupTitle": "天堂",
+    "artworkTitle": "天堂",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "tintoretto",
+    "painterName": "丁托列托",
+    "lookupTitle": "最后的晚餐",
+    "artworkTitle": "最后的晚餐",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "el-greco",
+    "painterName": "埃尔·格列柯",
+    "lookupTitle": "奥尔加斯伯爵的葬礼",
+    "artworkTitle": "奥尔加斯伯爵的葬礼",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "el-greco",
+    "painterName": "埃尔·格列柯",
+    "lookupTitle": "拉奥孔",
+    "artworkTitle": "拉奥孔",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "hans-holbein-the-younger",
+    "painterName": "小汉斯·荷尔拜因",
+    "lookupTitle": "大使们",
+    "artworkTitle": "大使们",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "hans-holbein-the-younger",
+    "painterName": "小汉斯·荷尔拜因",
+    "lookupTitle": "亨利八世像",
+    "artworkTitle": "亨利八世像",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "perugino",
+    "painterName": "佩鲁吉诺",
+    "lookupTitle": "把钥匙交给圣彼得",
+    "artworkTitle": "把钥匙交给圣彼得",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "perugino",
+    "painterName": "佩鲁吉诺",
+    "lookupTitle": "圣塞巴斯蒂安",
+    "artworkTitle": "圣塞巴斯蒂安",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "andrea-del-verrocchio",
+    "painterName": "韦罗基奥",
+    "lookupTitle": "基督受洗",
+    "artworkTitle": "基督受洗",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "andrea-del-verrocchio",
+    "painterName": "韦罗基奥",
+    "lookupTitle": "抱花圣母",
+    "artworkTitle": "抱花圣母",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "peter-paul-rubens",
+    "painterName": "彼得·保罗·鲁本斯",
+    "lookupTitle": "劫夺留西帕斯的女儿",
+    "artworkTitle": "劫夺留西帕斯的女儿",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "peter-paul-rubens",
+    "painterName": "彼得·保罗·鲁本斯",
+    "lookupTitle": "玛丽·德·美第奇组画",
+    "artworkTitle": "玛丽·德·美第奇组画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "anthony-van-dyck",
+    "painterName": "安东尼·凡·戴克",
+    "lookupTitle": "查理一世骑马像",
+    "artworkTitle": "查理一世骑马像",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "anthony-van-dyck",
+    "painterName": "安东尼·凡·戴克",
+    "lookupTitle": "自画像",
+    "artworkTitle": "自画像",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "diego-velazquez",
+    "painterName": "迭戈·委拉斯开兹",
+    "lookupTitle": "宫娥",
+    "artworkTitle": "宫娥",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "diego-velazquez",
+    "painterName": "迭戈·委拉斯开兹",
+    "lookupTitle": "教皇英诺森十世肖像",
+    "artworkTitle": "教皇英诺森十世肖像",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "frans-hals",
+    "painterName": "弗兰斯·哈尔斯",
+    "lookupTitle": "笑骑士",
+    "artworkTitle": "笑骑士",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "frans-hals",
+    "painterName": "弗兰斯·哈尔斯",
+    "lookupTitle": "圣乔治市民卫队宴会",
+    "artworkTitle": "圣乔治市民卫队宴会",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "artemisia-gentileschi",
+    "painterName": "阿尔泰米西亚·真蒂莱斯基",
+    "lookupTitle": "朱迪斯斩杀赫罗弗尼斯",
+    "artworkTitle": "朱迪斯斩杀赫罗弗尼斯",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "artemisia-gentileschi",
+    "painterName": "阿尔泰米西亚·真蒂莱斯基",
+    "lookupTitle": "自画像作为绘画寓言",
+    "artworkTitle": "自画像作为绘画寓言",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "nicolas-poussin",
+    "painterName": "尼古拉·普桑",
+    "lookupTitle": "阿卡迪亚的牧人",
+    "artworkTitle": "阿卡迪亚的牧人",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "nicolas-poussin",
+    "painterName": "尼古拉·普桑",
+    "lookupTitle": "萨宾妇女被掳",
+    "artworkTitle": "萨宾妇女被掳",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "claude-lorrain",
+    "painterName": "克劳德·洛兰",
+    "lookupTitle": "海港日出",
+    "artworkTitle": "海港日出",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "claude-lorrain",
+    "painterName": "克劳德·洛兰",
+    "lookupTitle": "与以撒和利百加的婚礼风景",
+    "artworkTitle": "与以撒和利百加的婚礼风景",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jusepe-de-ribera",
+    "painterName": "何塞·德·里贝拉",
+    "lookupTitle": "圣巴多罗买殉难",
+    "artworkTitle": "圣巴多罗买殉难",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jusepe-de-ribera",
+    "painterName": "何塞·德·里贝拉",
+    "lookupTitle": "跛童",
+    "artworkTitle": "跛童",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "georges-de-la-tour",
+    "painterName": "乔治·德·拉·图尔",
+    "lookupTitle": "新生儿",
+    "artworkTitle": "新生儿",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "georges-de-la-tour",
+    "painterName": "乔治·德·拉·图尔",
+    "lookupTitle": "抹大拉的马利亚与夜灯",
+    "artworkTitle": "抹大拉的马利亚与夜灯",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "bartolome-esteban-murillo",
+    "painterName": "巴托洛梅·牟利罗",
+    "lookupTitle": "无原罪受胎",
+    "artworkTitle": "无原罪受胎",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "bartolome-esteban-murillo",
+    "painterName": "巴托洛梅·牟利罗",
+    "lookupTitle": "吃葡萄和甜瓜的孩子",
+    "artworkTitle": "吃葡萄和甜瓜的孩子",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "annibale-carracci",
+    "painterName": "安尼巴莱·卡拉奇",
+    "lookupTitle": "吃豆子的人",
+    "artworkTitle": "吃豆子的人",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "annibale-carracci",
+    "painterName": "安尼巴莱·卡拉奇",
+    "lookupTitle": "法尔内塞画廊壁画",
+    "artworkTitle": "法尔内塞画廊壁画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "guido-reni",
+    "painterName": "圭多·雷尼",
+    "lookupTitle": "无辜者的屠杀",
+    "artworkTitle": "无辜者的屠杀",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "guido-reni",
+    "painterName": "圭多·雷尼",
+    "lookupTitle": "阿塔兰塔与希波墨涅斯",
+    "artworkTitle": "阿塔兰塔与希波墨涅斯",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "salvator-rosa",
+    "painterName": "萨尔瓦托尔·罗萨",
+    "lookupTitle": "巫术",
+    "artworkTitle": "巫术",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "salvator-rosa",
+    "painterName": "萨尔瓦托尔·罗萨",
+    "lookupTitle": "海湾景色",
+    "artworkTitle": "海湾景色",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jan-steen",
+    "painterName": "扬·斯汀",
+    "lookupTitle": "圣尼古拉斯节",
+    "artworkTitle": "圣尼古拉斯节",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jan-steen",
+    "painterName": "扬·斯汀",
+    "lookupTitle": "欢乐家庭",
+    "artworkTitle": "欢乐家庭",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "rachel-ruysch",
+    "painterName": "拉谢尔·鲁伊施",
+    "lookupTitle": "花束静物",
+    "artworkTitle": "花束静物",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "rachel-ruysch",
+    "painterName": "拉谢尔·鲁伊施",
+    "lookupTitle": "桌上花卉",
+    "artworkTitle": "桌上花卉",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "giuseppe-arcimboldo",
+    "painterName": "朱塞佩·阿尔钦博托",
+    "lookupTitle": "四季",
+    "artworkTitle": "四季",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "giuseppe-arcimboldo",
+    "painterName": "朱塞佩·阿尔钦博托",
+    "lookupTitle": "图书管理员",
+    "artworkTitle": "图书管理员",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "william-hogarth",
+    "painterName": "威廉·霍加斯",
+    "lookupTitle": "时髦婚姻",
+    "artworkTitle": "时髦婚姻",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "william-hogarth",
+    "painterName": "威廉·霍加斯",
+    "lookupTitle": "妓女生涯",
+    "artworkTitle": "妓女生涯",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "eugene-delacroix",
+    "painterName": "欧仁·德拉克罗瓦",
+    "lookupTitle": "自由引导人民",
+    "artworkTitle": "自由引导人民",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "eugene-delacroix",
+    "painterName": "欧仁·德拉克罗瓦",
+    "lookupTitle": "萨达纳帕卢斯之死",
+    "artworkTitle": "萨达纳帕卢斯之死",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "theodore-gericault",
+    "painterName": "泰奥多尔·籍里柯",
+    "lookupTitle": "梅杜萨之筏",
+    "artworkTitle": "梅杜萨之筏",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "theodore-gericault",
+    "painterName": "泰奥多尔·籍里柯",
+    "lookupTitle": "军官猎骑图",
+    "artworkTitle": "军官猎骑图",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jean-auguste-dominique-ingres",
+    "painterName": "安格尔",
+    "lookupTitle": "大宫女",
+    "artworkTitle": "大宫女",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jean-auguste-dominique-ingres",
+    "painterName": "安格尔",
+    "lookupTitle": "土耳其浴室",
+    "artworkTitle": "土耳其浴室",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jean-francois-millet",
+    "painterName": "让-弗朗索瓦·米勒",
+    "lookupTitle": "拾穗者",
+    "artworkTitle": "拾穗者",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jean-francois-millet",
+    "painterName": "让-弗朗索瓦·米勒",
+    "lookupTitle": "晚钟",
+    "artworkTitle": "晚钟",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "gustave-courbet",
+    "painterName": "古斯塔夫·库尔贝",
+    "lookupTitle": "石工",
+    "artworkTitle": "石工",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "gustave-courbet",
+    "painterName": "古斯塔夫·库尔贝",
+    "lookupTitle": "画室",
+    "artworkTitle": "画室",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "camille-corot",
+    "painterName": "卡米耶·柯罗",
+    "lookupTitle": "莫特枫丹的回忆",
+    "artworkTitle": "莫特枫丹的回忆",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "camille-corot",
+    "painterName": "卡米耶·柯罗",
+    "lookupTitle": "蓝衣女子",
+    "artworkTitle": "蓝衣女子",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "edouard-manet",
+    "painterName": "爱德华·马奈",
+    "lookupTitle": "草地上的午餐",
+    "artworkTitle": "草地上的午餐",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "edouard-manet",
+    "painterName": "爱德华·马奈",
+    "lookupTitle": "奥林匹亚",
+    "artworkTitle": "奥林匹亚",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "edgar-degas",
+    "painterName": "埃德加·德加",
+    "lookupTitle": "舞蹈课",
+    "artworkTitle": "舞蹈课",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "edgar-degas",
+    "painterName": "埃德加·德加",
+    "lookupTitle": "苦艾酒",
+    "artworkTitle": "苦艾酒",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "berthe-morisot",
+    "painterName": "贝尔特·莫里索",
+    "lookupTitle": "摇篮",
+    "artworkTitle": "摇篮",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "berthe-morisot",
+    "painterName": "贝尔特·莫里索",
+    "lookupTitle": "夏日",
+    "artworkTitle": "夏日",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "mary-cassatt",
+    "painterName": "玛丽·卡萨特",
+    "lookupTitle": "浴后的孩子",
+    "artworkTitle": "浴后的孩子",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "mary-cassatt",
+    "painterName": "玛丽·卡萨特",
+    "lookupTitle": "蓝色扶手椅中的小女孩",
+    "artworkTitle": "蓝色扶手椅中的小女孩",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "camille-pissarro",
+    "painterName": "卡米耶·毕沙罗",
+    "lookupTitle": "蒙马特大道",
+    "artworkTitle": "蒙马特大道",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "camille-pissarro",
+    "painterName": "卡米耶·毕沙罗",
+    "lookupTitle": "红屋顶",
+    "artworkTitle": "红屋顶",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "alfred-sisley",
+    "painterName": "阿尔弗雷德·西斯莱",
+    "lookupTitle": "塞纳河畔洪水",
+    "artworkTitle": "塞纳河畔洪水",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "alfred-sisley",
+    "painterName": "阿尔弗雷德·西斯莱",
+    "lookupTitle": "卢浮西安雪景",
+    "artworkTitle": "卢浮西安雪景",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "georges-seurat",
+    "painterName": "乔治·修拉",
+    "lookupTitle": "大碗岛星期天的下午",
+    "artworkTitle": "大碗岛星期天的下午",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "georges-seurat",
+    "painterName": "乔治·修拉",
+    "lookupTitle": "马戏团",
+    "artworkTitle": "马戏团",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "paul-signac",
+    "painterName": "保罗·西涅克",
+    "lookupTitle": "马赛港口",
+    "artworkTitle": "马赛港口",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "paul-signac",
+    "painterName": "保罗·西涅克",
+    "lookupTitle": "圣特罗佩松树",
+    "artworkTitle": "圣特罗佩松树",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "james-mcneill-whistler",
+    "painterName": "詹姆斯·惠斯勒",
+    "lookupTitle": "灰与黑的安排：画家之母",
+    "artworkTitle": "灰与黑的安排：画家之母",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "james-mcneill-whistler",
+    "painterName": "詹姆斯·惠斯勒",
+    "lookupTitle": "黑与金的夜曲",
+    "artworkTitle": "黑与金的夜曲",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "edvard-munch",
+    "painterName": "爱德华·蒙克",
+    "lookupTitle": "呐喊",
+    "artworkTitle": "呐喊",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "edvard-munch",
+    "painterName": "爱德华·蒙克",
+    "lookupTitle": "病中的孩子",
+    "artworkTitle": "病中的孩子",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "amedeo-modigliani",
+    "painterName": "阿梅代奥·莫迪利阿尼",
+    "lookupTitle": "扶手椅上的裸女",
+    "artworkTitle": "扶手椅上的裸女",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "amedeo-modigliani",
+    "painterName": "阿梅代奥·莫迪利阿尼",
+    "lookupTitle": "珍妮·艾布特恩像",
+    "artworkTitle": "珍妮·艾布特恩像",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "kazimir-malevich",
+    "painterName": "卡济米尔·马列维奇",
+    "lookupTitle": "黑方块",
+    "artworkTitle": "黑方块",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "kazimir-malevich",
+    "painterName": "卡济米尔·马列维奇",
+    "lookupTitle": "白上之白",
+    "artworkTitle": "白上之白",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "piet-mondrian",
+    "painterName": "皮特·蒙德里安",
+    "lookupTitle": "百老汇爵士乐",
+    "artworkTitle": "百老汇爵士乐",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "piet-mondrian",
+    "painterName": "皮特·蒙德里安",
+    "lookupTitle": "红黄蓝构成",
+    "artworkTitle": "红黄蓝构成",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "paul-klee",
+    "painterName": "保罗·克利",
+    "lookupTitle": "推拿索斯山",
+    "artworkTitle": "推拿索斯山",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "paul-klee",
+    "painterName": "保罗·克利",
+    "lookupTitle": "金鱼",
+    "artworkTitle": "金鱼",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "egon-schiele",
+    "painterName": "埃贡·席勒",
+    "lookupTitle": "抱膝的自画像",
+    "artworkTitle": "抱膝的自画像",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "egon-schiele",
+    "painterName": "埃贡·席勒",
+    "lookupTitle": "死神与少女",
+    "artworkTitle": "死神与少女",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "joan-miro",
+    "painterName": "胡安·米罗",
+    "lookupTitle": "哈勒昆的狂欢",
+    "artworkTitle": "哈勒昆的狂欢",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "joan-miro",
+    "painterName": "胡安·米罗",
+    "lookupTitle": "蓝色三联作",
+    "artworkTitle": "蓝色三联作",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "marc-chagall",
+    "painterName": "马克·夏加尔",
+    "lookupTitle": "我与村庄",
+    "artworkTitle": "我与村庄",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "marc-chagall",
+    "painterName": "马克·夏加尔",
+    "lookupTitle": "生日",
+    "artworkTitle": "生日",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "edward-hopper",
+    "painterName": "爱德华·霍普",
+    "lookupTitle": "夜游者",
+    "artworkTitle": "夜游者",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "edward-hopper",
+    "painterName": "爱德华·霍普",
+    "lookupTitle": "早晨的阳光",
+    "artworkTitle": "早晨的阳光",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "fernand-leger",
+    "painterName": "费尔南·莱热",
+    "lookupTitle": "城市",
+    "artworkTitle": "城市",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "fernand-leger",
+    "painterName": "费尔南·莱热",
+    "lookupTitle": "三个女人",
+    "artworkTitle": "三个女人",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jackson-pollock",
+    "painterName": "杰克逊·波洛克",
+    "lookupTitle": "秋韵",
+    "artworkTitle": "秋韵",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jackson-pollock",
+    "painterName": "杰克逊·波洛克",
+    "lookupTitle": "第 5 号",
+    "artworkTitle": "第 5 号",
+    "explicitPageTitle": "",
+    "fileStem": "02-5"
+  },
+  {
+    "painterId": "willem-de-kooning",
+    "painterName": "威廉·德·库宁",
+    "lookupTitle": "女人 I",
+    "artworkTitle": "女人 I",
+    "explicitPageTitle": "",
+    "fileStem": "01-i"
+  },
+  {
+    "painterId": "willem-de-kooning",
+    "painterName": "威廉·德·库宁",
+    "lookupTitle": "挖掘",
+    "artworkTitle": "挖掘",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "mark-rothko",
+    "painterName": "马克·罗斯科",
+    "lookupTitle": "橙与黄",
+    "artworkTitle": "橙与黄",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "mark-rothko",
+    "painterName": "马克·罗斯科",
+    "lookupTitle": "罗斯科礼拜堂组画",
+    "artworkTitle": "罗斯科礼拜堂组画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "francis-bacon",
+    "painterName": "弗朗西斯·培根",
+    "lookupTitle": "教皇英诺森十世后的习作",
+    "artworkTitle": "教皇英诺森十世后的习作",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "francis-bacon",
+    "painterName": "弗朗西斯·培根",
+    "lookupTitle": "三联画",
+    "artworkTitle": "三联画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "lucian-freud",
+    "painterName": "卢西安·弗洛伊德",
+    "lookupTitle": "睡着的救济金管理员",
+    "artworkTitle": "睡着的救济金管理员",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "lucian-freud",
+    "painterName": "卢西安·弗洛伊德",
+    "lookupTitle": "艺术家的母亲",
+    "artworkTitle": "艺术家的母亲",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "andy-warhol",
+    "painterName": "安迪·沃霍尔",
+    "lookupTitle": "金宝汤罐头",
+    "artworkTitle": "金宝汤罐头",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "andy-warhol",
+    "painterName": "安迪·沃霍尔",
+    "lookupTitle": "玛丽莲双联画",
+    "artworkTitle": "玛丽莲双联画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "roy-lichtenstein",
+    "painterName": "罗伊·利希滕斯坦",
+    "lookupTitle": "Whaam!",
+    "artworkTitle": "Whaam!",
+    "explicitPageTitle": "",
+    "fileStem": "01-whaam"
+  },
+  {
+    "painterId": "roy-lichtenstein",
+    "painterName": "罗伊·利希滕斯坦",
+    "lookupTitle": "沉睡的女孩",
+    "artworkTitle": "沉睡的女孩",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "gerhard-richter",
+    "painterName": "格哈德·里希特",
+    "lookupTitle": "贝蒂",
+    "artworkTitle": "贝蒂",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "gerhard-richter",
+    "painterName": "格哈德·里希特",
+    "lookupTitle": "抽象画 809-4",
+    "artworkTitle": "抽象画 809-4",
+    "explicitPageTitle": "",
+    "fileStem": "02-809-4"
+  },
+  {
+    "painterId": "cy-twombly",
+    "painterName": "赛·托姆布雷",
+    "lookupTitle": "勒达与天鹅",
+    "artworkTitle": "勒达与天鹅",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "cy-twombly",
+    "painterName": "赛·托姆布雷",
+    "lookupTitle": "无题黑板画",
+    "artworkTitle": "无题黑板画",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "jean-michel-basquiat",
+    "painterName": "让-米歇尔·巴斯奎特",
+    "lookupTitle": "无题（头骨）",
+    "artworkTitle": "无题（头骨）",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "jean-michel-basquiat",
+    "painterName": "让-米歇尔·巴斯奎特",
+    "lookupTitle": "角斗士",
+    "artworkTitle": "角斗士",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "yoshitomo-nara",
+    "painterName": "奈良美智",
+    "lookupTitle": "刀背后的女孩",
+    "artworkTitle": "刀背后的女孩",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "yoshitomo-nara",
+    "painterName": "奈良美智",
+    "lookupTitle": "梦游室",
+    "artworkTitle": "梦游室",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "takashi-murakami",
+    "painterName": "村上隆",
+    "lookupTitle": "727",
+    "artworkTitle": "727",
+    "explicitPageTitle": "",
+    "fileStem": "01-727"
+  },
+  {
+    "painterId": "takashi-murakami",
+    "painterName": "村上隆",
+    "lookupTitle": "花球",
+    "artworkTitle": "花球",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "zeng-fanzhi",
+    "painterName": "曾梵志",
+    "lookupTitle": "面具系列",
+    "artworkTitle": "面具系列",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "zeng-fanzhi",
+    "painterName": "曾梵志",
+    "lookupTitle": "最后的晚餐",
+    "artworkTitle": "最后的晚餐",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "liu-xiaodong",
+    "painterName": "刘小东",
+    "lookupTitle": "三峡移民",
+    "artworkTitle": "三峡移民",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "liu-xiaodong",
+    "painterName": "刘小东",
+    "lookupTitle": "温床",
+    "artworkTitle": "温床",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "liu-ye",
+    "painterName": "刘野",
+    "lookupTitle": "北京圣母",
+    "artworkTitle": "北京圣母",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "liu-ye",
+    "painterName": "刘野",
+    "lookupTitle": "蓝衣人",
+    "artworkTitle": "蓝衣人",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  },
+  {
+    "painterId": "cecily-brown",
+    "painterName": "塞西莉·布朗",
+    "lookupTitle": "The Girl Who Had Everything",
+    "artworkTitle": "The Girl Who Had Everything",
+    "explicitPageTitle": "",
+    "fileStem": "01-the-girl-who-had-everything"
+  },
+  {
+    "painterId": "cecily-brown",
+    "painterName": "塞西莉·布朗",
+    "lookupTitle": "Saboteur Four Times",
+    "artworkTitle": "Saboteur Four Times",
+    "explicitPageTitle": "",
+    "fileStem": "02-saboteur-four-times"
+  },
+  {
+    "painterId": "peter-doig",
+    "painterName": "彼得·多伊格",
+    "lookupTitle": "白独木舟",
+    "artworkTitle": "白独木舟",
+    "explicitPageTitle": "",
+    "fileStem": "01-work-1"
+  },
+  {
+    "painterId": "peter-doig",
+    "painterName": "彼得·多伊格",
+    "lookupTitle": "沼泽中的建筑",
+    "artworkTitle": "沼泽中的建筑",
+    "explicitPageTitle": "",
+    "fileStem": "02-work-2"
+  }
+]

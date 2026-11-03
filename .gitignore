@@ -13,6 +13,8 @@ assets/artworks/
 tmp/artwork-cache-runner.log
 tmp/artwork-cache-runner.out
 tmp/meshy-test/
+sites/yuexing-dashboard-rebuild-preview/dashboard-view-data.json
+sites/yuexing-dashboard-rebuild-preview/dashboard-view-data.json.gz
 design-workbench/__pycache__/
 panel-chat/__pycache__/
 scripts/__pycache__/
